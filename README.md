@@ -1,2 +1,2 @@
 # Rhythm Heaven Resources Pack
-This Repository contains and includes identified Fonts &amp; HQ Logos I recreated from the Rhythm Heaven Series.
+This Repository contains and includes identified Fonts, HQ Assets, recreated Logos, and Custom Assets from the Rhythm Heaven Series.
