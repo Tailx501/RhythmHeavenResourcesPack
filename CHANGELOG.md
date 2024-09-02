@@ -206,4 +206,9 @@
 
 09/02/2024:
 - Changed this Folder name to "Rhythm Heaven Resources Pack".
-- Added identified Rhhythm Heaven Fonts in "Fonts".
+- Added identified Rhythm Heaven Fonts in "Fonts".
+- Fixed Typo in line 209
+- Added the Rhythm Discord Custom Logo in "Custom Logos". (Credit: iomkr)
+- Added the rhythm heaven gigamix shadow in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
+- Added the O Paraíso do Ritmo logo in "Custom Logos". (Credit: iomkr)
+- Added the RH Ultra And Craft logos in "Custom Logos". (Credit: iomkr)
