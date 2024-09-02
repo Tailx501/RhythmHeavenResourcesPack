@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="666.66669"
+   height="647.112"
+   viewBox="0 0 666.66669 647.112"
+   sodipodi:docname="Skill Star.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,485.334 H 500 V 0 H 0 Z"
+         id="path14" />
+    </clipPath>
+    <linearGradient
+       x1="0"
+       y1="0"
+       x2="1"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(149.98631,-412.08401,-412.08401,-149.98631,193.6521,431.16312)"
+       spreadMethod="pad"
+       id="linearGradient48">
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0"
+         id="stop38" />
+      <stop
+         style="stop-opacity:1;stop-color:#ffffff"
+         offset="0.2"
+         id="stop40" />
+      <stop
+         style="stop-opacity:1;stop-color:#f0c01a"
+         offset="0.40634967"
+         id="stop42" />
+      <stop
+         style="stop-opacity:1;stop-color:#f0c01a"
+         offset="0.48"
+         id="stop44" />
+      <stop
+         style="stop-opacity:1;stop-color:#f0c01a"
+         offset="1"
+         id="stop46" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="Skill Star"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,647.112)">
+    <g
+       id="g10">
+      <g
+         id="g12"
+         clip-path="url(#clipPath16)">
+        <g
+           id="g18"
+           transform="translate(498.3216,302.4979)">
+          <path
+             d="m 0,0 c -3.972,12.117 -14.453,20.946 -27.068,22.808 l -131.893,19.471 -59.083,121.605 c -5.631,11.593 -17.388,18.952 -30.278,18.952 -12.889,0 -24.646,-7.359 -30.279,-18.952 L -337.68,42.279 -469.574,22.808 C -482.19,20.946 -492.671,12.117 -496.644,0 c -3.974,-12.117 -0.76,-25.44 8.301,-34.413 l 95.751,-94.811 -22.627,-134.007 c -2.137,-12.658 3.112,-25.429 13.531,-32.928 5.841,-4.204 12.737,-6.339 19.666,-6.339 5.43,0 10.879,1.311 15.854,3.968 l 117.846,62.936 117.845,-62.936 c 11.317,-6.044 25.104,-5.128 35.519,2.371 10.419,7.499 15.667,20.27 13.532,32.928 l -22.624,134.007 95.75,94.811 C 0.762,-25.44 3.976,-12.119 0,0"
+             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" />
+        </g>
+        <g
+           id="g22"
+           transform="translate(383.7028,33.6614)">
+          <path
+             d="M 0,0 -133.703,71.405 -267.407,0 l 25.535,151.238 -108.168,107.107 149.485,22.065 66.852,137.6 66.851,-137.6 L 82.633,258.345 -25.535,151.238 Z"
+             style="fill:#efa500;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path24" />
+        </g>
+      </g>
+    </g>
+    <g
+       id="g26">
+      <g
+         id="g28">
+        <g
+           id="g34">
+          <g
+             id="g36">
+            <path
+               d="M 249.999,451.672 183.147,314.071 33.663,292.006 141.831,184.899 140.12,174.763 463.422,292.436 316.851,314.071 250,451.672 Z"
+               style="fill:url(#linearGradient48);stroke:none"
+               id="path50" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
