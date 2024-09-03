@@ -212,3 +212,7 @@
 - Added the rhythm heaven gigamix shadow in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
 - Added the O Paraíso do Ritmo logo in "Custom Logos". (Credit: iomkr)
 - Added the RH Ultra And Craft logos in "Custom Logos". (Credit: iomkr)
+
+09/03/2024:
+- Added the קצב גן עדן logo in "Custom Logos". (Credit: iomkr)
+- Added the Rhythm Heaven Logo but Wii in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
