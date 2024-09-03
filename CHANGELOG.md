@@ -217,3 +217,4 @@
 - Added the Rhythm Heaven Logo but Wii in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
 - Improved the Gradient for the Rhythm World Wii Logo in "Icons" and "Rhythm Heaven Fever".
 - Added more identified Rhythm Heaven Fonts in "Fonts".
+- Added the RHwiki logo in "Custom Logos".
