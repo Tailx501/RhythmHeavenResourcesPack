@@ -219,3 +219,6 @@
 - Improved the Gradient for the Rhythm World Wii Logo in "Icons" and "Rhythm Heaven Fever".
 - Added more identified Rhythm Heaven Fonts in "Fonts".
 - Added the Rhythm Heaven Wiki Logo in "Rhythm Heaven Wiki".
+
+09/10/2024:
+- Added a strange VS icon in "Icons". (Credit: iomkr)
