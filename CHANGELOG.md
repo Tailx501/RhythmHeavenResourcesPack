@@ -222,3 +222,6 @@
 
 09/10/2024:
 - Added a strange VS icon in "Icons". (Credit: iomkr)
+
+09/20/2024:
+- Added more Fonts in "Fonts".
