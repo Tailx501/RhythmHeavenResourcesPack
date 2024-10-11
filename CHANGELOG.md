@@ -225,3 +225,6 @@
 
 09/20/2024:
 - Added more Fonts in "Fonts".
+
+10/11/2024:
+- Added the Heaven Rhythm logo in "Custom Logos". (Credit: iomkr)
