@@ -227,4 +227,4 @@
 - Added more Fonts in "Fonts".
 
 10/11/2024:
-- Added the Heaven Rhythm logo in "Custom Logos". (Credit: iomkr)
+- Added Heaven Rhythm in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
