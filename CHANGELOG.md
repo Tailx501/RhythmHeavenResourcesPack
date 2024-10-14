@@ -228,3 +228,6 @@
 
 10/11/2024:
 - Added Heaven Rhythm in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
+
+10/14/2024:
+- Added the Vertical variant of the Minna no Rhythm Tengoku Complete Music Collection Logo in "Rhythm Tengoku Complete Music Collection".
