@@ -231,3 +231,6 @@
 
 10/14/2024:
 - Added the Vertical variant of the Minna no Rhythm Tengoku Complete Music Collection Logo in "Rhythm Tengoku Complete Music Collection".
+
+10/18/2024:
+- Modified the Rhythm World: The Best+ More Of The Best Logos in "Icons" and "Rhythm Heaven Re-Megamix".
