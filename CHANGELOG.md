@@ -228,3 +228,6 @@
 
 10/11/2024:
 - Added Heaven Rhythm in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
+
+10/20/2024:
+- Added the Rhythm Hell logo in "Custom Logos". (Credit: iomkr)
