@@ -229,5 +229,11 @@
 10/11/2024:
 - Added Heaven Rhythm in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
 
+10/14/2024:
+- Added the Vertical variant of the Minna no Rhythm Tengoku Complete Music Collection Logo in "Rhythm Tengoku Complete Music Collection".
+
+10/18/2024:
+- Modified the Rhythm World: The Best+ More Of The Best Logos in "Icons" and "Rhythm Heaven Re-Megamix".
+
 10/20/2024:
 - Added the Rhythm Hell logo in "Custom Logos". (Credit: iomkr)
