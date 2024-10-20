@@ -237,3 +237,4 @@
 
 10/20/2024:
 - Added the Rhythm Hell logo in "Custom Logos". (Credit: iomkr)
+- Added Something I found on my laptop in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
