@@ -221,7 +221,7 @@
 - Added the Rhythm Heaven Wiki Logo in "Rhythm Heaven Wiki".
 
 09/10/2024:
-- Added a strange VS icon in "Icons". (Credit: iomkr)
+- Added a strange VS Icon in "Icons". (Credit: iomkr)
 
 09/20/2024:
 - Added more Fonts in "Fonts".
