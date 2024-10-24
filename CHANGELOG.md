@@ -237,7 +237,7 @@
 
 10/20/2024:
 - Added the Rhythm Hell Logo in "Custom Logos". (Credit: iomkr)
-- Added Something I found on my laptop in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
+- Added idk in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
 
 10/24/2024:
 - Modified the Vertical variant of the Minna no Rhythm Tengoku Complete Music Collection Logo in "Rhythm Tengoku Complete Music Collection".
