@@ -209,11 +209,11 @@
 - Added identified Rhythm Heaven Fonts in "Fonts".
 - Added the Rhythm Discord Custom Logo in "Custom Logos". (Credit: iomkr)
 - Added the rhythm heaven gigamix shadow in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
-- Added the O Paraíso do Ritmo logo in "Custom Logos". (Credit: iomkr)
-- Added the RH Ultra And Craft logos in "Custom Logos". (Credit: iomkr)
+- Added the O Paraíso do Ritmo Logo in "Custom Logos". (Credit: iomkr)
+- Added the RH Ultra And Craft Logos in "Custom Logos". (Credit: iomkr)
 
 09/03/2024:
-- Added the קצב גן עדן logo in "Custom Logos". (Credit: iomkr)
+- Added the קצב גן עדן Logo in "Custom Logos". (Credit: iomkr)
 - Added the Me Remixes_iguess Logo in "Custom Logos". (Credit: Deni_iguess)
 - Added the Rhythm Heaven Logo but Wii in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
 - Improved the Gradient for the Rhythm World Wii Logo in "Icons" and "Rhythm Heaven Fever".
@@ -236,5 +236,8 @@
 - Modified the Rhythm World: The Best+ More Of The Best Logos in "Icons" and "Rhythm Heaven Re-Megamix".
 
 10/20/2024:
-- Added the Rhythm Hell logo in "Custom Logos". (Credit: iomkr)
+- Added the Rhythm Hell Logo in "Custom Logos". (Credit: iomkr)
 - Added Something I found on my laptop in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
+
+10/24/2024:
+- Modified the Vertical variant of the Minna no Rhythm Tengoku Complete Music Collection Logo in "Rhythm Tengoku Complete Music Collection".
