@@ -241,3 +241,6 @@
 
 10/24/2024:
 - Modified the Vertical variant of the Minna no Rhythm Tengoku Complete Music Collection Logo in "Rhythm Tengoku Complete Music Collection".
+
+10/28/2024:
+- Added more Ligatures for the modified Kurokane Font in "Fonts".
