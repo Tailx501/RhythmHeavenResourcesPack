@@ -244,3 +244,6 @@
 
 10/28/2024:
 - Added more Ligatures for the modified Kurokane Font in "Fonts".
+
+10/29/2024:
+- Added few more Ligatures for the modified Kurokane Font in "Fonts".
