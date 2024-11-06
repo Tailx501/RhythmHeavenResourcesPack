@@ -143,7 +143,7 @@
 - Added the Rhythm World: The Best+ Thumbnails in "Thumbnails".
 
 07/29/2024:
-- Added the Paradis du Rythm Mégamix Logo in "Custom Logos".
+- Added the Paradis du Rythme Mégamix Logo in "Custom Logos".
 - Added the Rhythm Heaven Fever Repainted Remake Logo in "Custom Logos".
 - Modified the RH Modding Logo in "Custom Logos".
 - Modified the Rhythm Heaven Reanimated Remake Logo in "Custom Logos".
@@ -247,3 +247,6 @@
 
 10/29/2024:
 - Added few more Ligatures for the modified Kurokane Font in "Fonts".
+
+11/06/2024:
+- Corrected "Rythm" to "Rythme" for Paradis du Rythme Mégamix Logo in "Custom Logos".
