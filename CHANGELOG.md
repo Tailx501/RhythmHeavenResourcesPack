@@ -249,4 +249,4 @@
 - Added few more Ligatures for the modified Kurokane Font in "Fonts".
 
 11/06/2024:
-- Corrected "Rythm" to "Rythme" for Paradis du Rythme Mégamix Logo in "Custom Logos".
+- Corrected "Rythm" to "Rythme" for the Paradis du Rythme Mégamix Logo in "Custom Logos".
