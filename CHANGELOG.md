@@ -250,3 +250,6 @@
 
 11/06/2024:
 - Corrected "Rythm" to "Rythme" for the Paradis du Rythme Mégamix Logo in "Custom Logos".
+
+11/10/2024:
+- Added the Paradis du Rythme Mégamix Icon in "Icons".
