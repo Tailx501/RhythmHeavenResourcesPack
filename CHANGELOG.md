@@ -253,3 +253,6 @@
 
 11/10/2024:
 - Added the Paradis du Rythme Mégamix Icon in "Icons".
+
+12/12/2024:
+- Updated the Kurokane Font and removed the CP Font in "Fonts".
