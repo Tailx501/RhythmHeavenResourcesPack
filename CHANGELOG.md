@@ -256,3 +256,6 @@
 
 12/12/2024:
 - Updated the Kurokane Font and removed the CP Font in "Fonts".
+
+12/24/2024:
+- Renamed Tebri Heads to Tibby Heads to remove confusion to someone who doesn't know the original name.
