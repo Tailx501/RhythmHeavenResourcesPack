@@ -263,5 +263,5 @@
 12/30/2024:
 - Modified the modified Kurokane Font in "Fonts".
 
-1/19/2025:
+01/19/2025:
 - Added New Cinema A in "Fonts". (Credit: iomkr)
