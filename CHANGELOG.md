@@ -265,3 +265,6 @@
 
 01/19/2025:
 - Added New Cinema A in "Fonts". (Credit: iomkr)
+
+01/26/2025:
+- Added Joystix in "Fonts".
