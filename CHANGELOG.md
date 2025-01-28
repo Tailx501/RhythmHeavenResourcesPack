@@ -268,3 +268,6 @@
 
 01/26/2025:
 - Added Joystix in "Fonts".
+
+01/27/2025:
+- Added more Fonts in "Fonts".
