@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
    width="2560"
    height="1440"
    viewBox="0 0 2560 1440"
    sodipodi:docname="Rhythm World The Best+ (리듬 세상 더・베스트＋).svg"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata54985">
     <rdf:RDF>
@@ -14610,15 +14610,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="0.32777778"
-     inkscape:cx="577.87062"
-     inkscape:cy="555.89339"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:zoom="5.2444445"
+     inkscape:cx="1832.5106"
+     inkscape:cy="762.3305"
+     inkscape:window-width="2560"
+     inkscape:window-height="1404"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g8" />
+     inkscape:current-layer="g31260" />
   <g
      id="g8"
      inkscape:groupmode="layer"
@@ -58423,9 +58423,10 @@
            id="g31274"
            transform="translate(1379.5568,499.1879)">
           <path
-             d="M 0,0 22.117,4.701 21.664,-0.566 -0.453,-5.267 Z m 32.678,0.241 0.702,8.181 7.644,3.074 0.558,6.505 -59.444,-12.635 -0.559,-6.505 7.389,0.121 -0.702,-8.181 -9.388,-3.238 -0.559,-6.505 62.971,13.384 0.559,6.506 z m 15.999,-8.013 -78.408,-16.666 -0.667,-7.771 78.407,16.666 z m -10.748,-36.911 -0.675,-7.861 -51.706,-10.99 c -5.724,-1.217 -7.692,-0.062 -7.399,3.342 l 0.406,4.735 c 0.127,1.476 -0.033,1.822 -1.767,1.453 l -1.508,-0.32 0.61,7.101 47.879,10.177 0.373,4.339 -46.359,-9.854 0.727,8.461 57.791,12.241 c 1.35,0.286 2.375,-0.277 2.229,-1.982 l -1.212,-14.108 c -0.068,-0.791 -1.316,-2.798 -2.667,-3.085 l -40.978,-8.71 -0.38,-4.426 z"
-             style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path31276" />
+             d="M 6.2771401e-4,7.3999357e-4 22.118443,4.701683 21.664207,-0.56638349 -0.45360863,-5.2673267 Z M 32.568566,-1.0259954 l 0.938039,10.9258623 7.517746,1.5965471 0.55906,6.504449 -59.445829,-12.6352961 -0.55906,-6.5044494 7.515058,1.59654663 -0.935351,-10.92317513 -9.280935,-1.972837 -0.556372,-6.504449 62.966832,13.3851891 0.55906,6.50713741 z m 16.10792,-6.7463507 -78.40818,-16.6669799 -0.666572,-7.76771 78.40818,16.664292 z M 37.928018,-44.683753 37.253383,-52.545535 -14.451614,-63.535904 c -5.72499,-1.214881 -7.692452,-0.05913 -7.399483,3.343609 l 0.405856,4.733196 c 0.126326,1.478284 -0.03225,1.825009 -1.768565,1.454094 l -1.505162,-0.319847 0.60744,7.101139 47.880274,10.178657 0.370915,4.338091 -46.358985,-9.853434 0.728391,8.458472 57.792838,12.242879 c 1.34927,0.287593 2.376006,-0.276843 2.228177,-1.980901 L 37.31789,-37.948153 c -0.06988,-0.792898 -1.314329,-2.797989 -2.666287,-3.08827 l -40.9780306,-8.708436 -0.3816661,-4.424101 z"
+             style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.68779"
+             id="path16105-3"
+             inkscape:label="path31276" />
         </g>
         <g
            id="g31278"
