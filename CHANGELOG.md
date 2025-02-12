@@ -277,3 +277,6 @@
 
 02/10/2025:
 - Tweaked all of the Rhythm World: The Best+ related Logos in this Folder.
+
+02/12/2025:
+- Added more and removed some Fonts in "Fonts".
