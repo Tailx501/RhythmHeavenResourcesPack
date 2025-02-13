@@ -282,4 +282,4 @@
 - Added more and removed some Fonts in "Fonts".
 
 02/13/2025:
-- Added more Fonts in "Fonts".
+- Added more and removed some Fonts in "Fonts".
