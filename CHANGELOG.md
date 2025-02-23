@@ -178,7 +178,7 @@
 - Modified the Rhythm World: The Best+ More Of The Best Logos in "Icons" and "Rhythm Heaven Re-Megamix".
 
 08/19/2024:
-- Improved the Gradient for the Minna no Rhythm Tengoku Logo in "Icons" and "Rhythm Heaven Fever".
+- Improved the Gradients for the Minna no Rhythm Tengoku Logo in "Icons" and "Rhythm Heaven Fever".
 
 08/20/2024:
 - Modified the Rhythm Heaven Icon in "Icons" and "Rhythm Heaven".
@@ -216,7 +216,7 @@
 - Added the קצב גן עדן Logo in "Custom Logos". (Credit: iomkr)
 - Added the Me Remixes_iguess Logo in "Custom Logos". (Credit: Deni_iguess)
 - Added the Rhythm Heaven Logo but Wii in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
-- Improved the Gradient for the Rhythm World Wii Logo in "Icons" and "Rhythm Heaven Fever".
+- Improved the Gradients for the Rhythm World Wii Logo in "Icons" and "Rhythm Heaven Fever".
 - Added more identified Rhythm Heaven Fonts in "Fonts".
 - Added the Rhythm Heaven Wiki Logo in "Rhythm Heaven Wiki".
 
@@ -286,3 +286,6 @@
 
 02/22/2025:
 - Added more Fonts in "Fonts".
+
+02/23/2025:
+- Tweaked the Fever Style Gradients for SVG formats.
