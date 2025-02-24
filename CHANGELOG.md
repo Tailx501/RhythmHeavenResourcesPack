@@ -289,3 +289,4 @@
 
 02/23/2025:
 - Tweaked the Fever Style Gradients for SVG formats.
+- Added more Fonts in "Fonts".
