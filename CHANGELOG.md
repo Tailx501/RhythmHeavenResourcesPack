@@ -288,5 +288,5 @@
 - Added more Fonts in "Fonts".
 
 02/23/2025:
-- Tweaked the Fever Style Gradients for SVG formats.
+- Tweaked the Gradients for all Fever Style related Logos in this Folder.
 - Added more Fonts in "Fonts".
