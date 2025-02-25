@@ -290,3 +290,6 @@
 02/23/2025:
 - Tweaked the Gradients for all Fever Style related Logos in this Folder.
 - Added more Fonts in "Fonts".
+
+02/25/2025:
+- Modified the SVG file for the Minna no Rhythm Tengoku Complete Music Collection Logo in "Rhythm Tengoku Complete Music Collection".
