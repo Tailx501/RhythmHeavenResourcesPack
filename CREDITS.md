@@ -4,10 +4,6 @@ Custom Logos:
 - iomkr: RH Craft/Rh Ultra/Rhythm Discord/Rhythm Hell/קצב גן עדן
 - ZAZiOs: Ритм Небес
 
-Funny, Unique, & Cursed Rhythm Heaven Logos:
-- AstrlJelly: Hnevea Sudtio
-- iomkr: HR/idk/rhythm heaven gigamix shadow/Rhythm Heaven Logo but Wii
-
 Fonts:
 - ButlermationsArt: Rhythm Heaven Ringside Font
 - EpicHaxGuy: Go For A Perfect
@@ -17,6 +13,13 @@ Fonts:
 - QDFontsPuzzlyGames: WarioWare Inc BWWDN/WarioWare Inc v2/WarioWare MPG/WarioWareIncV2-Medium/WarioWareV2
 - Suho1004man: Finding the original Rhythm World Font
 - フマジメ: WarioWareIncMerge
+
+Funny, Unique, & Cursed Rhythm Heaven Logos:
+- AstrlJelly: Hnevea Sudtio
+- iomkr: HR/idk/rhythm heaven gigamix shadow/Rhythm Heaven Logo but Wii
+
+Go for a Perfect!:
+- vincells: Originally upscaled the "Go for a Perfect!" Wordmark in high quality.
 
 Icons:
 - iomkr: VS

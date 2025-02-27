@@ -296,3 +296,6 @@
 - Modified the SVG file for the Minna no Rhythm Tengoku Complete Music Collection Logo in "Rhythm Tengoku Complete Music Collection".
 - Renamed some files in "Thumbnails".
 - Added "CREDITS" in this Folder.
+
+02/27/2025:
+- Added more Fonts in "Fonts".
