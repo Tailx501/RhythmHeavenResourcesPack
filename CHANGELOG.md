@@ -299,3 +299,6 @@
 
 02/27/2025:
 - Added more Fonts in "Fonts".
+
+03/04/2025:
+- Added the Rhythm Heaven Fever HD Logo in "Custom Logos". (Credit: Borists/Tudor_0)

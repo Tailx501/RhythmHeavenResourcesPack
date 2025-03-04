@@ -1,6 +1,7 @@
 The following is a list of users that was credited and mentioned in this Resources Pack.
 
 Custom Logos:
+- Borists/Tudor_0: Designed the Rhythm Heaven Fever HD Logo
 - iomkr: RH Craft/Rh Ultra/Rhythm Discord/Rhythm Hell/קצב גן עדן
 - ZAZiOs: Ритм Небес
 
@@ -11,7 +12,7 @@ Fonts:
 - Kitty42777: WarioWare Original
 - MatthewThePrep: About Friend (Kurokane)
 - QDFontsPuzzlyGames: WarioWare Inc BWWDN/WarioWare Inc v2/WarioWare MPG/WarioWareIncV2-Medium/WarioWareV2
-- Suho1004man: Finding the original Rhythm World Font
+- Suho1004man: Found two original Rhythm World Font
 - フマジメ: WarioWareIncMerge
 
 Funny, Unique, & Cursed Rhythm Heaven Logos:
