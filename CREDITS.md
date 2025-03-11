@@ -22,6 +22,9 @@ Funny, Unique, & Cursed Rhythm Heaven Logos:
 Go for a Perfect!:
 - vincells: Originally upscaled the "Go for a Perfect!" Wordmark in high quality.
 
+Heaven Studio:
+- OctaHeart: Designed the Heaven Studio Logo
+
 Icons:
 - iomkr: VS
 

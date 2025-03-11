@@ -302,3 +302,6 @@
 
 03/04/2025:
 - Added the Rhythm Heaven Fever HD Logo in "Custom Logos". (Credit: Borists/Tudor_0)
+
+03/11/2025:
+- Added Lion of the tribe in "Fonts".
