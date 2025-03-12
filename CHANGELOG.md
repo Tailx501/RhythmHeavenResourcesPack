@@ -305,3 +305,6 @@
 
 03/11/2025:
 - Added Lion of the tribe in "Fonts".
+
+03/12/2025:
+- Added Humming and Golden Bridge Sans in "Fonts".
