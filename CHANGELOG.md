@@ -307,4 +307,4 @@
 - Added Lion of the tribe in "Fonts".
 
 03/12/2025:
-- Added Humming and Golden Bridge Sans in "Fonts".
+- Added Hourei, Humming, Golden Bridge Sans, and hgrpp1 in "Fonts".
