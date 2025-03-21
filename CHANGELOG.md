@@ -309,5 +309,8 @@
 03/12/2025:
 - Added Hourei, Humming, Golden Bridge Sans, and hgrpp1 in "Fonts".
 
-03/20/2025
+03/20/2025:
 - Added the Rhythm Crossing Logo in "Custom Logos". (Credit: iomkr)
+
+03/21/2025:
+- Added Helvetica Bold in "Fonts".
