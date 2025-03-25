@@ -314,3 +314,7 @@
 
 03/21/2025:
 - Added Helvetica Bold in "Fonts".
+
+03/25/2025:
+- Added Amasis MT Italic and irjadid in "Fonts".
+- Added "FONTLIST" in this Folder. (Work In Progress)
