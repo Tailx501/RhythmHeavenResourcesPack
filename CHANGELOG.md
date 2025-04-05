@@ -318,3 +318,9 @@
 03/25/2025:
 - Added Amasis MT Italic and irjadid in "Fonts".
 - Added "FONTLIST" in this Folder. (Work In Progress)
+
+04/05/2025:
+- Added the Rhythm Cheonguk Logo in "Custom Logos".
+- Added the Rhythm Cheonguk Wii Logo in "Custom Logos".
+- Added the Rhythm Cheonguk The Best+ Logo in "Custom Logos".
+- Added "Rhythm Heaven Groove" in this Folder.
