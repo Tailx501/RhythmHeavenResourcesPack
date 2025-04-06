@@ -323,4 +323,5 @@
 - Added the Rhythm Cheonguk Logo in "Custom Logos".
 - Added the Rhythm Cheonguk Wii Logo in "Custom Logos".
 - Added the Rhythm Cheonguk The Best+ Logo in "Custom Logos".
+- Added the Rhythm World Miracle Stars Logo in "Custom Logos".
 - Added "Rhythm Heaven Groove" in this Folder.
