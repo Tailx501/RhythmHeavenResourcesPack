@@ -326,3 +326,6 @@
 - Added the Rhythm World Miracle Stars Logo in "Custom Logos".
 - Added FOT-TsukuAOldMinPr6N-M in "Fonts".
 - Added "Rhythm Heaven Groove" in this Folder.
+
+04/06/2025
+- Added Rhythm Heaven Miracle Stars in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
