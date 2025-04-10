@@ -333,3 +333,4 @@
 
 04/10/2025
 - Edited Rhythm Heaven Miracle Stars and Moved it to "Custom Logos". (Credit: iomkr)
+- Added a Rhythm Heaven Groove Thumbnail in "Thumbnails"
