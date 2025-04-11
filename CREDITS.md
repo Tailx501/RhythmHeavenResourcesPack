@@ -36,5 +36,6 @@ Rhythm Heaven Re-Megamix:
 
 Thumbnails:
 - GilvaSunner/SilvaGunner: Rhythm Heaven/Rhythm Heaven Fever
+- iomkr: Rhythm Heaven Groove
 - Mysikt: Rhythm Heaven/Rhythm Tengoku Gold
 - Ripping Reapers: Rhythm Tengoku
