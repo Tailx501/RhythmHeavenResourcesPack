@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="666.66669mm"
-   height="666.66669mm"
-   viewBox="0 0 666.66669 666.66669"
+   width="666.66699"
+   height="666.66699"
+   viewBox="0 0 176.38898 176.38898"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Rhythm Heaven Advance.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Rhythm Heaven Advance.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2">
     <clipPath
@@ -104,9 +104,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.175"
-     inkscape:cx="1223.149"
-     inkscape:cy="147.70144"
+     inkscape:zoom="5.6"
+     inkscape:cx="420.625"
+     inkscape:cy="444.82143"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -114,11 +114,14 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="2560"
+     inkscape:window-height="1400"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -127,7 +130,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -137,7 +139,7 @@
      id="layer1"
      transform="translate(-66.019843,621.65083)">
     <g
-       transform="matrix(1.3333334,0,0,-1.3333334,66.019843,45.015871)"
+       transform="matrix(0.35277795,0,0,-0.35277795,66.019843,-445.26185)"
        inkscape:label="Rhythm Heaven Advance"
        id="g823">
       <path
@@ -2601,19 +2603,17 @@
              transform="translate(402.8693,283.4492)"
              id="g1949">
             <path
-               inkscape:connector-curvature="0"
-               id="path1951"
-               style="fill:#f15a22;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="m 0,0 c 0,0 -0.113,-29.429 -0.479,-34.605 -0.366,-5.177 -1.268,-7.287 -2.677,-7.54 -0.677,-0.085 -1.352,0.079 -1.917,0.45 -3.689,2.42 -10.582,16.202 -16.754,28.187 l -9.005,-2.078 v -74.473 l 10.903,2.518 0.145,18.921 c 0,3.939 0.423,6.555 1.324,7.793 0.31,0.422 0.816,0.71 1.297,0.788 3.174,0.517 9.413,-7.54 17.05,-20.369 l 14.571,3.363 V 3.338 Z" />
+               d="m 4.0382209e-4,5.1167621e-4 c 0,0 -0.11251046209,-29.42997967621 -0.47881236209,-34.60603367621 -0.57241796,-8.086744 -2.74508426,-8.30365 -4.59373816,-7.090414 -3.6892103,2.420173 -10.5834173,16.203186 -16.7549013,28.188843 l -9.004771,-2.079061 v -74.47453 l 11.010932,2.542575 0.03689,18.896966 c 0.01888,9.699593 2.666778,10.330511 6.516195,6.806906 2.920587,-2.673081 6.8942042,-8.570057 13.15569181,-18.596359 L 14.458429,-77.046294 V 3.3378114 Z"
+               style="fill:#f15a22;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.900028"
+               id="path40" />
           </g>
           <g
              transform="translate(347.2932,208.8482)"
              id="g1953">
             <path
-               inkscape:connector-curvature="0"
-               id="path1955"
-               style="fill:#f15a22;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="m 0,0 c -0.334,-0.002 -2.807,0.082 -3.072,1.969 -0.153,1.093 0.395,2.082 1.691,2.926 1.127,0.676 2.846,1.379 5.157,2.054 l 10.907,2.87 V 19.3 c 0,0 -12.415,-2.987 -16.233,-2.419 -1.16,0.172 -1.916,0.787 -2.086,1.857 -0.14,1.097 0.395,2.082 1.691,2.926 3.492,2.274 19.165,5.655 19.165,5.655 v 21.877 l -32.269,-7.45 -0.001,-58.318 32.946,7.606 V 3.151 C 9.103,1.153 3.159,0.017 0,0" />
+               d="M -3.0410804e-4,4.6679147e-4 C -0.33420218,-0.00133433 -2.8073796,0.08235895 -3.0719781,1.9696493 -3.224971,3.0622387 -2.7002795,4.0882301 -1.3808912,4.895521 0.68278877,6.1582114 7.8260226,8.2110923 14.682162,9.8193753 v 9.4805127 c 0,0 -12.4135864,-2.987071 -16.232251,-2.419176 -1.1600915,0.171897 -1.9322836,0.785693 -2.0852816,1.856681 -0.1575085,1.095291 0.3941946,2.082582 1.6910843,2.925875 3.491068,2.274278 19.1635233,5.655546 19.1635233,5.655546 v 21.876999 l -32.269204,-7.45013 v -58.316764 l 32.945998,7.6058306 V 3.1513379 C 9.1022112,1.1533554 3.1595675,0.0175672 -3.0410804e-4,4.6679147e-4"
+               style="fill:#f15a22;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.899992"
+               id="path44" />
           </g>
           <g
              transform="translate(311.619,252.3584)"
@@ -2637,10 +2637,9 @@
              transform="translate(222.3882,175.9473)"
              id="g1965">
             <path
-               inkscape:connector-curvature="0"
-               id="path1967"
-               style="fill:#f15a22;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="m 0,0 c -0.334,-0.002 -2.807,0.082 -3.072,1.969 -0.153,1.093 0.395,2.082 1.691,2.926 1.127,0.676 2.846,1.379 5.157,2.054 l 10.907,2.87 V 19.3 c 0,0 -12.415,-2.987 -16.233,-2.419 -1.16,0.172 -1.916,0.787 -2.086,1.857 -0.141,1.097 0.395,2.082 1.691,2.926 3.492,2.274 19.165,5.655 19.165,5.655 v 23.604 l -32.269,-7.449 v -58.329 l 32.945,7.606 v 10.4 C 9.103,1.153 3.159,0.017 0,0" />
+               d="M 5.1949558e-4,0.023697 C -0.33337911,0.021896 -2.8065681,0.106508 -3.0711652,1.992888 -3.2241589,3.085483 -2.6994675,4.112377 -1.3800742,4.918774 0.68361633,6.182368 7.826884,8.235259 14.683053,9.842651 v 9.481457 c 0,0 -12.4145437,-2.987085 -16.2323264,-2.419187 -1.1600952,0.171898 -1.9322908,0.784796 -2.0861901,1.85669 -0.1565908,1.094396 0.3950971,2.081691 1.6910917,2.925888 3.4919843,2.274289 19.1645128,5.654673 19.1645128,5.654673 V 50.922964 L -15.04921,43.472799 v -58.317936 l 32.945248,7.606766 V 3.175483 C 9.1030783,1.177491 3.1604053,0.041698 5.1949558e-4,0.023697"
+               style="fill:#f15a22;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.899996"
+               id="path56" />
           </g>
           <g
              transform="translate(182.228,224.62)"

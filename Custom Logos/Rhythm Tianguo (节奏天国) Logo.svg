@@ -7,7 +7,8 @@
    width="666.66669"
    height="289.92667"
    viewBox="0 0 666.66669 289.92667"
-   sodipodi:docname="Jiezou Tianguo (节奏天国) Logo.ai"
+   sodipodi:docname="Rhythm Tianguo (节奏天国) Logo.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -30,7 +31,17 @@
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.1329999"
+     inkscape:cx="371.07362"
+     inkscape:cy="161.74403"
+     inkscape:window-width="2560"
+     inkscape:window-height="1400"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
   <g
      id="g8"
      inkscape:groupmode="layer"
@@ -77,9 +88,10 @@
            id="g34"
            transform="translate(350.6189,113.4592)">
           <path
-             d="M 0,0 3.896,12.742 H -86.765 L -90.661,0 h 33.019 l -3.497,-11.438 h -33.019 l -3.905,-12.774 h 33.018 l -1.444,-4.723 c -4.624,-15.127 -14.642,-18.755 -28.173,-18.764 h -10.582 l -3.914,-12.803 23.045,0.001 c 17.698,-0.008 25.159,3.984 36.256,17.335 3.092,-2.475 10.728,-11.703 13.246,-17.336 l 23.835,0.001 c -4.322,9.19 -24.88,25.035 -30.724,28.154 1.173,3.231 2.533,8.135 2.533,8.135 h 33.565 l 3.905,12.774 H -37.062 L -33.565,0 Z"
-             style="fill:#faa61a;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path36" />
+             d="M 0.00116741,-5.4794316e-4 3.8963628,12.742306 H -86.765575 L -90.66077,-5.4794316e-4 h 33.018104 L -61.139489,-11.439523 h -33.019369 l -3.905313,-12.77447 h 33.018104 l -1.442992,-4.722292 c -4.623648,-15.128028 -14.642394,-18.756378 -28.174404,-18.76523 h -10.581527 l -3.9129,-12.802294 h 23.044887 c 17.697845,-0.0076 25.159421,3.984988 36.255669,17.336149 3.092128,-2.474966 10.728228,-11.703291 13.247459,-17.336149 h 23.834043 c -4.321391,9.19165 -24.840724,25.015249 -30.684782,28.133935 l 2.492673,8.155881 h 33.5657078 l 3.9053128,12.77447 H -37.062629 l 3.498088,11.43897505684 z"
+             style="fill:#faa61a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.26467"
+             id="path44-3"
+             inkscape:label="path36" />
         </g>
         <g
            id="g38"

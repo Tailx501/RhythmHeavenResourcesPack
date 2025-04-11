@@ -2,14 +2,6 @@
 <!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="Layer_1"
    x="0px"
@@ -19,10 +11,18 @@
    sodipodi:docname="Tengoku Studio (天国スタジオ).svg"
    width="666.66669"
    height="666.66669"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
    id="metadata8325"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
    id="defs8323" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -32,21 +32,24 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1057"
+   inkscape:window-width="2560"
+   inkscape:window-height="1400"
    id="namedview8321"
    showgrid="false"
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="0.472"
-   inkscape:cx="250"
-   inkscape:cy="250.00001"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
+   inkscape:zoom="3.776"
+   inkscape:cx="304.95233"
+   inkscape:cy="251.58898"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="Layer_1"
+   inkscape:showpageshadow="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1" />
 <style
    type="text/css"
    id="style7576">
@@ -2386,11 +2389,10 @@
    inkscape:connector-curvature="0"
    style="fill:#ff5500" />
 		<path
-   id="天"
-   class="st15"
-   d="m 191.3098,215.54063 c 0.46718,-3.34778 0.77243,-8.34251 0.77243,-8.34251 l 32.28383,-6.86214 1.14474,-13.08467 -32.28375,6.86214 1.02502,-11.71625 32.28377,-6.86214 1.14194,-13.05251 -87.19958,18.53495 -1.14192,13.05243 31.75778,-6.75032 -1.02502,11.71625 -31.7578,6.75032 -1.14467,13.08467 31.75764,-6.75032 -0.42326,4.83827 c -1.35556,15.4946 -10.24861,21.03255 -23.26155,23.80754 l -10.17776,2.16331 -1.14725,13.11359 22.16545,-4.71138 c 17.024,-3.61072 23.38362,-8.97562 31.32738,-24.08623 3.48027,1.74879 12.7108,9.06349 16.28484,13.96588 l 22.92473,-4.87286 c -6.03567,-7.95564 -29.04875,-18.99354 -35.30699,-20.79802 z"
-   inkscape:connector-curvature="0"
-   style="fill:#ffaa00" />
+   d="m 191.35224,215.5528 0.73166,-8.35408 32.28304,-6.86284 1.14542,-13.08503 -32.28425,6.86284 1.02531,-11.71634 32.28425,-6.86284 1.14057,-13.05227 -87.19915,18.53551 -1.14178,13.05226 31.75765,-6.75121 -1.02531,11.71755 -31.75764,6.75 -1.14543,13.08503 31.75886,-6.75121 -0.42346,4.83893 c -1.35535,15.49479 -10.24938,21.03263 -23.26161,23.80762 l -10.17778,2.16345 -1.14785,13.11415 22.16592,-4.71154 c 17.02364,-3.611 23.38415,-8.97654 31.32812,-24.08669 3.47995,1.74848 12.71009,9.06269 16.28469,13.96594 l 22.92428,-4.87292 c -6.03532,-7.95609 -29.00693,-18.98202 -35.26551,-20.78631"
+   style="fill:#faa61a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.21337"
+   id="path136"
+   inkscape:label="天" />
 		<path
    id="ん"
    class="st15"

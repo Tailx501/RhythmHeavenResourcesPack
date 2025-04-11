@@ -7,7 +7,8 @@
    width="666.66669"
    height="666.66669"
    viewBox="0 0 666.66669 666.66669"
-   sodipodi:docname="Paradis du Rythm Mégamix.ai"
+   sodipodi:docname="Paradis du Rythme Mégamix.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -13283,7 +13284,17 @@
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="199.05056"
+     inkscape:cy="503.46003"
+     inkscape:window-width="2560"
+     inkscape:window-height="1400"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g22104" />
   <g
      id="g8"
      inkscape:groupmode="layer"
@@ -40422,9 +40433,10 @@
            id="g22104"
            transform="translate(373.9699,275.1371)">
           <path
-             d="m 0,0 c 4.7,1.771 14.536,4.415 22.798,6.208 v 25.577 l -41.29,-9.533 v -71.241 l 41.225,9.518 v 13.308 c -5.421,-1.421 -16.591,-3.519 -21.509,-4.35 -5.989,-1.005 -6.842,6.623 -0.219,8.809 3.804,1.246 10.777,2.907 16.22,4.437 l -0.022,9.726 C 12.241,-8.547 5.552,-9.705 0.262,-10.448 -6.295,-11.388 -7.432,-2.798 0,0"
-             style="fill:#ff5500;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path22106" />
+             d="M 4.5783453e-4,0.00110579 C 4.7002067,1.7713865 14.5353,4.4164578 22.79811,6.2092383 V 31.78516 l -41.289751,-9.531796 v -71.241426 l 41.224952,9.518297 v 13.308155 c -5.421541,-1.420184 -16.5913199,-3.518962 -21.5088665,-4.349653 -5.9894348,-1.005289 -6.8417256,6.623028 -0.2186976,8.809105 3.8033586,1.245586 10.7539831,2.900668 16.1971241,4.430651 v 9.7315946 C 12.241225,-8.5452015 5.5524975,-9.7034889 0.26235499,-10.446881 -6.2949737,-11.386471 -7.4316614,-2.7969638 4.5783453e-4,0.00110579"
+             style="fill:#ff5500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.89999"
+             id="path542"
+             inkscape:label="path22106" />
         </g>
         <g
            id="g22108"

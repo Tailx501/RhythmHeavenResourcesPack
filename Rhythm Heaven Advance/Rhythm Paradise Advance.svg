@@ -2,21 +2,21 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="666.66669mm"
-   height="666.66669mm"
-   viewBox="0 0 666.66669 666.66669"
+   width="666.66699"
+   height="666.66699"
+   viewBox="0 0 176.38897 176.38897"
    version="1.1"
    id="svg2638"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="Rhythm Paradise Advance.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="Rhythm Paradise Advance.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs2632">
     <clipPath
@@ -104,9 +104,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="333.33333"
-     inkscape:cy="333.33342"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="1981.49"
+     inkscape:cy="1275.6206"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -114,11 +114,14 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0"
-     inkscape:window-width="1920"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="2560"
+     inkscape:window-height="1400"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:showpageshadow="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata2635">
     <rdf:RDF>
@@ -127,7 +130,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -137,7 +139,7 @@
      id="layer1"
      transform="translate(-17.638891,429.6389)">
     <g
-       transform="matrix(1.3333334,0,0,-1.3333334,17.638891,237.0278)"
+       transform="matrix(0.35277795,0,0,-0.35277795,17.638891,-253.24992)"
        inkscape:label="Rhythm Paradise Advance"
        id="g2648">
       <path
@@ -2520,10 +2522,9 @@
              transform="translate(407.3677,253.1207)"
              id="g3738">
             <path
-               inkscape:connector-curvature="0"
-               id="path3740"
-               style="fill:#f15a22;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="m 0,0 c 3.989,1.503 12.339,3.748 19.353,5.27 v 21.711 l -35.051,-8.092 v -58.03 l 34.995,8.08 v 9.667 C 14.696,-22.6 5.214,-24.382 1.039,-25.087 c -5.084,-0.853 -5.808,5.623 -0.186,7.478 3.229,1.058 9.148,2.468 13.768,3.767 l -0.018,7.44 C 10.391,-7.255 4.713,-8.239 0.223,-8.869 -5.344,-9.667 -6.309,-2.375 0,0" />
+               d="M -8.3689897e-5,-8.6528983e-4 C 3.9897018,1.5021671 12.339179,3.7477136 19.353028,5.2687475 V 26.980811 L -15.69822,18.888738 v -58.031437 l 34.995448,8.080372 v 9.667107 c -4.601799,-1.206028 -14.0834995,-2.987166 -18.2586884,-3.692781 -5.0842104,-0.853218 -5.807825,5.623321 -0.18539826,7.47826 3.22836926,1.057523 9.14779666,2.466953 13.76849566,3.766581 v 7.4440586 C 10.409547,-7.2523188 4.7124235,-8.2396418 0.22222843,-8.8705547 -5.343492,-9.6679715 -6.3092112,-2.3760172 -8.6241132e-5,-8.6528983e-4"
+               style="fill:#f15a22;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.90002"
+               id="path40" />
           </g>
           <g
              transform="translate(374.8278,213.1344)"
@@ -2565,10 +2566,9 @@
              transform="translate(214.7571,196.6252)"
              id="g3758">
             <path
-               inkscape:connector-curvature="0"
-               id="path3760"
-               style="fill:#f15a22;fill-opacity:1;fill-rule:nonzero;stroke:none"
-               d="M 0,0 C -3.399,-0.797 -5.291,1.095 -5.291,5.141 V 9.05 c 0,2.82 0.548,5.266 3.063,6.063 C 5.073,17.426 10.158,14.279 10.158,9.337 10.158,4.718 6.623,1.556 0,0 m 24.612,16.893 c 0,17.964 -17.578,23.18 -39.078,15.499 v -56.516 l 9.163,2.116 v 13.045 c 0,2.216 1.631,1.83 3.137,0.485 1.058,-0.946 7.419,-7.108 11.864,-11.54 l 13.987,3.229 c 0,0 -12.195,12.457 -13.601,13.689 8.191,3.063 14.528,11.043 14.528,19.993" />
+               d="M -2.6290318e-4,0.00625268 C -3.3987417,-0.79116538 -5.2905855,1.102477 -5.2905855,5.149871 v 3.9105888 c -8.98e-4,2.8188672 0.5472129,5.2669222 3.0618712,6.0634402 7.301868,2.313053 12.3869853,-0.835217 12.3869853,-5.7790331 0,-4.6198054 -3.5352818,-7.7824779 -10.15853390318,-9.33861422 M 24.611703,16.902341 c 0,17.969813 -17.7232078,23.092731 -39.077998,15.507356 v -56.533899 l 9.1622109,2.115049 v 13.0494 c 0,2.2167518 1.6308367,1.8306421 3.1374713,0.4851106 C -1.1081886,-9.420563 5.2531577,-15.584805 9.69746,-20.018308 l 13.988122,3.229275 c 0,0 -12.19528,12.4607854 -13.602013,13.6938149 8.191988,3.06277102 14.528134,11.0450543 14.528134,19.9975591"
+               style="display:inline;fill:#f15a22;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.900021"
+               id="path60" />
           </g>
           <g
              transform="translate(178.7488,166.0411)"

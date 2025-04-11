@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   version="1.1"
+   id="svg2"
+   width="666.66669"
+   height="138.85333"
+   viewBox="0 0 666.66669 138.85333"
+   sodipodi:docname="Tengoku Musical Notes.ai"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs6">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath16">
+      <path
+         d="M 0,104.14 H 500 V 0 H 0 Z"
+         id="path14" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="namedview4"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <g
+     id="g8"
+     inkscape:groupmode="layer"
+     inkscape:label="Tengoku Musical Notes"
+     transform="matrix(1.3333333,0,0,-1.3333333,0,138.85333)">
+    <g
+       id="g10">
+      <g
+         id="g12"
+         clip-path="url(#clipPath16)">
+        <g
+           id="g18"
+           transform="translate(494.7962,70.3422)">
+          <path
+             d="m 0,0 -47.267,25.807 v -60.744 c -2.931,1.343 -6.808,2.305 -11.988,2.305 -16.903,0 -28.47,-9.705 -28.47,-17.981 0,-8.275 6.962,-12.487 20.479,-12.487 17.029,0 28.47,11.204 28.47,19.479 V 6.827 l 26.33,-9.109 c 4.72,-1.633 7.509,-6.501 6.529,-11.399 l -2.391,-11.958 10.307,9.54 C 7.011,-11.46 5.994,-3.272 0,0"
+             style="fill:#008dd0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path20" />
+        </g>
+        <g
+           id="g22"
+           transform="translate(276.2093,88.9066)">
+          <path
+             d="m 0,0 v -60.744 c -2.931,1.343 -6.808,2.305 -11.987,2.305 -16.905,0 -28.471,-9.705 -28.471,-17.98 0,-8.277 6.962,-12.488 20.479,-12.488 17.029,0 28.47,11.204 28.47,19.48 v 58.398 L 70.926,0.25 v -45.759 c -2.932,1.342 -6.809,2.304 -11.988,2.304 -16.904,0 -28.47,-9.706 -28.47,-17.981 0,-8.275 6.962,-12.486 20.478,-12.486 17.03,0 28.471,11.203 28.471,19.479 v 69.427 z"
+             style="fill:#008dd0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path24" />
+        </g>
+        <g
+           id="g26"
+           transform="translate(121.8719,96.1488)">
+          <path
+             d="m 0,0 v -60.744 c -2.931,1.343 -6.808,2.305 -11.987,2.305 -16.905,0 -28.471,-9.705 -28.471,-17.98 0,-8.276 6.962,-12.488 20.479,-12.488 17.029,0 28.47,11.204 28.47,19.48 v 54.942 h 62.434 v -46.259 c -2.931,1.343 -6.808,2.305 -11.987,2.305 -16.904,0 -28.47,-9.705 -28.47,-17.98 0,-8.276 6.962,-12.488 20.478,-12.488 17.029,0 28.471,11.204 28.471,19.48 V 0 Z"
+             style="fill:#008dd0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path28" />
+        </g>
+        <g
+           id="g30"
+           transform="translate(40.4574,97.1479)">
+          <path
+             d="m 0,0 v -61.743 c -2.931,1.343 -6.808,2.305 -11.987,2.305 -16.905,0 -28.471,-9.705 -28.471,-17.98 0,-8.276 6.962,-12.488 20.479,-12.488 17.029,0 28.47,11.204 28.47,19.48 V 0 Z"
+             style="fill:#008dd0;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             id="path32" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

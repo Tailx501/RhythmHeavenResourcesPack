@@ -2,14 +2,6 @@
 <!-- Generator: Adobe Illustrator 27.7.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="Layer_1"
    x="0px"
@@ -19,10 +11,18 @@
    sodipodi:docname="Rhythm Tengoku (リズム天国) (Arcade).svg"
    width="666.66669"
    height="666.66669"
-   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
    id="metadata1015"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs1013" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -32,21 +32,24 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1057"
+   inkscape:window-width="2560"
+   inkscape:window-height="1400"
    id="namedview1011"
    showgrid="false"
    fit-margin-top="0"
    fit-margin-left="0"
    fit-margin-right="0"
    fit-margin-bottom="0"
-   inkscape:zoom="1.2558216"
-   inkscape:cx="417.14924"
-   inkscape:cy="289.19124"
-   inkscape:window-x="-8"
-   inkscape:window-y="-8"
+   inkscape:zoom="3.5519999"
+   inkscape:cx="288.14753"
+   inkscape:cy="348.25452"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
    inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
+   inkscape:current-layer="リズム天国_00000179617172555377844680000001378713671640345227_"
+   inkscape:showpageshadow="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1" />
 <style
    type="text/css"
    id="style916">
@@ -330,11 +333,10 @@
    inkscape:connector-curvature="0"
    style="fill:#f15a22" />
 		<path
-   id="天_00000169544328820000865290000007487647542086972547_"
-   class="st7"
-   d="m 379.75861,230.0954 1.34402,-10.94658 -73.89926,13.03065 -1.34399,10.94658 26.91382,-4.74573 -1.20645,9.82594 -26.91382,4.74571 -1.34735,10.97359 26.91382,-4.74573 -0.49823,4.05768 c -1.59549,12.99469 -9.23926,17.39218 -20.26767,19.3443 l -8.62531,1.5209 -1.35034,10.99786 18.78464,-3.31232 c 14.42715,-2.53738 19.9346,-6.86365 27.061,-19.3418 2.87637,1.57336 10.42645,7.9978 13.28906,12.2269 l 19.4281,-3.42581 c -4.84369,-6.86987 -23.87875,-16.83124 -29.09033,-18.53305 0.49133,-2.80249 0.89487,-6.99529 0.89487,-6.99529 l 27.35962,-4.82431 1.34735,-10.97357 -27.35962,4.82431 1.20645,-9.82593 z"
-   inkscape:connector-curvature="0"
-   style="fill:#faa61a" />
+   d="m 379.75933,230.09535 1.3434,-10.94686 -73.9005,13.03172 -1.3434,10.94688 26.91376,-4.74603 -1.20627,9.82577 -26.9148,4.74619 -1.34711,10.9741 26.91378,-4.74602 -0.49726,4.0577 c -1.59451,12.99473 -9.23947,17.39238 -20.26843,19.34468 l -8.62522,1.52099 -1.3493,10.99786 18.78439,-3.31246 c 14.42698,-2.53771 19.93535,-6.86364 27.06087,-19.34244 2.87622,1.57292 10.42704,7.99751 13.29019,12.22687 l 19.42764,-3.42591 c -4.8433,-6.86908 -23.84389,-16.81986 -29.0558,-18.52195 l 0.85952,-7.00633 27.36012,-4.82472 1.3471,-10.9741 -27.36013,4.82472 1.20732,-9.82593 z"
+   style="display:inline;fill:#faa61a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04677"
+   id="path44"
+   inkscape:label="天_00000169544328820000865290000007487647542086972547_" />
 		<path
    id="ん"
    class="st7"
@@ -354,11 +356,10 @@
    inkscape:connector-curvature="0"
    style="fill:#f15a22" />
 		<path
-   id="ズ_00000094601161446120780760000001825821550220605861_"
-   class="st7"
-   d="m 203.75507,249.91574 c 0.51247,2.74263 -1.32597,5.36122 -4.12044,5.86749 -2.73636,0.46069 -5.36121,-1.32591 -5.86748,-4.12038 -0.46065,-2.73643 1.32591,-5.36121 4.12042,-5.86749 2.74257,-0.51251 5.41304,1.33211 5.8675,4.12038 z m -16.366,8.02683 c 2.79446,-0.50626 4.58109,-3.13104 4.12044,-5.86749 -0.51253,-2.74261 -3.13112,-4.58105 -5.86755,-4.12041 -2.78821,0.45444 -4.58101,3.1311 -4.12036,5.86754 0.51244,2.74258 3.13109,4.58099 5.86747,4.12036 z m -60.22735,24.55581 43.37588,-7.64844 c -4.88019,25.80658 -18.85938,35.43085 -43.14165,39.71252 l -4.26342,0.75177 -1.36523,11.11914 12.84085,-2.26511 c 16.6205,-2.92981 24.93211,-6.68555 35.80803,-17.15842 2.293,1.48398 5.16029,4.78134 6.4091,9.71515 l 19.54759,-3.44684 c -2.25197,-3.58197 -12.6794,-11.77448 -19.10422,-13.43817 8.56444,-10.48706 10.45815,-17.51508 12.43877,-25.26883 0.70442,-2.80704 2.24142,-4.1138 3.83354,-4.39453 l 2.95923,-0.52182 1.30527,-10.63043 -69.26105,12.21274 z"
-   inkscape:connector-curvature="0"
-   style="fill:#faa61a" />
+   d="m 127.1633,282.493 43.37388,-7.64611 c -2.78737,14.73755 -10.56173,33.96571 -34.84215,38.24596 l -12.56233,2.21453 -1.36571,11.11776 12.84046,-2.26463 c 16.61972,-2.92873 24.93134,-6.68326 35.80737,-17.15525 2.29275,1.48447 5.15914,4.78197 6.40807,9.71441 l 19.54701,-3.44582 c -2.25211,-3.58116 -12.6782,-11.77314 -19.10315,-13.43789 8.56416,-10.48533 10.45852,-17.51298 12.43954,-25.26694 0.70531,-2.80585 2.24132,-4.11289 3.8339,-4.39363 l 2.95839,-0.52152 1.30608,-10.63003 -69.25822,12.20911 z m 60.22508,-24.55147 c 2.79522,-0.50658 4.58152,-3.131 4.12042,-5.86728 -0.51209,-2.74216 -3.13081,-4.58049 -5.86728,-4.12041 -2.78744,0.45418 -4.58048,3.13081 -4.11938,5.86709 0.5121,2.74216 3.12978,4.58067 5.86624,4.1206 m 16.36628,-8.02603 c 0.51209,2.74218 -1.32623,5.36089 -4.12041,5.86728 -2.73645,0.46007 -5.36191,-1.32605 -5.86727,-4.12042 -0.4611,-2.73628 1.3252,-5.36071 4.12041,-5.86727 2.74217,-0.51211 5.41205,1.33315 5.86727,4.12041"
+   style="fill:#faa61a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.04669"
+   id="path60"
+   inkscape:label="ズ_00000094601161446120780760000001825821550220605861_" />
 		<path
    id="リ_00000181769989958526359930000015098902822528309641_"
    class="st6"

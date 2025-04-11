@@ -7,7 +7,8 @@
    width="666.66669"
    height="462.73868"
    viewBox="0 0 666.66669 462.73868"
-   sodipodi:docname="Tengoku Studio (天国スタジオ) Logo (Wordmark).ai"
+   sodipodi:docname="Tengoku Studio (天国スタジオ) Logo (Wordmark).svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -30,7 +31,17 @@
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1" />
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.1329999"
+     inkscape:cx="327.94188"
+     inkscape:cy="231.59869"
+     inkscape:window-width="2560"
+     inkscape:window-height="1400"
+     inkscape:window-x="2560"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g8" />
   <g
      id="g8"
      inkscape:groupmode="layer"
@@ -205,9 +216,11 @@
            id="g98"
            transform="translate(164.5633,221.383)">
           <path
-             d="m 0,0 c 0.671,4.811 1.11,11.988 1.11,11.988 l 46.391,9.861 1.645,18.802 -46.391,-9.861 1.473,16.836 46.391,9.861 1.641,18.756 -125.304,-26.634 -1.641,-18.756 45.636,9.7 -1.473,-16.836 -45.635,-9.7 -1.645,-18.802 45.635,9.7 -0.609,-6.953 c -1.948,-22.265 -14.727,-30.223 -33.426,-34.211 l -14.625,-3.108 -1.649,-18.844 31.852,6.77 c 24.463,5.188 33.601,12.898 45.016,34.611 5.001,-2.513 18.265,-13.024 23.401,-20.068 l 32.942,7.002 C 42.062,-18.454 8.993,-2.593 0,0"
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path100" />
+             id="天_1_"
+             class="st11"
+             d="M 0.05995873,-0.01736038 1.1102717,11.987993 47.5014,21.848752 49.146336,40.651071 2.7552078,30.790312 4.2281635,47.626175 50.619291,57.486939 52.260205,76.24301 -73.04393,49.608656 l -1.640797,-18.755969 45.635311,9.700108 -1.472955,-16.835861 -45.635299,-9.70012 -1.64495,-18.8023305 45.635313,9.7001334 -0.608282,-6.9525337 C -34.723528,-24.303199 -47.502651,-32.261077 -66.202063,-36.248661 l -14.625191,-3.108698 -1.648544,-18.84387 31.85144,6.770257 c 24.463018,5.1885 33.601622,12.897717 45.0166842,34.611236 5.00114055,-2.512883 18.2651918,-13.023903 23.4011588,-20.068594 l 32.942318,7.002259 C 42.062678,-18.45399 9.0528489,-2.6102968 0.05995873,-0.01736038 Z"
+             style="fill:#000000;stroke-width:1.29328"
+             inkscape:label="path100" />
         </g>
         <g
            id="g102"

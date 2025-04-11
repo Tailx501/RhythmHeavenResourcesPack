@@ -331,6 +331,14 @@
 - Added DFBrushSQStd-W9, DFMaruMojiStd-W9, and 超圓體 in "Fonts".
 - Added Rhythm Heaven Miracle Stars in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
 
-04/10/2025
-- Edited Rhythm Heaven Miracle Stars and Moved it to "Custom Logos". (Credit: iomkr)
-- Added a Rhythm Heaven Groove Thumbnail in "Thumbnails"
+04/10/2025:
+- Modified the Rhythm Heaven Miracle Stars Logo and Moved it to "Custom Logos". (Credit: iomkr)
+- Added the Rhythm Heaven Groove Thumbnail in "Thumbnails"
+
+04/11/2025:
+- Tweaked the letters "E" and "V" for all Rhythm Heaven related Logos in this Folder.
+- Tweaked the letters "E" and "R" for all Rhythm Paradise related Logos in this Folder.
+- Tweaked the letters "ズ" and "天" for all Rhythm Tengoku related Logos in this Folder.
+- Moved WhaddupNico's Rhythm Tengoku Logo Recreation to "Custom Logos".
+- Added HUMongsil180 in "Fonts".
+- Added Tengoku Musical Notes in "Rhythm Tengoku".
