@@ -339,6 +339,12 @@
 - Tweaked the letters "E" and "V" for all Rhythm Heaven related Logos in this Folder.
 - Tweaked the letters "E" and "R" for all Rhythm Paradise related Logos in this Folder.
 - Tweaked the letters "ズ" and "天" for all Rhythm Tengoku related Logos in this Folder.
+- Modified the Rhythm Heaven Breakdown Logo Remake in "Custom Logos".
+- Modified the Rhythmix Logo Remake in "Custom Logos".
+- Modified the Rhythm Remix Logo Remake in "Custom Logos".
 - Moved WhaddupNico's Rhythm Tengoku Logo Recreation to "Custom Logos".
 - Added HUMongsil180 in "Fonts".
 - Added Tengoku Musical Notes in "Rhythm Tengoku".
+
+04/12/2025:
+- Added the Groove Style of the RH Modding Logo in "Custom Logos".
