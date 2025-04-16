@@ -350,5 +350,5 @@
 - Added the Groove Style of the RH Modding Logo in "Custom Logos".
 
 04/16/2025:
-- Added HY타자b and ProtoSans51 in "Fonts".
+- Added HY타자b, ProtoSans51, And Humming in "Fonts".
 - Fixed most of the corrupted Icons in "Icons".
