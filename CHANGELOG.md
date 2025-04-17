@@ -258,7 +258,7 @@
 - Updated the modified Kurokane Font and removed the CP Font in "Fonts".
 
 12/24/2024:
-- Renamed Tebiri Heads to Tibby Heads to remove confusion to someone who doesn't know the original name.
+- Renamed "Tebiri Head" to "Tibby Head" to remove confusion to someone who doesn't know the original name.
 
 12/30/2024:
 - Modified the modified Kurokane Font in "Fonts".
@@ -352,3 +352,6 @@
 04/16/2025:
 - Added FOT-HummingStd-E, FOT-HummingStd-E (modified), HY타자b, and ProtoSans51 in "Fonts".
 - Fixed most of the corrupted Icons in "Icons".
+
+04/17/2025:
+- Renamed "nintendo_NTLGDB_001" to "FOT-RodinNTLGPro-DB" (modified) in "Fonts".
