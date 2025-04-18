@@ -355,3 +355,6 @@
 
 04/17/2025:
 - Renamed "nintendo_NTLGDB_001" to "FOT-RodinNTLGPro-DB" (modified) in "Fonts".
+
+04/19/2025:
+- Made a folder for Nintendo modified fonts.
