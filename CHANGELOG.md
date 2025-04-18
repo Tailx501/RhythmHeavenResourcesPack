@@ -357,7 +357,8 @@
 - Renamed "nintendo_NTLGDB_001" to "FOT-RodinNTLGPro-DB" (modified) in "Fonts".
 
 04/18/2025:
-- Organized all the Fonts as its seperate folders in "Fonts".
+- Moved all the Fonts to its seperate folders in "Fonts" for better organization.
+- Added the "Modified Nintendo Fonts" folder in "Fonts".
 - Added a견궁서 and a디나루 in the "AsiaFont" folder in "Fonts".
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
 - Added nintendoP_Humming-E_002pr in the "Modified Nintendo Fonts" folder in "Fonts".
