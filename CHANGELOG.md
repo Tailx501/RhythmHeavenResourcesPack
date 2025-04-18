@@ -41,7 +41,7 @@
 - Added the Rhythm World: The Best+ More Of The Best Logos in "Rhythm Heaven Re-Megamix".
 
 01/19/2024:
-- Added some Print and Wordmark Variants for "Heaven Studio", "Rhythm Heaven Advance", & "Rhythm Heaven Re-Megamix".
+- Added some Print and Wordmark variants for "Heaven Studio", "Rhythm Heaven Advance", & "Rhythm Heaven Re-Megamix".
 
 01/20/2024:
 - Modified the Rhythm Tengoku: The Best+ More Of The Best Logos in "Rhythm Heaven Re-Megamix".
@@ -56,7 +56,7 @@
 - Modified the Paradise Studio Logos in "Heaven Studio".
 
 01/26/2024:
-- Added some Flat Variants for "Heaven Studio".
+- Added some Flat variants for "Heaven Studio".
 - Added the World Studio Logos in "Heaven Studio".
 - Added the HS Levels Logos in "Heaven Studio".
 
@@ -64,7 +64,7 @@
 - Changed the size from 4000x to 5000x for the Rhythm Heaven Megamix Background in "Rhythm Heaven Megamix".
 
 01/29/2024:
-- Added some Flat Variants in "Rhythm Heaven Re-Megamix".
+- Added some Flat variants in "Rhythm Heaven Re-Megamix".
 
 01/30/2024:
 - Added the Beta Logo of Rhythm Tengoku Gold in "Rhythm Heaven (2008)".
@@ -261,7 +261,7 @@
 - Renamed "Tebiri Head" to "Tibby Head" to remove confusion to someone who doesn't know the original name.
 
 12/30/2024:
-- Modified the modified Kurokane Font in "Fonts".
+- Updated the modified Kurokane Font in "Fonts".
 
 01/19/2025:
 - Added New Cinema A in "Fonts". (Credit: iomkr)
@@ -356,5 +356,11 @@
 04/17/2025:
 - Renamed "nintendo_NTLGDB_001" to "FOT-RodinNTLGPro-DB" (modified) in "Fonts".
 
-04/19/2025:
-- Made a folder for Nintendo modified fonts.
+04/18/2025:
+- Organized all the Fonts as its seperate folders in "Fonts".
+- Added a견궁서 and a디나루 in the "AsiaFont" folder in "Fonts".
+- Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
+- Added nintendoP_Humming-E_002pr in the "Modified Nintendo Fonts" folder in "Fonts".
+- Renamed "RoPokkruStd-Bd" to "RoぽっくるStd B" in the "TypeBank" folder in "Fonts".
+- Renamed "HANSomaB" to "한컴솔잎B" in the "YoonDesign" folder in "Fonts".
+- Modified the Print variants for "Rhythm Heaven Groove".
