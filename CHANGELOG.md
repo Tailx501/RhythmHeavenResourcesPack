@@ -365,3 +365,7 @@
 - Renamed "RoPokkruStd-Bd" to "RoぽっくるStd B" in the "TypeBank" folder in "Fonts".
 - Renamed "HANSomaB" to "한컴솔잎B" in the "YoonDesign" folder in "Fonts".
 - Modified the Print variants for "Rhythm Heaven Groove".
+
+04/19/2025:
+- Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
+- Added RodinNTLGPro-DB (modified) in the "Fontworks" folder in "Fonts".
