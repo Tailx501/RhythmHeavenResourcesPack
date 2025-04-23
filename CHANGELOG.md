@@ -24,7 +24,7 @@
 - Added the RhYthm Paradise Megamix Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos".
 
 12/01/2023:
-- Added the Alternative Variant of the Rhythm Heaven Logo in "Rhythm Heaven (2008)".
+- Added the Alternative variant of the Rhythm Heaven Logo in "Rhythm Heaven (2008)".
 
 12/22/2023:
 - Added the Rhythm Heaven Fever Logo but with 2006 Colors in "Funny, Unique, & Cursed Rhythm Heaven Logos".
@@ -369,3 +369,6 @@
 04/19/2025:
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
 - Added RodinNTLGPro-DB (modified) in the "Fontworks" folder in "Fonts".
+
+04/22/2025:
+- Added the Beta variant of the Rhythm Tengoku Miracle Stars Logo in "Rhythm Heaven Groove".
