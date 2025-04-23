@@ -371,4 +371,5 @@
 - Added RodinNTLGPro-DB (modified) in the "Fontworks" folder in "Fonts".
 
 04/22/2025:
+- Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
 - Added the Beta variant of the Rhythm Tengoku Miracle Stars Logo in "Rhythm Heaven Groove".
