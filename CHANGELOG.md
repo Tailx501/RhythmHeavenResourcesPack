@@ -373,3 +373,6 @@
 04/22/2025:
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
 - Added the Beta variant of the Rhythm Tengoku Miracle Stars Logo in "Rhythm Heaven Groove".
+
+04/24/2025:
+- Modified the Rhythm Paradise Megamix Icon in "Icons".
