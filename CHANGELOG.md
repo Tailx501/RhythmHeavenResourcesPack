@@ -376,3 +376,7 @@
 
 04/24/2025:
 - Modified the Rhythm Paradise Megamix Icon in "Icons".
+
+04/25/2025:
+- Modified the Beat the Beat: Rhythm Paradise Icon in "Icons".
+- Added a High Quality revision of the Beat the Beat: Rhythm Paradise Logo in "Rhythm Heaven Fever.
