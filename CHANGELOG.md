@@ -329,7 +329,7 @@
 
 04/06/2025:
 - Added DFBrushSQStd-W9, DFMaruMojiStd-W9, and 超圓體 in "Fonts".
-- Added Rhythm Heaven Miracle Stars in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
+- Added Rhythm Heaven: Miracle Stars in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
 
 04/10/2025:
 - Modified the Rhythm Heaven Miracle Stars Logo and Moved it to "Custom Logos". (Credit: iomkr)
@@ -372,7 +372,7 @@
 
 04/22/2025:
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
-- Added the Beta variant of the Rhythm Tengoku Miracle Stars Logo in "Rhythm Heaven Groove".
+- Added the Beta variant of the Rhythm Tengoku: Miracle Stars Logo in "Rhythm Heaven Groove".
 
 04/24/2025:
 - Modified the Rhythm Paradise Megamix Icon in "Icons".
@@ -380,3 +380,6 @@
 04/25/2025:
 - Modified the Beat the Beat: Rhythm Paradise Icon in "Icons".
 - Added a High Quality revision of the Beat the Beat: Rhythm Paradise Logo in "Rhythm Heaven Fever.
+
+04/27/2025:
+- Modified the Beta variant of the Rhythm Tengoku: Miracle Stars Logo in "Rhythm Heaven Groove".
