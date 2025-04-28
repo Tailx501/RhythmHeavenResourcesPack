@@ -383,3 +383,8 @@
 
 04/27/2025:
 - Modified the Beta variant of the Rhythm Tengoku: Miracle Stars Logo in "Rhythm Heaven Groove".
+
+04/28/2025:
+- Added A-OTF-ShinMGoPr6N-Ultra in the "Morisawa" folder in "Fonts".
+- Added the Minna no Rhythm Tengoku Complete Vocal Collection Logo in "Rhythm Tengoku Complete Music Collection".
+- Added the Rhythm Tengoku Gold Domestic and Overseas Editions Complete Vocal Collection Logo in "Rhythm Tengoku Complete Music Collection".
