@@ -388,3 +388,9 @@
 - Added A-OTF-ShinMGoPr6N-Ultra in the "Morisawa" folder in "Fonts".
 - Added the Minna no Rhythm Tengoku Complete Vocal Collection Logo in "Rhythm Tengoku Complete Music Collection".
 - Added the Rhythm Tengoku Gold Domestic and Overseas Editions Complete Vocal Collection Logo in "Rhythm Tengoku Complete Music Collection".
+
+04/29/2025:
+- Modified the Rhythm World Miracle Stars Logo in "Custom Logos".
+- Modified the Jiézòu Tiānguó Qíjī Zhī Xīng Logo in "Rhythm Heaven Groove".
+- Modified the Rhythm Cheonguk Miracle Stars Logo in "Rhythm Heaven Groove".
+- Modified the Rhythm Tengoku Miracle Stars Logo in "Rhythm Heaven Groove".
