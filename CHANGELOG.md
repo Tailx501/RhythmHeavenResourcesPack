@@ -394,3 +394,7 @@
 - Modified the Jiézòu Tiānguó Qíjī Zhī Xīng Logo in "Rhythm Heaven Groove".
 - Modified the Rhythm Cheonguk Miracle Stars Logo in "Rhythm Heaven Groove".
 - Modified the Rhythm Tengoku Miracle Stars Logo in "Rhythm Heaven Groove".
+
+04/30/2025:
+- Modified the Rhythm Tengoku Gold Logo in "Icons" and "Rhythm Heaven".
+- Modified the Rhythm Tengoku Gold Domestic and Overseas Editions Complete Vocal Collection Logo in "Rhythm Tengoku Complete Music Collection".
