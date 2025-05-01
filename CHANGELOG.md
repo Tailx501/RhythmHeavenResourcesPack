@@ -402,4 +402,5 @@
 05/01/2025:
 - Removed the "Hanyi Fonts" folder in "Fonts".
 - Added the "typOasis" folder in "Fonts".
+- Added A-OTF-LalapopStd-Heavy in the "Morisawa" folder in "Fonts".
 - Added Thickhead and Thickhead Medium in the "typOasis" folder in "Fonts".
