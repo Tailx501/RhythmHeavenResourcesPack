@@ -398,3 +398,8 @@
 04/30/2025:
 - Modified the Rhythm Tengoku Gold Logo in "Icons" and "Rhythm Heaven".
 - Modified the Rhythm Tengoku Gold Domestic and Overseas Editions Complete Vocal Collection Logo in "Rhythm Tengoku Complete Music Collection".
+
+05/01/2025:
+- Removed the "Hanyi Fonts" folder in "Fonts".
+- Added the "typOasis" folder in "Fonts".
+- Added Thickhead and Thickhead Medium in the "typOasis" folder in "Fonts".
