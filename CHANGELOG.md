@@ -404,3 +404,7 @@
 - Added the "typOasis" folder in "Fonts".
 - Added A-OTF-LalapopStd-Heavy in the "Morisawa" folder in "Fonts".
 - Added Thickhead and Thickhead Medium in the "typOasis" folder in "Fonts".
+
+05/02/2025:
+- Tweaked the letters "R", "H", and "Y" for all Rhythm Heaven (2008) Logos in this Folder.
+- Modified the Rhythm Tengoku Gold Domestic and Overseas Editions Complete Vocal Collection Logo in "Rhythm Tengoku Complete Music Collection".
