@@ -408,3 +408,6 @@
 05/02/2025:
 - Tweaked the letters "R", "H", and "Y" for all Rhythm Heaven (2008) Logos in this Folder.
 - Modified the Rhythm Tengoku Gold Domestic and Overseas Editions Complete Vocal Collection Logo in "Rhythm Tengoku Complete Music Collection".
+
+05/05/2025:
+- Added DFKaiShoStd-W7 in the "DynaFont" folder in "Fonts".
