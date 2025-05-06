@@ -415,5 +415,3 @@
 05/06/2025:
 - Renamed "Modified Nintendo Fonts" to "Nintendo Fonts" in "Fonts".
 - Added nitrods-font in the "Nintendo Fonts" folder in "Fonts".
-- Renamed some files in "Custom Logos".
-- Renamed some files in "Rhythm Heaven Groove".
