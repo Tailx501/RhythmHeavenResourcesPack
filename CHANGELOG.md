@@ -406,7 +406,7 @@
 - Added Thickhead and Thickhead Medium in the "typOasis" folder in "Fonts".
 
 05/02/2025:
-- Tweaked the letters "R", "H", and "Y" for all Rhythm Heaven (2008) Logos in this Folder.
+- Tweaked the letters "R", "H", and "Y" for all Rhythm Heaven (2008) related Logos in this Folder.
 - Modified the Rhythm Tengoku Gold Domestic and Overseas Editions Complete Vocal Collection Logo in "Rhythm Tengoku Complete Music Collection".
 
 05/05/2025:
@@ -415,3 +415,11 @@
 05/06/2025:
 - Renamed "Modified Nintendo Fonts" to "Nintendo Fonts" in "Fonts".
 - Added nitrods-font in the "Nintendo Fonts" folder in "Fonts".
+
+05/10/2025:
+- Tweaked the letters "H" and "Y" for all Rhythm Heaven related Logos in this Folder.
+- Modified most of Barista Artworks in "Barista".
+- Modified the Rhythm Heaven Breakdown Logo Remake in "Custom Logos".
+- Modified the Rhythm Heaven Reddit Logo Remake in "Custom Logos".
+- Modified the Rhythm Heaven Groove Logo in "Rhythm Heaven Groove".
+- Modified the Rhythm Paradise Groove Logo in "Rhythm Heaven Groove".
