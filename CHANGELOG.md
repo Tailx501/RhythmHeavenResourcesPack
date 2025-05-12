@@ -426,4 +426,5 @@
 
 05/12/2025:
 - Moved FONTLIST to the "Fonts" folder.
+- Added FOT-NewRodinPro-EB and FOT-NewRodinProN-EB in the "Fontworks" folder in "Fonts".
 - Updated the HGRPP1 Font in the "RICOH" folder in "Fonts".
