@@ -423,3 +423,7 @@
 - Modified the Rhythm Heaven Reddit Logo Remake in "Custom Logos".
 - Modified the Rhythm Heaven Groove Logo in "Rhythm Heaven Groove".
 - Modified the Rhythm Paradise Groove Logo in "Rhythm Heaven Groove".
+
+05/12/2025:
+- Moved FONTLIST to the "Fonts" folder.
+- Updated the HGRPP1 Font in the "RICOH" folder in "Fonts".
