@@ -428,3 +428,6 @@
 - Moved FONTLIST to the "Fonts" folder.
 - Added FOT-NewRodinPro-EB and FOT-NewRodinProN-EB in the "Fontworks" folder in "Fonts".
 - Updated the HGRPP1 Font in the "RICOH" folder in "Fonts".
+
+05/14/2025:
+- Corrected the "즈" symbol for the Rhythm World Miracle Stars Logo in "Custom Logos".
