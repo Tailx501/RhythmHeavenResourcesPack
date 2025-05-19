@@ -368,7 +368,7 @@
 
 04/19/2025:
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
-- Added RodinNTLGPro-DB (modified) in the "Fontworks" folder in "Fonts".
+- Added the modified RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
 
 04/22/2025:
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
@@ -431,3 +431,7 @@
 
 05/14/2025:
 - Corrected the "즈" symbol for the Rhythm World Miracle Stars Logo in "Custom Logos".
+
+05/18/2025:
+- Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
+- Updated the modified RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
