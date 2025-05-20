@@ -435,3 +435,8 @@
 05/18/2025:
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
 - Updated the modified RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
+
+05/20/2025:
+- Added the modified FOT-HummingStd-E Font in the "Fontworks" folder in "Fonts".
+- Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
+- Updated the modified RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
