@@ -440,3 +440,7 @@
 - Added the modified FOT-HummingStd-E Font in the "Fontworks" folder in "Fonts".
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
 - Updated the modified RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
+
+05/22/2025:
+- Modified the Rhythm World Miracle Stars Logo in "Custom Logos".
+- Modified the Rhythm Cheonguk Miracle Stars Logo in "Rhythm Heaven Groove".
