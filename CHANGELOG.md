@@ -444,3 +444,7 @@
 05/22/2025:
 - Modified the Rhythm World Miracle Stars Logo in "Custom Logos".
 - Modified the Rhythm Cheonguk Miracle Stars Logo in "Rhythm Heaven Groove".
+
+05/23/2025:
+- Modified the Rhythm World Miracle Stars Logo in "Custom Logos".
+- Modified the Rhythm Cheonguk Miracle Stars Logo in "Rhythm Heaven Groove".
