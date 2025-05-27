@@ -448,3 +448,18 @@
 05/23/2025:
 - Modified the Rhythm World Miracle Stars Logo in "Custom Logos".
 - Modified the Rhythm Cheonguk Miracle Stars Logo in "Rhythm Heaven Groove".
+
+05/27/2025:
+- Removed the "ITC" folder in "Fonts".
+- Added the "Abstrkt" folder in "Fonts".
+- Added the "Dawnland" folder in "Fonts".
+- Added NIS-Heisei-Mincho-W9-Condensed, NIS-JTC-Win-M9, NIS-JTC-Win-M9-Condensed, and TT-JTCウインZ5 & TT-JTCウインZ5P in the "Letraset" folder in "Fonts".
+- Added MSGOTHIC and MSMINCHO to the "Microsoft" folder in "Fonts".
+- Added nintendo_udsgr_std_003 and rodin_lat_cy_ja_ko_spec in the "Nintendo Fonts" folder in "Fonts".
+- Added HGRGY in the "RICOH" folder in "Fonts".
+- Moved ProtoSans51 in the "Abstrkt" folder in "Fonts".
+- Moved MassivaGrotesQ in the "Dawnland" folder in "Fonts".
+- Moved HoboStd to the "Letraset" folder in "Fonts".
+- Moved Frankfurter Highlight, Frankfurter Regular, and Pump Bold to the "Letraset" folder in "Fonts".
+- Moved EurostileLTProUnicode-Demi and the Helvetica Fonts to the "Letraset" folder in "Fonts".
+- Moved CooperBlackEF-Bold, MarvinVisionsBig-Bold, NIS-JTC-Win-Z10, and NIS-JTC-Win-Z10-Condensed to the "Letraset" folder in "Fonts".
