@@ -463,3 +463,6 @@
 - Moved Frankfurter Highlight, Frankfurter Regular, and Pump Bold to the "Letraset" folder in "Fonts".
 - Moved EurostileLTProUnicode-Demi and the Helvetica Fonts to the "Letraset" folder in "Fonts".
 - Moved CooperBlackEF-Bold, MarvinVisionsBig-Bold, NIS-JTC-Win-Z10, and NIS-JTC-Win-Z10-Condensed to the "Letraset" folder in "Fonts".
+
+05/28/2025:
+- Added HY굵은둥근고딕 in the "HanYang" folder in "Fonts".
