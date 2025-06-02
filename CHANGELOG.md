@@ -466,3 +466,10 @@
 
 05/28/2025:
 - Added HY굵은둥근고딕 in the "HanYang" folder in "Fonts".
+
+06/02/2025:
+- Renamed "Rhythm World: The Best+" to "Rhythm World: The Best Plus" for all Rhythm World: The Best Plus related Logos in this folder.
+- Modified Barista Artworks in "Barista".
+- Modified the "스" symbol for the Rhythm Cheonguk: The Best Plus Logo in "Custom Logos".
+- Modified the Rhythm Heaven Advance Icon in "Icons" and "Rhythm Heaven Advance".
+- Modified the Rhythm Paradise Advance Icon in "Icons" and "Rhythm Heaven Advance".
