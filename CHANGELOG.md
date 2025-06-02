@@ -473,3 +473,4 @@
 - Modified the "스" symbol for the Rhythm Cheonguk: The Best Plus Logo in "Custom Logos".
 - Modified the Rhythm Heaven Advance Icon in "Icons" and "Rhythm Heaven Advance".
 - Modified the Rhythm Paradise Advance Icon in "Icons" and "Rhythm Heaven Advance".
+- Renamed "Rhythm Heaven Groove" to "Rhythm Heaven Groove (iomkr)" in "Thumbnails".
