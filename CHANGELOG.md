@@ -468,10 +468,13 @@
 - Added HY굵은둥근고딕 in the "HanYang" folder in "Fonts".
 
 06/02/2025:
-- Renamed "Rhythm World: The Best+" to "Rhythm World: The Best Plus" for all Rhythm World: The Best Plus related Logos in this folder.
+- Renamed "Rhythm World: The Best+" to "Rhythm World: The Best Plus" for accuracy and consistency to the Korean product name.
 - Modified Barista Artworks in "Barista".
 - Modified the "스" symbol for the Rhythm Cheonguk: The Best Plus Logo in "Custom Logos".
 - Added A-OTF-ShinGoPro-Light in the "Morisawa" folder in "Fonts".
 - Modified the Rhythm Heaven Advance Icon in "Icons" and "Rhythm Heaven Advance".
 - Modified the Rhythm Paradise Advance Icon in "Icons" and "Rhythm Heaven Advance".
 - Renamed "Rhythm Heaven Groove" to "Rhythm Heaven Groove (iomkr)" in "Thumbnails".
+
+06/06/2025:
+- Added NintendoExt003 in the "Nintendo Fonts" folder in "Fonts".
