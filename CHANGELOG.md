@@ -439,7 +439,7 @@
 05/20/2025:
 - Added the modified FOT-HummingStd-E Font in the "Fontworks" folder in "Fonts".
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
-- Updated the modified RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
+- Updated the modified FOT-RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
 
 05/22/2025:
 - Modified the Rhythm World Miracle Stars Logo in "Custom Logos".
@@ -478,3 +478,8 @@
 
 06/06/2025:
 - Added NintendoExt003 in the "Nintendo Fonts" folder in "Fonts".
+
+06/09/2025:
+- Updated the modified FOT-HummingStd-E Font in the "Fontworks" folder in "Fonts".
+- Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
+- Updated the modified FOT-RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
