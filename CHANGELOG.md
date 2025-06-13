@@ -483,3 +483,6 @@
 - Updated the modified FOT-HummingStd-E Font in the "Fontworks" folder in "Fonts".
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
 - Updated the modified FOT-RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
+
+06/13/2025:
+- Modified the SVG file for the Rhythm Tengoku The Song Festival+ Logo in "Rhythm Heaven Megamix".
