@@ -85,15 +85,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="1.5082587"
-     inkscape:cx="180.00891"
-     inkscape:cy="196.91582"
+     inkscape:zoom="6.0330348"
+     inkscape:cx="486.90255"
+     inkscape:cy="236.19953"
      inkscape:window-width="2560"
      inkscape:window-height="1414"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g84" />
+     inkscape:current-layer="g8" />
   <g
      id="g8"
      inkscape:groupmode="layer"
@@ -196,9 +196,10 @@
            id="g94"
            transform="translate(431.2213,143.9851)">
           <path
-             d="m 0,0 -23.548,-5.005 -0.34,-3.891 17.572,3.735 c -0.743,-6.613 -5.266,-8.502 -11.814,-9.894 l -6.416,-1.364 -0.324,-3.697 6.173,1.312 C -10.222,-17.002 0.808,-13.941 0,0 m -0.513,1.815 -21.782,-4.629 0.296,3.377 21.781,4.63 z"
+             d="M 0.25421016,0.05415376 -23.54779,-5.0048463 l -0.341,-3.892 17.5730002,3.735 c -0.573,-6.5419997 -5.2660002,-8.5019997 -11.8150002,-9.8929997 l -6.416,-1.364 -0.323,-3.697 6.173,1.312 c 8.354,1.776 17.72200016,4.816 18.61000016,14.9659997 z m -0.768,1.76099994 -21.78100016,-4.63 0.296,3.37800006 21.78100016,4.62899994 z"
              style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
-             id="path96" />
+             id="path96-3"
+             inkscape:label="path96" />
         </g>
         <g
            id="g98"
