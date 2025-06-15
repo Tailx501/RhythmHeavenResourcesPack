@@ -489,3 +489,7 @@
 
 06/14/2025:
 - Modified the SVG file for the Rhythm Tengoku The Song Festival+ Logo in "Rhythm Heaven Megamix".
+
+06/15/2025:
+- Modified the Rhythm Heaven Advance Icon in "Icons" and "Rhythm Heaven Advance".
+- Modified the Rhythm Paradise Advance Icon in "Icons" and "Rhythm Heaven Advance".
