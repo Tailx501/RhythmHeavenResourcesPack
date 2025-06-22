@@ -493,3 +493,10 @@
 06/15/2025:
 - Modified the Rhythm Heaven Advance Icon in "Icons" and "Rhythm Heaven Advance".
 - Modified the Rhythm Paradise Advance Icon in "Icons" and "Rhythm Heaven Advance".
+
+06/21/2025:
+- Tweaked all the letters for all Rhythm Heaven related Logos in this Folder.
+- Tweaked all the letters for all Rhythm Paradise related Logos in this Folder.
+- Modified the Me Remixes_iguess Logo in "Custom Logos".
+- Modified the Rhythm Heaven Breakdown Logo Remake in "Custom Logos".
+- Added Heavenly Custard in the "Custom Fonts" folder in "Fonts".

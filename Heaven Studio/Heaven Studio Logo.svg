@@ -16,8 +16,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs27555" /><sodipodi:namedview
-   id="namedview27553"
+   id="defs1406" /><sodipodi:namedview
+   id="namedview1404"
    pagecolor="#505050"
    bordercolor="#eeeeee"
    borderopacity="1"
@@ -26,18 +26,18 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#505050"
    showgrid="false"
-   inkscape:zoom="3.2095692"
-   inkscape:cx="250.03356"
+   inkscape:zoom="3.2470767"
+   inkscape:cx="249.91711"
    inkscape:cy="186.62941"
    inkscape:window-width="2560"
-   inkscape:window-height="1400"
+   inkscape:window-height="1414"
    inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="Layer_1" />
 <style
    type="text/css"
-   id="style27198">
+   id="style1049">
 	.st0{fill:#0096E6;}
 	.st1{fill:#FFFFFF;}
 	.st2{fill:url(#SVGID_1_);}
@@ -66,37 +66,37 @@
    cx="381.19464"
    cy="195.49513"
    r="118.80535"
-   id="circle27200" />
+   id="circle1051" />
 		<circle
    class="st0"
    cx="251.83781"
    cy="235.7435"
    r="108.69426"
-   id="circle27202" />
+   id="circle1053" />
 		<circle
    class="st0"
    cx="108.69426"
    cy="264.56458"
    r="108.69426"
-   id="circle27204" />
+   id="circle1055" />
 		<circle
    class="st0"
    cx="352.66437"
    cy="103.63871"
    r="103.63871"
-   id="circle27206" />
+   id="circle1057" />
 		<circle
    class="st0"
    cx="240.02542"
    cy="140.34821"
    r="103.63871"
-   id="circle27208" />
+   id="circle1059" />
 		<circle
    class="st0"
    cx="125.91002"
    cy="165.48892"
    r="113.7498"
-   id="circle27210" />
+   id="circle1061" />
 	</g>
 	<g
    id="White_00000173863859387743365500000013956353504390998424_">
@@ -105,37 +105,37 @@
    cx="381.19464"
    cy="195.49513"
    r="106.16648"
-   id="circle27213" />
+   id="circle1064" />
 		<circle
    class="st1"
    cx="251.83781"
    cy="235.7435"
    r="96.055389"
-   id="circle27215" />
+   id="circle1066" />
 		<circle
    class="st1"
    cx="108.69426"
    cy="264.56458"
    r="96.055389"
-   id="circle27217" />
+   id="circle1068" />
 		<circle
    class="st1"
    cx="352.66437"
    cy="103.63871"
    r="90.99984"
-   id="circle27219" />
+   id="circle1070" />
 		<circle
    class="st1"
    cx="240.02542"
    cy="140.34821"
    r="90.99984"
-   id="circle27221" />
+   id="circle1072" />
 		<circle
    class="st1"
    cx="125.91002"
    cy="165.48892"
    r="101.11094"
-   id="circle27223" />
+   id="circle1074" />
 	</g>
 	<g
    id="Black_00000169545454085168482590000000394691436740915639_">
@@ -143,32 +143,32 @@
    cx="381.19458"
    cy="195.49504"
    r="96.055389"
-   id="circle27226" />
+   id="circle1077" />
 		<circle
    cx="251.83763"
    cy="235.74358"
    r="85.944298"
-   id="circle27228" />
+   id="circle1079" />
 		<circle
    cx="108.69431"
    cy="264.56451"
    r="85.944298"
-   id="circle27230" />
+   id="circle1081" />
 		<circle
    cx="352.66422"
    cy="103.63869"
    r="80.888748"
-   id="circle27232" />
+   id="circle1083" />
 		<circle
    cx="240.02562"
    cy="140.34836"
    r="80.888748"
-   id="circle27234" />
+   id="circle1085" />
 		<circle
    cx="125.90977"
    cy="165.48874"
    r="90.99984"
-   id="circle27236" />
+   id="circle1087" />
 	</g>
 </g>
 <g
@@ -177,7 +177,7 @@
 	<g
    id="O">
 		<g
-   id="g27261">
+   id="g1112">
 			
 				<linearGradient
    id="SVGID_1_"
@@ -190,48 +190,48 @@
 				<stop
    offset="0"
    style="stop-color:#C25CBD"
-   id="stop27240" />
+   id="stop1091" />
 				<stop
    offset="0.18185"
    style="stop-color:#BF5ABA"
-   id="stop27242" />
+   id="stop1093" />
 				<stop
    offset="0.32793"
    style="stop-color:#B556B0"
-   id="stop27244" />
+   id="stop1095" />
 				<stop
    offset="0.46165"
    style="stop-color:#A44EA0"
-   id="stop27246" />
+   id="stop1097" />
 				<stop
    offset="0.58795"
    style="stop-color:#8C4288"
-   id="stop27248" />
+   id="stop1099" />
 				<stop
    offset="0.70909"
    style="stop-color:#6D346A"
-   id="stop27250" />
+   id="stop1101" />
 				<stop
    offset="0.82635"
    style="stop-color:#472246"
-   id="stop27252" />
+   id="stop1103" />
 				<stop
    offset="0.93834"
    style="stop-color:#1C0D1B"
-   id="stop27254" />
+   id="stop1105" />
 				<stop
    offset="1"
    style="stop-color:#000000"
-   id="stop27256" />
+   id="stop1107" />
 			</linearGradient>
 			<polygon
    class="st2"
    points="442.78391,167.69131 431.43329,174.15616 420.08264,172.93231 416.23831,162.58716 420.08264,150.46693 "
-   id="polygon27259"
+   id="polygon1110"
    style="fill:url(#SVGID_1_)" />
 		</g>
 		<g
-   id="g27284">
+   id="g1135">
 			
 				<linearGradient
    id="SVGID_2_"
@@ -244,48 +244,48 @@
 				<stop
    offset="0"
    style="stop-color:#C25CBD"
-   id="stop27263" />
+   id="stop1114" />
 				<stop
    offset="0.18185"
    style="stop-color:#BF5ABA"
-   id="stop27265" />
+   id="stop1116" />
 				<stop
    offset="0.32793"
    style="stop-color:#B556B0"
-   id="stop27267" />
+   id="stop1118" />
 				<stop
    offset="0.46165"
    style="stop-color:#A44EA0"
-   id="stop27269" />
+   id="stop1120" />
 				<stop
    offset="0.58795"
    style="stop-color:#8C4288"
-   id="stop27271" />
+   id="stop1122" />
 				<stop
    offset="0.70909"
    style="stop-color:#6D346A"
-   id="stop27273" />
+   id="stop1124" />
 				<stop
    offset="0.82635"
    style="stop-color:#472246"
-   id="stop27275" />
+   id="stop1126" />
 				<stop
    offset="0.93834"
    style="stop-color:#1C0D1B"
-   id="stop27277" />
+   id="stop1128" />
 				<stop
    offset="1"
    style="stop-color:#000000"
-   id="stop27279" />
+   id="stop1130" />
 			</linearGradient>
 			<polygon
    class="st3"
    points="395.33783,178.64511 383.98749,185.10988 372.63718,183.88596 395.33783,156.17972 399.18216,166.52487 "
-   id="polygon27282"
+   id="polygon1133"
    style="fill:url(#SVGID_2_)" />
 		</g>
 		<g
-   id="g27307">
+   id="g1158">
 			
 				<linearGradient
    id="SVGID_3_"
@@ -298,48 +298,48 @@
 				<stop
    offset="0"
    style="stop-color:#C25CBD"
-   id="stop27286" />
+   id="stop1137" />
 				<stop
    offset="0.18185"
    style="stop-color:#BF5ABA"
-   id="stop27288" />
+   id="stop1139" />
 				<stop
    offset="0.32793"
    style="stop-color:#B556B0"
-   id="stop27290" />
+   id="stop1141" />
 				<stop
    offset="0.46165"
    style="stop-color:#A44EA0"
-   id="stop27292" />
+   id="stop1143" />
 				<stop
    offset="0.58795"
    style="stop-color:#8C4288"
-   id="stop27294" />
+   id="stop1145" />
 				<stop
    offset="0.70909"
    style="stop-color:#6D346A"
-   id="stop27296" />
+   id="stop1147" />
 				<stop
    offset="0.82635"
    style="stop-color:#472246"
-   id="stop27298" />
+   id="stop1149" />
 				<stop
    offset="0.93834"
    style="stop-color:#1C0D1B"
-   id="stop27300" />
+   id="stop1151" />
 				<stop
    offset="1"
    style="stop-color:#000000"
-   id="stop27302" />
+   id="stop1153" />
 			</linearGradient>
 			<polygon
    class="st4"
    points="372.63718,228.64778 383.98749,222.18301 395.33841,223.4068 399.18918,233.75047 395.33783,245.87231 "
-   id="polygon27305"
+   id="polygon1156"
    style="fill:url(#SVGID_3_)" />
 		</g>
 		<g
-   id="g27330">
+   id="g1181">
 			
 				<linearGradient
    id="SVGID_4_"
@@ -352,79 +352,79 @@
 				<stop
    offset="0"
    style="stop-color:#C25CBD"
-   id="stop27309" />
+   id="stop1160" />
 				<stop
    offset="0.18185"
    style="stop-color:#BF5ABA"
-   id="stop27311" />
+   id="stop1162" />
 				<stop
    offset="0.32793"
    style="stop-color:#B556B0"
-   id="stop27313" />
+   id="stop1164" />
 				<stop
    offset="0.46165"
    style="stop-color:#A44EA0"
-   id="stop27315" />
+   id="stop1166" />
 				<stop
    offset="0.58795"
    style="stop-color:#8C4288"
-   id="stop27317" />
+   id="stop1168" />
 				<stop
    offset="0.70909"
    style="stop-color:#6D346A"
-   id="stop27319" />
+   id="stop1170" />
 				<stop
    offset="0.82635"
    style="stop-color:#472246"
-   id="stop27321" />
+   id="stop1172" />
 				<stop
    offset="0.93834"
    style="stop-color:#1C0D1B"
-   id="stop27323" />
+   id="stop1174" />
 				<stop
    offset="1"
    style="stop-color:#000000"
-   id="stop27325" />
+   id="stop1176" />
 			</linearGradient>
 			<polygon
    class="st5"
    points="420.08325,217.694 431.43329,211.22929 442.78394,212.45314 420.08264,240.15952 416.24457,229.81293 "
-   id="polygon27328"
+   id="polygon1179"
    style="fill:url(#SVGID_4_)" />
 		</g>
 		<g
-   id="g27334">
+   id="g1185">
 			<polygon
    class="st6"
    points="420.08264,217.69414 420.08264,240.15952 395.33783,245.87231 395.33783,223.40694 "
-   id="polygon27332" />
+   id="polygon1183" />
 		</g>
 		<g
-   id="g27338">
+   id="g1189">
 			<polygon
    class="st6"
    points="420.08264,150.46693 420.08264,172.93231 395.33783,178.64511 395.33783,156.17972 "
-   id="polygon27336" />
+   id="polygon1187" />
 		</g>
 		<g
-   id="g27342">
+   id="g1193">
 			<polygon
    class="st6"
    points="395.33783,178.64511 395.33783,223.40694 372.63718,228.64778 372.63718,183.88596 "
-   id="polygon27340" />
+   id="polygon1191" />
 		</g>
 		<g
-   id="g27346">
+   id="g1197">
 			<polygon
    class="st6"
    points="442.78394,167.69131 442.78394,212.45314 420.08264,217.69414 420.08264,172.93231 "
-   id="polygon27344" />
+   id="polygon1195" />
 		</g>
 	</g>
 	<g
    id="I">
 		<g
-   id="g27378">
+   id="g1229">
 			
 				<linearGradient
    id="SVGID_5_"
@@ -437,88 +437,88 @@
 				<stop
    offset="0"
    style="stop-color:#000000"
-   id="stop27349" />
+   id="stop1200" />
 				<stop
    offset="0.09966"
    style="stop-color:#3A1C39"
-   id="stop27351" />
+   id="stop1202" />
 				<stop
    offset="0.19597"
    style="stop-color:#6B3368"
-   id="stop27353" />
+   id="stop1204" />
 				<stop
    offset="0.28653"
    style="stop-color:#91458D"
-   id="stop27355" />
+   id="stop1206" />
 				<stop
    offset="0.36996"
    style="stop-color:#AC51A7"
-   id="stop27357" />
+   id="stop1208" />
 				<stop
    offset="0.44369"
    style="stop-color:#BC59B7"
-   id="stop27359" />
+   id="stop1210" />
 				<stop
    offset="0.5"
    style="stop-color:#C25CBD"
-   id="stop27361" />
+   id="stop1212" />
 				<stop
    offset="0.55631"
    style="stop-color:#BC59B7"
-   id="stop27363" />
+   id="stop1214" />
 				<stop
    offset="0.63004"
    style="stop-color:#AC51A7"
-   id="stop27365" />
+   id="stop1216" />
 				<stop
    offset="0.71347"
    style="stop-color:#91458D"
-   id="stop27367" />
+   id="stop1218" />
 				<stop
    offset="0.80403"
    style="stop-color:#6B3368"
-   id="stop27369" />
+   id="stop1220" />
 				<stop
    offset="0.90034"
    style="stop-color:#3A1C39"
-   id="stop27371" />
+   id="stop1222" />
 				<stop
    offset="1"
    style="stop-color:#000000"
-   id="stop27373" />
+   id="stop1224" />
 			</linearGradient>
 			<polygon
    class="st7"
    points="353.08966,167.31987 353.08966,254.2399 330.38843,259.4809 330.38843,172.56087 "
-   id="polygon27376"
+   id="polygon1227"
    style="fill:url(#SVGID_5_)" />
 		</g>
 		<g
-   id="g27382">
+   id="g1233">
 			<polygon
    class="st6"
    points="365.18649,163.1407 365.18649,185.60609 318.29163,196.43262 318.29163,173.96724 "
-   id="polygon27380" />
+   id="polygon1231" />
 		</g>
 		<g
-   id="g27386">
+   id="g1237">
 			<polygon
    class="st6"
    points="365.18649,230.36792 365.18649,252.8333 318.29163,263.65982 318.29163,241.19444 "
-   id="polygon27384" />
+   id="polygon1235" />
 		</g>
 	</g>
 	<g
    id="D">
 		<g
-   id="g27391">
+   id="g1242">
 			<polygon
    class="st6"
    points="295.9274,196.26865 313.92557,206.55341 294.23804,229.20308 "
-   id="polygon27389" />
+   id="polygon1240" />
 		</g>
 		<g
-   id="g27400">
+   id="g1251">
 			
 				<linearGradient
    id="SVGID_6_"
@@ -531,20 +531,20 @@
 				<stop
    offset="0.11503"
    style="stop-color:#C25CBD"
-   id="stop27393" />
+   id="stop1244" />
 				<stop
    offset="0.68658"
    style="stop-color:#000000"
-   id="stop27395" />
+   id="stop1246" />
 			</linearGradient>
 			<polygon
    class="st8"
    points="300.25763,198.74307 300.25763,228.75459 268.15884,210.4111 274.5661,184.06207 "
-   id="polygon27398"
+   id="polygon1249"
    style="fill:url(#SVGID_6_)" />
 		</g>
 		<g
-   id="g27409">
+   id="g1260">
 			
 				<linearGradient
    id="SVGID_7_"
@@ -557,30 +557,30 @@
 				<stop
    offset="0"
    style="stop-color:#C25CBD"
-   id="stop27402" />
+   id="stop1253" />
 				<stop
    offset="1"
    style="stop-color:#000000"
-   id="stop27404" />
+   id="stop1255" />
 			</linearGradient>
 			<polygon
    class="st9"
    points="274.5661,273.75467 269.35773,249.12418 313.92557,206.55341 313.92557,233.08963 "
-   id="polygon27407"
+   id="polygon1258"
    style="fill:url(#SVGID_7_)" />
 		</g>
 		<g
-   id="g27413">
+   id="g1264">
 			<polygon
    class="st6"
    points="274.5661,184.06207 274.5661,273.75467 251.86487,278.99567 251.86487,189.30307 "
-   id="polygon27411" />
+   id="polygon1262" />
 		</g>
 	</g>
 	<g
    id="U">
 		<g
-   id="g27423">
+   id="g1274">
 			
 				<linearGradient
    id="SVGID_8_"
@@ -593,20 +593,20 @@
 				<stop
    offset="0"
    style="stop-color:#C25CBD"
-   id="stop27416" />
+   id="stop1267" />
 				<stop
    offset="1"
    style="stop-color:#000000"
-   id="stop27418" />
+   id="stop1269" />
 			</linearGradient>
 			<polygon
    class="st10"
    points="211.42067,198.64034 211.42067,273.55624 188.71941,271.10855 188.71941,203.88135 "
-   id="polygon27421"
+   id="polygon1272"
    style="fill:url(#SVGID_8_)" />
 		</g>
 		<g
-   id="g27432">
+   id="g1283">
 			
 				<linearGradient
    id="SVGID_9_"
@@ -619,30 +619,30 @@
 				<stop
    offset="0"
    style="stop-color:#C25CBD"
-   id="stop27425" />
+   id="stop1276" />
 				<stop
    offset="1"
    style="stop-color:#000000"
-   id="stop27427" />
+   id="stop1278" />
 			</linearGradient>
 			<polygon
    class="st11"
    points="228.12016,262.01218 221.71292,285.95679 206.72356,289.41736 188.71941,271.10855 "
-   id="polygon27430"
+   id="polygon1281"
    style="fill:url(#SVGID_9_)" />
 		</g>
 		<g
-   id="g27436">
+   id="g1287">
 			<polygon
    class="st6"
    points="221.71292,285.95679 221.71294,196.26419 244.4142,191.02318 244.4142,262.95419 "
-   id="polygon27434" />
+   id="polygon1285" />
 		</g>
 	</g>
 	<g
    id="T">
 		<g
-   id="g27472">
+   id="g1323">
 			
 				<linearGradient
    id="SVGID_10_"
@@ -655,82 +655,82 @@
 				<stop
    offset="0.1"
    style="stop-color:#C25CBD"
-   id="stop27439" />
+   id="stop1290" />
 				<stop
    offset="0.15545"
    style="stop-color:#BE5AB9"
-   id="stop27441" />
+   id="stop1292" />
 				<stop
    offset="0.21294"
    style="stop-color:#B154AD"
-   id="stop27443" />
+   id="stop1294" />
 				<stop
    offset="0.2714"
    style="stop-color:#9D4A99"
-   id="stop27445" />
+   id="stop1296" />
 				<stop
    offset="0.33052"
    style="stop-color:#803C7C"
-   id="stop27447" />
+   id="stop1298" />
 				<stop
    offset="0.39012"
    style="stop-color:#5A2B58"
-   id="stop27449" />
+   id="stop1300" />
 				<stop
    offset="0.44928"
    style="stop-color:#2D152C"
-   id="stop27451" />
+   id="stop1302" />
 				<stop
    offset="0.5"
    style="stop-color:#000000"
-   id="stop27453" />
+   id="stop1304" />
 				<stop
    offset="0.55072"
    style="stop-color:#2D152C"
-   id="stop27455" />
+   id="stop1306" />
 				<stop
    offset="0.60988"
    style="stop-color:#5A2B58"
-   id="stop27457" />
+   id="stop1308" />
 				<stop
    offset="0.66948"
    style="stop-color:#803C7C"
-   id="stop27459" />
+   id="stop1310" />
 				<stop
    offset="0.7286"
    style="stop-color:#9D4A99"
-   id="stop27461" />
+   id="stop1312" />
 				<stop
    offset="0.78706"
    style="stop-color:#B154AD"
-   id="stop27463" />
+   id="stop1314" />
 				<stop
    offset="0.84455"
    style="stop-color:#BE5AB9"
-   id="stop27465" />
+   id="stop1316" />
 				<stop
    offset="0.9"
    style="stop-color:#C25CBD"
-   id="stop27467" />
+   id="stop1318" />
 			</linearGradient>
 			<path
    class="st12"
    d="m 162.56413,232.38452 -18.94072,4.3728 -18.15989,-13.89404 c -1.61957,-1.23912 -0.47722,-4.26862 1.80857,-4.79634 l 51.64334,-11.92281 c 2.2858,-0.52771 3.42815,1.97432 1.80858,3.96126 z"
-   id="path27470"
+   id="path1321"
    style="fill:url(#SVGID_10_)" />
 		</g>
 		<g
-   id="g27476">
+   id="g1327">
 			<polygon
    class="st6"
    points="164.44441,209.48505 164.44441,296.91507 141.74313,302.15607 141.74313,214.72604 "
-   id="polygon27474" />
+   id="polygon1325" />
 		</g>
 	</g>
 	<g
    id="S_00000114042035609803708590000018275530301858250687_">
 		<g
-   id="g27516">
+   id="g1367">
 			
 				<linearGradient
    id="SVGID_11_"
@@ -743,80 +743,80 @@
 				<stop
    offset="0"
    style="stop-color:#000000"
-   id="stop27479" />
+   id="stop1330" />
 				<stop
    offset="0.03083"
    style="stop-color:#1C0D1B"
-   id="stop27481" />
+   id="stop1332" />
 				<stop
    offset="0.08683"
    style="stop-color:#472246"
-   id="stop27483" />
+   id="stop1334" />
 				<stop
    offset="0.14546"
    style="stop-color:#6D346A"
-   id="stop27485" />
+   id="stop1336" />
 				<stop
    offset="0.20603"
    style="stop-color:#8C4288"
-   id="stop27487" />
+   id="stop1338" />
 				<stop
    offset="0.26917"
    style="stop-color:#A44EA0"
-   id="stop27489" />
+   id="stop1340" />
 				<stop
    offset="0.33603"
    style="stop-color:#B556B0"
-   id="stop27491" />
+   id="stop1342" />
 				<stop
    offset="0.40908"
    style="stop-color:#BF5ABA"
-   id="stop27493" />
+   id="stop1344" />
 				<stop
    offset="0.5"
    style="stop-color:#C25CBD"
-   id="stop27495" />
+   id="stop1346" />
 				<stop
    offset="0.59092"
    style="stop-color:#BF5ABA"
-   id="stop27497" />
+   id="stop1348" />
 				<stop
    offset="0.66397"
    style="stop-color:#B556B0"
-   id="stop27499" />
+   id="stop1350" />
 				<stop
    offset="0.73083"
    style="stop-color:#A44EA0"
-   id="stop27501" />
+   id="stop1352" />
 				<stop
    offset="0.79397"
    style="stop-color:#8C4288"
-   id="stop27503" />
+   id="stop1354" />
 				<stop
    offset="0.85454"
    style="stop-color:#6D346A"
-   id="stop27505" />
+   id="stop1356" />
 				<stop
    offset="0.91317"
    style="stop-color:#472246"
-   id="stop27507" />
+   id="stop1358" />
 				<stop
    offset="0.96917"
    style="stop-color:#1C0D1B"
-   id="stop27509" />
+   id="stop1360" />
 				<stop
    offset="1"
    style="stop-color:#000000"
-   id="stop27511" />
+   id="stop1362" />
 			</linearGradient>
 			<polygon
    class="st13"
    points="109.56109,254.63765 115.96833,275.62381 85.24993,282.7157 78.8427,261.72955 "
-   id="polygon27514"
+   id="polygon1365"
    style="fill:url(#SVGID_11_)" />
 		</g>
 		<g
-   id="g27525">
+   id="g1376">
 			
 				<linearGradient
    id="SVGID_12_"
@@ -829,20 +829,20 @@
 				<stop
    offset="0"
    style="stop-color:#000000"
-   id="stop27518" />
+   id="stop1369" />
 				<stop
    offset="1"
    style="stop-color:#C25CBD"
-   id="stop27520" />
+   id="stop1371" />
 			</linearGradient>
 			<path
    class="st14"
    d="m 128.414,240.26878 -49.5713,11.44444 6.40723,-23.94461 26.81206,-6.19005 18.16056,13.89386 c 1.61961,1.2391 0.47728,4.26864 -1.80855,4.79636 z"
-   id="path27523"
+   id="path1374"
    style="fill:url(#SVGID_12_)" />
 		</g>
 		<g
-   id="g27534">
+   id="g1385">
 			
 				<linearGradient
    id="SVGID_13_"
@@ -855,56 +855,56 @@
 				<stop
    offset="0"
    style="stop-color:#321933"
-   id="stop27527" />
+   id="stop1378" />
 				<stop
    offset="1"
    style="stop-color:#C25CBD"
-   id="stop27529" />
+   id="stop1380" />
 			</linearGradient>
 			<path
    class="st15"
    d="m 66.397,297.08582 43.16407,-9.96521 V 309.586 l -26.81206,6.19003 -18.16055,-13.89386 c -1.61962,-1.2391 -0.47728,-4.26864 1.80854,-4.79635 z"
-   id="path27532"
+   id="path1383"
    style="fill:url(#SVGID_13_)" />
 		</g>
 		<g
-   id="g27538">
+   id="g1389">
 			<polygon
    class="st6"
    points="85.24993,227.76862 85.24993,282.7157 62.78387,269.89957 62.78387,250.95815 "
-   id="polygon27536" />
+   id="polygon1387" />
 		</g>
 		<g
-   id="g27542">
+   id="g1393">
 			<polygon
    class="st6"
    points="109.56107,309.58536 109.56107,254.63828 132.02713,267.45441 132.02713,286.39581 "
-   id="polygon27540" />
+   id="polygon1391" />
 		</g>
 	</g>
 	<path
-   id="N_2_"
+   id="N_1_"
    class="st16"
-   d="m 372.53052,53.81042 c 0,0 -0.12967,33.81844 -0.55063,39.76734 -0.65753,9.2921 -3.15433,9.54124 -5.27893,8.14747 -4.2395,-2.78118 -12.16092,-18.6192 -19.25369,-32.39231 l -10.34766,2.38895 v 85.58076 l 12.65289,-2.92114 0.0427,-21.71523 c 0.0219,-11.14687 3.06549,-11.87197 7.48788,-7.82282 3.35593,3.07269 7.92212,9.84823 15.1178,21.36958 l 16.74387,-3.86563 V 49.97474 Z" />
+   d="m 372.53073,53.81032 c 0,0 -0.1297,33.81848 -0.55066,39.76738 -0.6575,9.29211 -3.15433,9.54126 -5.27893,8.14748 -4.2395,-2.78118 -12.16092,-18.61922 -19.25369,-32.39234 l -10.34769,2.38895 v 85.58084 l 12.65292,-2.92116 0.0427,-21.71524 c 0.0219,-11.14687 3.06549,-11.87198 7.48788,-7.82283 3.35593,3.07269 7.92212,9.84824 15.1178,21.3696 l 16.7439,-3.86563 V 49.97463 Z" />
 	<path
-   id="E_4_"
+   id="E_2_"
    class="st16"
-   d="m 308.66434,139.43126 c -0.38391,0.002 -3.22623,-0.0947 -3.53015,-2.26317 -0.17603,-1.25583 0.42673,-2.43486 1.94318,-3.36247 2.37164,-1.45073 10.58096,-3.8101 18.46027,-5.65797 v -10.89559 c 0,0 -14.267,3.43298 -18.65454,2.78047 -1.33261,-0.19818 -2.22021,-0.90253 -2.39664,-2.1338 -0.1803,-1.25842 0.45361,-2.39233 1.94318,-3.36246 4.01263,-2.61333 22.02286,-6.49863 22.02286,-6.49863 V 82.89749 l -37.08246,8.56115 -6e-5,67.01637 37.85968,-8.7406 v -13.92426 c -10.10457,2.29559 -16.93462,3.60126 -20.56532,3.62111 z" />
+   d="m 308.66449,139.42924 c -0.38391,0.002 -3.22623,-0.0947 -3.53018,-2.26317 -0.17599,-1.25583 0.42676,-2.43488 1.94321,-3.36247 2.37164,-1.45073 10.58099,-3.81012 18.4603,-5.65799 V 117.25 c 0,0 -14.26703,3.43299 -18.65457,2.78048 -1.33261,-0.19818 -2.22025,-0.90253 -2.39664,-2.13381 -0.18033,-1.25842 0.45358,-2.39233 1.94318,-3.36246 4.01263,-2.61334 22.0228,-6.49863 22.0228,-6.49863 V 82.89737 l -37.08243,8.56115 -9e-5,67.01649 37.85977,-8.74062 v -13.92625 c -10.10457,2.29559 -16.93464,3.60125 -20.56535,3.6211 z" />
 	<path
-   id="V_00000085929962132880534560000014672246115285576350_"
+   id="V_1_"
    class="st16"
-   d="m 267.66879,86.43014 c 0,0 -4.01709,26.46692 -7.58408,38.69793 -1.01923,3.49481 -3.4827,8.8423 -6.83354,1.19629 -1.20013,-2.73851 -4.76266,-15.53309 -7.37726,-32.0277 l -11.56879,2.67086 c 1.01247,11.34145 6.56612,41.97377 13.96562,59.81973 l 22.43671,-5.17992 c 8.25854,-21.8559 13.21371,-44.94039 14.89777,-69.31814 z" />
+   d="m 267.66882,86.43009 c 0,0 -4.01709,26.46693 -7.58408,38.69795 -1.01923,3.49482 -3.4827,8.84229 -6.83354,1.19629 -1.20015,-2.73851 -4.76266,-15.5331 -7.37729,-32.02773 l -11.56879,2.67087 c 1.01248,11.34145 6.56612,41.97379 13.96564,59.81977 l 22.43672,-5.17992 c 8.25854,-21.85591 13.21371,-44.94042 14.89777,-69.31819 z" />
 	<path
-   id="A_00000133530497519337124040000002342243645749724802_"
+   id="A_1_"
    class="st16"
-   d="m 227.84422,120.66638 c -5.61501,-10.34486 -12.14464,-8.20112 -15.49042,-7.09406 -4.3837,1.45049 -8.27457,3.70189 -12.34596,19.85136 -4.27972,16.97581 -8.9386,52.63527 -8.9386,52.63527 l 11.74771,-2.71217 1.20683,-6.76089 c 0.5829,-3.26549 2.66132,-5.33998 5.8295,-6.27223 0,0 9.10251,-2.36253 12.20976,-2.71579 1.31265,-0.14926 2.8551,0.88687 3.30344,2.94208 l 1.58687,7.27457 15.99892,-3.69363 c 0,-3e-5 -7.95868,-40.28279 -15.10805,-53.45451 z m -9.88849,37.93971 c -1.78709,0.38907 -5.85268,1.41887 -7.93013,1.80792 -1.98813,0.38901 -3.14969,-0.73228 -2.90402,-3.57007 0.22339,-2.65462 1.38954,-8.28328 1.83173,-10.18381 0.97797,-4.20328 2.89992,-5.95525 5.16016,-6.27046 2.89729,-0.40405 5.42825,2.1283 6.81328,8.99377 0.13397,0.66371 0.47209,2.04123 0.69244,3.91335 0.26754,2.27323 -0.84885,4.59988 -3.66346,5.3093 z" />
+   d="m 227.8443,120.62506 c -5.61501,-10.34487 -12.14464,-8.20113 -15.49042,-7.09407 -4.38371,1.45049 -8.27457,3.70189 -12.34598,19.85138 -4.27972,16.97581 -8.94386,52.67657 -8.94386,52.67657 l 11.74588,-2.71176 1.21394,-6.8026 c 0.5829,-3.26549 2.66132,-5.33998 5.8295,-6.27223 3.04643,-0.89641 9.10251,-2.36253 12.20976,-2.71579 1.31267,-0.14926 2.85512,0.88687 3.30344,2.94209 l 1.58688,7.27455 15.99892,-3.69363 c 0,0 -7.95868,-40.28277 -15.10806,-53.45451 z m -9.88849,37.93974 -7.93015,1.83083 c -1.98935,0.45927 -3.14621,-0.75569 -2.90401,-3.59297 0.22664,-2.65509 1.38953,-8.28329 1.83173,-10.18382 0.97797,-4.20328 2.89992,-5.95525 5.16016,-6.27046 2.89729,-0.40407 5.42786,2.12846 6.81328,8.99377 0.13394,0.66373 0.47211,2.04123 0.69244,3.91336 0.26755,2.27321 -0.8482,4.65935 -3.66345,5.30929 z" />
 	<path
-   id="E_3_"
+   id="E_1_"
    class="st16"
-   d="m 165.12776,166.99734 c -0.38391,0.002 -3.22623,-0.0947 -3.53017,-2.26317 -0.17603,-1.25583 0.42674,-2.43486 1.94319,-3.36247 2.37163,-1.45073 10.58098,-3.8101 18.46025,-5.65797 v -10.8956 c 0,0 -14.26698,3.43298 -18.65453,2.78049 -1.33261,-0.19818 -2.22023,-0.90254 -2.39665,-2.13382 -0.1803,-1.25841 0.4536,-2.39232 1.94319,-3.36246 4.01263,-2.61334 22.02277,-6.49861 22.02277,-6.49861 l 8e-5,-27.09762 -37.08244,8.56115 -9e-5,67.01637 37.85971,-8.7406 v -11.9668 c -10.10455,2.2956 -16.9346,3.60126 -20.56531,3.62111 z" />
+   d="m 165.12781,166.99731 c -0.38393,0.002 -3.22624,-0.0947 -3.53018,-2.26318 -0.17603,-1.25581 0.42674,-2.43486 1.94319,-3.36246 2.37164,-1.45073 10.58099,-3.81012 18.4603,-5.65799 v -10.89561 c 0,0 -14.26701,3.43298 -18.65457,2.78047 -1.33261,-0.19818 -2.22023,-0.90253 -2.39665,-2.1338 -0.1803,-1.25842 0.4536,-2.39233 1.94319,-3.36247 4.01265,-2.61334 22.02281,-6.49863 22.02281,-6.49863 v -27.09765 l -37.08244,8.56115 -8e-5,67.01649 37.85977,-8.74062 v -11.96683 c -10.10457,2.29562 -16.93464,3.60128 -20.56534,3.62113 z" />
 	<path
-   id="H_6_"
+   id="H_2_"
    class="st16"
-   d="m 119.12221,105.11441 c 0,13.37298 0.0674,23.38168 -1.76458,29.93993 -1.1128,3.9838 -3.56248,7.01588 -6.83349,9.3114 -3.33178,2.33817 -6.67165,3.36246 -9.94267,3.42709 -3.98872,0.0788 -6.90428,-2.09155 -7.33042,-6.52347 -0.61215,-6.36653 -0.57185,-14.41232 -0.57185,-25.56119 l -14.47679,3.34222 v 98.61014 l 19.88528,-4.59088 c 0,-12.54953 0.25731,-21.79987 1.8041,-27.56938 1.05412,-3.93179 3.92125,-7.25005 6.816,-9.20494 3.38302,-2.28459 6.4953,-3.42722 9.77294,-3.48039 3.98354,-0.0647 7.00817,1.99144 7.384,5.96399 0.55058,5.81963 0.58646,13.73378 0.58646,24.53371 l 14.73492,-3.40182 V 100.4823 Z" />
+   d="m 119.12226,105.11441 c 0,13.37298 0.0674,23.38168 -1.76458,29.93993 -1.1128,3.9838 -3.56248,7.01588 -6.83349,9.3114 -3.33178,2.33817 -6.67165,3.36246 -9.94267,3.42709 -3.98872,0.0788 -6.90428,-2.09155 -7.33042,-6.52347 -0.61215,-6.36653 -0.57185,-14.41232 -0.57185,-25.56119 l -14.47679,3.34222 v 98.61014 l 19.88528,-4.59088 c 0,-12.54953 0.25731,-21.79987 1.8041,-27.56938 1.05412,-3.93179 3.92125,-7.25005 6.816,-9.20494 3.38302,-2.28459 6.4953,-3.42722 9.77294,-3.48039 3.98354,-0.0647 7.00817,1.99144 7.384,5.96399 0.55058,5.81963 0.58646,13.73378 0.58646,24.53371 l 14.73491,-3.40184 v -99.4285 z" />
 </g>
 </svg>

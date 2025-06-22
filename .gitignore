@@ -1,4 +1,5 @@
 
 *.ini
-.DS_Store
-.DS_Store
+*.DS_Store
+*.db:encryptable
+*.db
