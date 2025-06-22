@@ -500,3 +500,6 @@
 - Modified the Me Remixes_iguess Logo in "Custom Logos".
 - Modified the Rhythm Heaven Breakdown Logo Remake in "Custom Logos".
 - Added Heavenly Custard in the "Custom Fonts" folder in "Fonts".
+
+06/22/2025:
+- Removed the "Han-Media" folder in "Fonts".
