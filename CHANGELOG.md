@@ -503,3 +503,6 @@
 
 06/22/2025:
 - Removed the "Han-Media" folder in "Fonts".
+
+06/26/2025:
+- Added the Rhythm Heaven Heartbeat Logo in "Custom Logos". (Credit: ThatSharkguy)

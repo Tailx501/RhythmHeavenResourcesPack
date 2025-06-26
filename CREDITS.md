@@ -3,6 +3,7 @@ The following is a list of users that was credited and mentioned in this Resourc
 Custom Logos:
 - Borists/Tudor_0: Designed the Rhythm Heaven Fever HD Logo
 - iomkr: RH Craft/Rh Ultra/Rhythm Crossing/Rhythm Discord/Rhythm Hell/קצב גן עדן
+- ThatSharkguy: Rhythm Heaven Heartbeat
 - ZAZiOs: Ритм Небес
 
 Fonts:
