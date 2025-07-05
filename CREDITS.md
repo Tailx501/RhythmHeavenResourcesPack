@@ -13,7 +13,7 @@ Fonts:
 - Kitty42777: WarioWare Original
 - MatthewThePrep: About Friend (Kurokane)
 - QDFontsPuzzlyGames: WarioWare Inc BWWDN/WarioWare Inc v2/WarioWare MPG/WarioWareIncV2-Medium/WarioWareV2
-- Suho1004man: Found two original Rhythm World Font
+- ssawwale: a희망B/한컴솔잎B/Gulim
 - フマジメ: WarioWareIncMerge
 
 Funny, Unique, & Cursed Rhythm Heaven Logos:

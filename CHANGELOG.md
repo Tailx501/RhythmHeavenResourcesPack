@@ -506,3 +506,6 @@
 
 06/26/2025:
 - Added the Rhythm Heaven Heartbeat Logo in "Custom Logos". (Credit: ThatSharkguy)
+
+07/05/2025:
+- Added gulim-Regular in the "Miscellaneous Fonts" folder in "Fonts". (Credit: ssawwale)
