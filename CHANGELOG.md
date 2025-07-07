@@ -509,3 +509,6 @@
 
 07/05/2025:
 - Added gulim-Regular in the "Miscellaneous Fonts" folder in "Fonts". (Credit: ssawwale)
+
+07/07/2025:
+- Added the Rhythm Heaven Megamix HD Logo in "Custom Logos". (Credit: Borists)
