@@ -512,3 +512,6 @@
 
 07/07/2025:
 - Added the Rhythm Heaven Megamix HD Logo in "Custom Logos". (Credit: Borists)
+
+07/12/2025:
+- Added DFMaruGothicStd-W9 and DFMaruGothicStd-W12 in the "DynaFont" folder in "Fonts".
