@@ -322,8 +322,8 @@
 04/05/2025:
 - Added the Rhythm Cheonguk Logo in "Custom Logos".
 - Added the Rhythm Cheonguk Wii Logo in "Custom Logos".
-- Added the Rhythm Cheonguk The Best+ Logo in "Custom Logos".
-- Added the Rhythm World Miracle Stars Logo in "Custom Logos".
+- Added the Rhythm Cheonguk: The Best+ Logo in "Custom Logos".
+- Added the Rhythm World: Miracle Stars Logo in "Custom Logos".
 - Added FOT-TsukuAOldMinPr6N-M in "Fonts".
 - Added "Rhythm Heaven Groove" in this Folder.
 
@@ -332,7 +332,7 @@
 - Added Rhythm Heaven: Miracle Stars in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
 
 04/10/2025:
-- Modified the Rhythm Heaven Miracle Stars Logo and Moved it to "Custom Logos". (Credit: iomkr)
+- Modified the Rhythm Heaven: Miracle Stars Logo and Moved it to "Custom Logos". (Credit: iomkr)
 - Added the Rhythm Heaven Groove Thumbnail in "Thumbnails"
 
 04/11/2025:
@@ -390,10 +390,10 @@
 - Added the Rhythm Tengoku Gold Domestic and Overseas Editions Complete Vocal Collection Logo in "Rhythm Tengoku Complete Music Collection".
 
 04/29/2025:
-- Modified the Rhythm World Miracle Stars Logo in "Custom Logos".
-- Modified the Jiézòu Tiānguó Qíjī Zhī Xīng Logo in "Rhythm Heaven Groove".
-- Modified the Rhythm Cheonguk Miracle Stars Logo in "Rhythm Heaven Groove".
-- Modified the Rhythm Tengoku Miracle Stars Logo in "Rhythm Heaven Groove".
+- Modified the Rhythm World: Miracle Stars Logo in "Custom Logos".
+- Modified the Jiézòu Tiānguó: Qíjī Zhī Xīng Logo in "Rhythm Heaven Groove".
+- Modified the Rhythm Cheonguk: Miracle Stars Logo in "Rhythm Heaven Groove".
+- Modified the Rhythm Tengoku: Miracle Stars Logo in "Rhythm Heaven Groove".
 
 04/30/2025:
 - Modified the Rhythm Tengoku Gold Logo in "Icons" and "Rhythm Heaven".
@@ -430,7 +430,7 @@
 - Updated the HGRPP1 Font in the "RICOH" folder in "Fonts".
 
 05/14/2025:
-- Corrected the "즈" symbol for the Rhythm World Miracle Stars Logo in "Custom Logos".
+- Corrected the "즈" symbol for the Rhythm World: Miracle Stars Logo in "Custom Logos".
 
 05/18/2025:
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
@@ -442,12 +442,12 @@
 - Updated the modified FOT-RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
 
 05/22/2025:
-- Modified the Rhythm World Miracle Stars Logo in "Custom Logos".
-- Modified the Rhythm Cheonguk Miracle Stars Logo in "Rhythm Heaven Groove".
+- Modified the Rhythm World: Miracle Stars Logo in "Custom Logos".
+- Modified the Rhythm Cheonguk: Miracle Stars Logo in "Rhythm Heaven Groove".
 
 05/23/2025:
-- Modified the Rhythm World Miracle Stars Logo in "Custom Logos".
-- Modified the Rhythm Cheonguk Miracle Stars Logo in "Rhythm Heaven Groove".
+- Modified the Rhythm World: Miracle Stars Logo in "Custom Logos".
+- Modified the Rhythm Cheonguk: Miracle Stars Logo in "Rhythm Heaven Groove".
 
 05/27/2025:
 - Removed the "ITC" folder in "Fonts".
@@ -485,10 +485,10 @@
 - Updated the modified FOT-RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
 
 06/13/2025:
-- Modified the SVG file for the Rhythm Tengoku The Song Festival+ Logo in "Rhythm Heaven Megamix".
+- Modified the SVG file for the Rhythm Tengoku: The Song Festival+ Logo in "Rhythm Heaven Megamix".
 
 06/14/2025:
-- Modified the SVG file for the Rhythm Tengoku The Song Festival+ Logo in "Rhythm Heaven Megamix".
+- Modified the SVG file for the Rhythm Tengoku: The Song Festival+ Logo in "Rhythm Heaven Megamix".
 
 06/15/2025:
 - Modified the Rhythm Heaven Advance Icon in "Icons" and "Rhythm Heaven Advance".
@@ -515,3 +515,6 @@
 
 07/12/2025:
 - Added DFMaruGothicStd-W9 and DFMaruGothicStd-W12 in the "DynaFont" folder in "Fonts".
+
+07/13/2025:
+- Renamed "Jiézòu Tiānguó: Qíjī Zhī Xīng" to "Jiézòu Tiānguó: Qíjì Zhī Xīng" for accuracy and consistency to the pinyin.
