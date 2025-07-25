@@ -520,6 +520,7 @@
 - Renamed "Jiézòu Tiānguó: Qíjī Zhī Xīng" to "Jiézòu Tiānguó: Qíjì Zhī Xīng" for accuracy and consistency to the pinyin.
 
 07/25/2025:
+- Removed the "Abstrkt" folder in "Fonts".
 - Removed the "Dawnland" folder in "Fonts".
 - Added the "Kostic" folder in "Fonts".
 - Added JustSquareLTStd in the "Kostic" folder in "Fonts".
