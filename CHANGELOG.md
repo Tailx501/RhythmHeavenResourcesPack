@@ -524,3 +524,6 @@
 - Removed the "Dawnland" folder in "Fonts".
 - Added the "Kostic" folder in "Fonts".
 - Added JustSquareLTStd in the "Kostic" folder in "Fonts".
+
+07/31/2025:
+- Modified the Rhythm Tengoku: Miracle Stars Logo in "Rhythm Heaven Groove".
