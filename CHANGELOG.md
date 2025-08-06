@@ -527,3 +527,10 @@
 
 07/31/2025:
 - Modified the Rhythm Tengoku: Miracle Stars Logo in "Rhythm Heaven Groove".
+
+08/06/2025:
+- Removed Wanted in the "Miscellaneous Fonts" folder in "Fonts".
+- Added the "OPTI Fonts" folder in "Fonts".
+- Added the "URW++" folder in "Fonts".
+- Added FantailOpti in the "OPTI Fonts" folder in "Fonts".
+- Added Nimbus Sans Bold in the "URW++" folder in "Fonts".
