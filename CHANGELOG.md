@@ -534,3 +534,8 @@
 - Added the "URW++" folder in "Fonts".
 - Added FantailOpti in the "OPTI Fonts" folder in "Fonts".
 - Added Nimbus Sans Bold in the "URW++" folder in "Fonts".
+
+
+08/09/2025:
+- Added DFKaiShoStd-W14 in the "DynaFont" folder in "Fonts".
+- Added FOT-NewRodinProN-DB in the "Fontworks" folder in "Fonts".
