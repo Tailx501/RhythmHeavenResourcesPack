@@ -539,3 +539,5 @@
 08/09/2025:
 - Added DFKaiShoStd-W14 in the "DynaFont" folder in "Fonts".
 - Added FOT-NewRodinProN-DB in the "Fontworks" folder in "Fonts".
+08/11/2025:
+- Font orginization (Credit: iomkr)
