@@ -544,3 +544,4 @@
 
 08/12/2025:
 - Added the Puyo Puyo Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
+- Added the Minna De Puyo Puyo Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
