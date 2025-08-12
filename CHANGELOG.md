@@ -541,3 +541,6 @@
 - Added FOT-NewRodinProN-DB in the "Fontworks" folder in "Fonts".
 08/11/2025:
 - Font orginization (Credit: iomkr)
+
+08/12/2025:
+- Added the Puyo Puyo Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
