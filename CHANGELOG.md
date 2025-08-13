@@ -535,13 +535,20 @@
 - Added FantailOpti in the "OPTI Fonts" folder in "Fonts".
 - Added Nimbus Sans Bold in the "URW++" folder in "Fonts".
 
-
 08/09/2025:
 - Added DFKaiShoStd-W14 in the "DynaFont" folder in "Fonts".
 - Added FOT-NewRodinProN-DB in the "Fontworks" folder in "Fonts".
+
 08/11/2025:
-- Font orginization (Credit: iomkr)
+- Font orginization. (Credit: iomkr)
 
 08/12/2025:
 - Added the Puyo Puyo Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
 - Added the Minna De Puyo Puyo Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
+
+08/13/2025:
+- More Font orginization.
+- Removed LogoLineStd-Ultra in the "Adobe" folder in "Fonts".
+- Added FOT-RodinNTLGPro-EB in the "Fontworks" folder in "Fonts".
+- Added Frankfurter Std Medium, Helvetica-Narrow-Bold and HelveticaNeueLTPro-MdCn in the "Letraset" folder in "Fonts".
+- Added AvenirNextLTPro-Bold and AvenirNextLTPro-Regular in the "Linotype" folder in "Fonts".

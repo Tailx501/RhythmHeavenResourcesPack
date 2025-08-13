@@ -19,7 +19,7 @@ Fonts:
 
 Funny, Unique, & Cursed Rhythm Heaven Logos:
 - AstrlJelly: Hnevea Sudtio
-- iomkr: HR/idk/rhythm heaven gigamix shadow/Rhythm Heaven Logo but Wii/Rhythm Heaven Miracle Stars
+- iomkr: HR/idk/Minna De Poyo Poyo/Puyo Puyo/rhythm heaven gigamix shadow/Rhythm Heaven Logo but Wii/Rhythm Heaven Miracle Stars
 
 Go for a Perfect!:
 - vincells: Originally upscaled the "Go for a Perfect!" Wordmark in high quality.
