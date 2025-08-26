@@ -552,3 +552,6 @@
 - Added FOT-RodinNTLGPro-EB in the "Fontworks" folder in "Fonts".
 - Added Frankfurter Std Medium, Helvetica-Narrow-Bold and HelveticaNeueLTPro-MdCn in the "Letraset" folder in "Fonts".
 - Added AvenirNextLTPro-Bold and AvenirNextLTPro-Regular in the "Linotype" folder in "Fonts".
+
+08/26/2025:
+- Added the Rhythm Tengoku Logo but English Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos".
