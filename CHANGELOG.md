@@ -555,3 +555,7 @@
 
 08/26/2025:
 - Added the Rhythm Tengoku Logo but English Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos".
+
+08/28/2025:
+- Added the Heaven Archive Logo in "Custom Logos".
+- Added the Rhythm Heaven Silver Logo in "Custom Logos".
