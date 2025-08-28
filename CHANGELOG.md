@@ -557,7 +557,7 @@
 - Added the Rhythm Tengoku Logo but English Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos".
 
 08/28/2025:
-- Added "Rhythm Heaven Silver" in this Folder.
+- Added "Rhythm Heaven Silver (2022)" in this Folder.
 - Renamed "Heaven Studio" to "Heaven Studio (2024)".
 - Renamed "Polyrhythm Mania" to "Polyrhythm Mania (2021)".
 - Renamed "Rhythm Heaven Wiki" to "Rhythm Heaven Wiki (2009)".
