@@ -64,7 +64,7 @@
 - Changed the size from 4000x to 5000x for the Rhythm Heaven Megamix Background in "Rhythm Heaven Megamix".
 
 01/29/2024:
-- Added some Flat variants in "Rhythm Heaven Re-Megamix".
+- Added some Flat variants for "Rhythm Heaven Re-Megamix".
 
 01/30/2024:
 - Added the Beta Logo of Rhythm Tengoku Gold in "Rhythm Heaven (2008)".
@@ -563,3 +563,7 @@
 - Renamed "Rhythm Heaven Wiki" to "Rhythm Heaven Wiki (2009)".
 - Added the Heaven Archive Logo in "Custom Logos".
 - Added the Rhythm Heaven Silver Logos in "Rhythm Heaven Silver (2022)".
+
+08/29/2025:
+- Added some variants for "Rhythm Heaven Silver (2022)".
+- Modified the Rhythm Heaven Silver Logos in "Rhythm Heaven Silver (2022)".
