@@ -567,3 +567,11 @@
 08/29/2025:
 - Added some variants for "Rhythm Heaven Silver (2022)".
 - Modified the Rhythm Heaven Silver Logos in "Rhythm Heaven Silver (2022)".
+
+09/04/2025:
+- Added the "Hoefler & Co." folder in "Fonts".
+- Added the "Paratype" folder in "Fonts".
+- Added DFSNGyoShoStd-W5 in the "DynaFont" folder in "Fonts".
+- Added Gotham-Bold in the "Hoefler & Co." folder in "Fonts".
+- Added FuturaPTBook in the "Paratype" folder in "Fonts".
+- Removed Futura Book BT in the "Adobe" folder in "Fonts".
