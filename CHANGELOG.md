@@ -549,7 +549,7 @@
 08/13/2025:
 - More Font orginization.
 - Removed LogoLineStd-Ultra in the "Adobe" folder in "Fonts".
-- Added FOT-RodinNTLGPro-EB in the "Fontworks" folder in "Fonts".
+- Added FOT-RodinNTLGPro-EB in the "Fontworks (Monotype KK)" folder in "Fonts".
 - Added Frankfurter Std Medium, Helvetica-Narrow-Bold and HelveticaNeueLTPro-MdCn in the "Letraset" folder in "Fonts".
 - Added AvenirNextLTPro-Bold and AvenirNextLTPro-Regular in the "Linotype" folder in "Fonts".
 
@@ -575,3 +575,8 @@
 - Added Gotham-Bold in the "Hoefler & Co." folder in "Fonts".
 - Added FuturaPTBook in the "Paratype" folder in "Fonts".
 - Removed Futura Book BT in the "Adobe" folder in "Fonts".
+
+09/08/2025:
+- Added a정헤드B in the "AsiaFont" folder in "Fonts".
+- Added FOT-RocknRollStd-DB in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Updated the modified Kurokane Font in the "Fontworks (Monotype KK)" folder in "Fonts".
