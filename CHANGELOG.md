@@ -580,3 +580,6 @@
 - Added a정헤드B in the "AsiaFont" folder in "Fonts".
 - Added FOT-RocknRollStd-DB in the "Fontworks (Monotype KK)" folder in "Fonts".
 - Updated the modified Kurokane Font in the "Fontworks (Monotype KK)" folder in "Fonts".
+
+09/09/2025:
+- Updated the modified Kurokane Font in the "Fontworks (Monotype KK)" folder in "Fonts".
