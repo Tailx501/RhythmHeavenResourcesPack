@@ -591,3 +591,6 @@
 - Added FOT-RodinProN-B in the "Fontworks (Monotype KK)" folder in "Fonts".
 - Added FOT-RodinProN-M in the "Fontworks (Monotype KK)" folder in "Fonts".
 - Added TsukuAOldMinPr6-M in the "Fontworks (Monotype KK)" folder in "Fonts".
+
+09/19/2025:
+- Added a중봉체 in the "AsiaFont" folder in "Fonts".
