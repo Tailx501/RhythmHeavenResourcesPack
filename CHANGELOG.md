@@ -594,3 +594,6 @@
 
 09/19/2025:
 - Added a중봉체 in the "AsiaFont" folder in "Fonts".
+
+09/22/2025:
+- Added the Rhythm Heaven Wiki Icon in "Icons" and "Rhythm Heaven Wiki".
