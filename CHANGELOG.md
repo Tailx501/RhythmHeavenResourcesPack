@@ -585,15 +585,19 @@
 - Updated the modified Kurokane Font in the "Fontworks (Monotype KK)" folder in "Fonts".
 
 09/15/2025:
-- Added BabyPopStd-EB in the "Fontworks (Monotype KK)" folder in "Fonts".
-- Added RodinPro-B in the "Fontworks (Monotype KK)" folder in "Fonts".
-- Added RodinPro-M in the "Fontworks (Monotype KK)" folder in "Fonts".
-- Added FOT-RodinProN-B in the "Fontworks (Monotype KK)" folder in "Fonts".
-- Added FOT-RodinProN-M in the "Fontworks (Monotype KK)" folder in "Fonts".
-- Added TsukuAOldMinPr6-M in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Added BabyPopStd-EB, RodinPro-B, RodinPro-M, FOT-RodinProN-B, FOT-RodinProN-M and TsukuAOldMinPr6-M in the "Fontworks (Monotype KK)" folder in "Fonts".
 
 09/19/2025:
 - Added a중봉체 in the "AsiaFont" folder in "Fonts".
 
 09/22/2025:
 - Added the Rhythm Heaven Wiki Icon in "Icons" and "Rhythm Heaven Wiki".
+
+09/26/2025:
+- More Font orginization.
+- Removed Futura-Condensed Bold, Futura-Condensed Normal and Futura-ExtraBold in the "Adobe" folder in "Fonts".
+- Removed A-OTF-ShinGoPro-Light in the "Morisawa" folder in "Fonts".
+- Added HelveticaRounded-Bold in the "Letraset" folder in "Fonts".
+- Added HighlanderStd-Bold in the "Monotype" folder in "Fonts".
+- Added A-OTF-ShinGoPro-Regular in the "Morisawa" folder in "Fonts".
+- Added FuturaPTBold, FuturaPTCondBold, FuturaPTCondMedium, FuturaPTExtraBold, FuturaPTHeavy, FuturaPTHeavyOblique and ITCKabelStd-Bold in the "Paratype" folder in "Fonts".
