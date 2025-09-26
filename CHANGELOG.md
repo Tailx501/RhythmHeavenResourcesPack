@@ -597,6 +597,7 @@
 - More Font orginization.
 - Removed Futura-Condensed Bold, Futura-Condensed Normal and Futura-ExtraBold in the "Adobe" folder in "Fonts".
 - Removed A-OTF-ShinGoPro-Light in the "Morisawa" folder in "Fonts".
+- Added DFPOPCornStd-W12 in the "DynaFont" folder in "Fonts".
 - Added HelveticaRounded-Bold in the "Letraset" folder in "Fonts".
 - Added HighlanderStd-Bold in the "Monotype" folder in "Fonts".
 - Added A-OTF-ShinGoPro-Regular in the "Morisawa" folder in "Fonts".
