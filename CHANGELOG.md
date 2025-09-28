@@ -602,3 +602,6 @@
 - Added HighlanderStd-Bold in the "Monotype" folder in "Fonts".
 - Added A-OTF-ShinGoPro-Regular in the "Morisawa" folder in "Fonts".
 - Added FuturaPTBold, FuturaPTCondBold, FuturaPTCondMedium, FuturaPTExtraBold, FuturaPTHeavy, FuturaPTHeavyOblique and ITCKabelStd-Bold in the "Paratype" folder in "Fonts".
+
+09/28/2025:
+- Added I'm Sorry What in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
