@@ -605,3 +605,7 @@
 
 09/28/2025:
 - Added I'm Sorry What in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
+
+09/29/2025:
+- Added FOT-RodinNTLGPro-B, FOT-RodinNTLGPro-M, FOT-RodinPro-DB, FOT-RodinPro-EB, FOT-RodinProN-DB and FOT-RodinProN-UB in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Added HelveticaNeueLTStd-MdCn in the "Letraset" folder in "Fonts".
