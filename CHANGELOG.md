@@ -611,3 +611,8 @@
 - Added FOT-RodinNTLGPro-B, FOT-RodinNTLGPro-M, FOT-RodinPro-DB, FOT-RodinPro-EB, FOT-RodinProN-DB and FOT-RodinProN-UB in the "Fontworks (Monotype KK)" folder in "Fonts".
 - Added HelveticaNeueLTStd-MdCn in the "Letraset" folder in "Fonts".
 - Added MagicalMysteryTour in the "K-Type" folder in "Fonts".
+
+10/09/2025:
+- Added a별빛B, a입술B, a참명조B, a편봉체 and a해탈 in the "AsiaFont" folder in "Fonts".
+- Added FOT-KafuMarkerStd-B, FOT-MatisseMinoriPro-B and FOT-PopFuryStd-B in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Added the trans in the "Miscellaneous Fonts" folder in "Fonts".
