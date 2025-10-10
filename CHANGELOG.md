@@ -614,6 +614,6 @@
 
 10/09/2025:
 - Added a별빛B, a입술B, a참명조B, a편봉체 and a해탈 in the "AsiaFont" folder in "Fonts".
-- Added a둘기체, a문화체, a붓체 and a붓흘림 as blank file and labeling them missing in the "AsiaFont" folder in "Fonts".
+- Added a둘기체, a문화체, a붓체 and a붓흘림 as blank files and labeling them missing in the "AsiaFont" folder in "Fonts".
 - Added FOT-KafuMarkerStd-B, FOT-MatisseMinoriPro-B and FOT-PopFuryStd-B in the "Fontworks (Monotype KK)" folder in "Fonts".
 - Added the trans in the "Miscellaneous Fonts" folder in "Fonts".
