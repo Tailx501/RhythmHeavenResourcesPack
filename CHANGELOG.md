@@ -617,3 +617,7 @@
 - Added a둘기체, a문화체, a붓체 and a붓흘림 as blank files and labeling them missing in the "AsiaFont" folder in "Fonts".
 - Added FOT-KafuMarkerStd-B, FOT-MatisseMinoriPro-B and FOT-PopFuryStd-B in the "Fontworks (Monotype KK)" folder in "Fonts".
 - Added the trans in the "Miscellaneous Fonts" folder in "Fonts".
+
+10/11/2025:
+- Added the "SinoType" folder in "Fonts".
+- Added 华文行楷 in the "SinoType" folder in "Fonts".
