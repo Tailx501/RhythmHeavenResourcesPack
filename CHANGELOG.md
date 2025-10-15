@@ -621,3 +621,7 @@
 10/11/2025:
 - Added the "SinoType" folder in "Fonts".
 - Added 华文行楷 in the "SinoType" folder in "Fonts".
+
+10/15/2025:
+- Removed FOT-KafuNagomiStd-B in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Added FOT-NewRodinPro-B, FOT-NewRodinProN-B, and FOT-RowdyStd-EB in the "Fontworks (Monotype KK)" folder in "Fonts".
