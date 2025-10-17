@@ -625,3 +625,6 @@
 10/15/2025:
 - Removed FOT-KafuNagomiStd-B in the "Fontworks (Monotype KK)" folder in "Fonts".
 - Added FOT-NewRodinPro-B, FOT-NewRodinProN-B, and FOT-RowdyStd-EB in the "Fontworks (Monotype KK)" folder in "Fonts".
+
+10/17/2025:
+- Updated the modified Kurokane Font in the "Fontworks (Monotype KK)" folder in "Fonts".
