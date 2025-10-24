@@ -569,12 +569,12 @@
 - Modified the Rhythm Heaven Silver Logos in "Rhythm Heaven Silver (2022)".
 
 09/04/2025:
+- Removed Futura Book BT in the "Adobe" folder in "Fonts".
 - Added the "Hoefler & Co." folder in "Fonts".
 - Added the "Paratype" folder in "Fonts".
 - Added DFSNGyoShoStd-W5 in the "DynaFont" folder in "Fonts".
 - Added Gotham-Bold in the "Hoefler & Co." folder in "Fonts".
 - Added FuturaPTBook in the "Paratype" folder in "Fonts".
-- Removed Futura Book BT in the "Adobe" folder in "Fonts".
 
 09/08/2025:
 - Added a정헤드B in the "AsiaFont" folder in "Fonts".
@@ -628,3 +628,8 @@
 
 10/17/2025:
 - Updated the modified Kurokane Font in the "Fontworks (Monotype KK)" folder in "Fonts".
+
+10/24/2025:
+- Removed HUMongsil180 in the "Heumm" folder in "Fonts".
+- Added FOT-PopHappinessStd-EB in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Added HUJingo260 in the "Heumm" folder in "Fonts".
