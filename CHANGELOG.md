@@ -633,3 +633,4 @@
 - Removed HUMongsil180 in the "Heumm" folder in "Fonts".
 - Added FOT-PopHappinessStd-EB in the "Fontworks (Monotype KK)" folder in "Fonts".
 - Added HUJingo260 in the "Heumm" folder in "Fonts".
+- Added the Rhythm Paradise Advance Favicon in "Icons" and "Rhythm Heaven Advance".
