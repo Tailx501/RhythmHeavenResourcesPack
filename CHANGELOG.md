@@ -635,3 +635,6 @@
 - Added FOT-PopHappinessStd-EB in the "Fontworks (Monotype KK)" folder in "Fonts".
 - Added HUJingo260 in the "Heumm" folder in "Fonts".
 - Added the Rhythm Paradise Advance Favicon in "Icons" and "Rhythm Heaven Advance".
+
+10/26/2025:
+- Added a말머리3 and a시월구일굴림4 in the "AsiaFont" folder in "Fonts".
