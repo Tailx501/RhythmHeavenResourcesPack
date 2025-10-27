@@ -368,7 +368,7 @@
 
 04/19/2025:
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
-- Added the modified RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
+- Added the modified RodinNTLGPro-DB Font in the "Fontworks" folder in "Fonts".
 
 04/22/2025:
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
@@ -434,12 +434,12 @@
 
 05/18/2025:
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
-- Updated the modified RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
+- Updated the modified RodinNTLGPro-DB Font in the "Fontworks" folder in "Fonts".
 
 05/20/2025:
 - Added the modified FOT-HummingStd-E Font in the "Fontworks" folder in "Fonts".
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
-- Updated the modified FOT-RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
+- Updated the modified FOT-RodinNTLGPro-DB Font in the "Fontworks" folder in "Fonts".
 
 05/22/2025:
 - Modified the Rhythm World: Miracle Stars Logo in "Custom Logos".
@@ -482,7 +482,7 @@
 06/09/2025:
 - Updated the modified FOT-HummingStd-E Font in the "Fontworks" folder in "Fonts".
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
-- Updated the modified FOT-RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
+- Updated the modified FOT-RodinNTLGPro-DB Font in the "Fontworks" folder in "Fonts".
 
 06/13/2025:
 - Modified the SVG file for the Rhythm Tengoku: The Song Festival+ Logo in "Rhythm Heaven Megamix".
@@ -638,3 +638,6 @@
 
 10/26/2025:
 - Added a말머리3 and a시월구일굴림4 in the "AsiaFont" folder in "Fonts".
+
+10/27/2025:
+- Updated the modified RodinNTLGPro-DB Font in the "Fontworks" folder in "Fonts".
