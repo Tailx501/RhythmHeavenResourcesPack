@@ -641,3 +641,7 @@
 
 10/27/2025:
 - Updated the modified RodinNTLGPro-DB Font in the "Fontworks" folder in "Fonts".
+
+11/01/2025:
+- Added a탈영고딕B in the "AsiaFont" folder in "Fonts".
+- Added FOT-TsukuGoPro-E in the "Fontworks (Monotype KK)" folder in "Fonts".
