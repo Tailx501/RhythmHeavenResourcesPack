@@ -645,3 +645,6 @@
 11/01/2025:
 - Added a탈영고딕B in the "AsiaFont" folder in "Fonts".
 - Added FOT-TsukuGoPro-E in the "Fontworks (Monotype KK)" folder in "Fonts".
+
+11/02/2025:
+- Added a엑스포B in the "AsiaFont" folder in "Fonts".
