@@ -662,3 +662,7 @@
 - Added the Alternative variant of the Rhythm Paradise Advance Icon in "Icons" and "Rhythm Heaven Advance".
 - Added the Alternative variant of the Rhythm World Advance Icon in "Icons" and "Rhythm Heaven Advance".
 - Added the Alternative variant of the Rhythm Tengoku Icon in "Icons" and "Rhythm Tengoku (2006)".
+
+11/07/2025:
+- Removed the "SinoType" folder in "Fonts".
+- Added BrushScriptStd in the "Adobe" folder in "Fonts".
