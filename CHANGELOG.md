@@ -648,3 +648,17 @@
 
 11/02/2025:
 - Added a엑스포B in the "AsiaFont" folder in "Fonts".
+
+11/06/2025:
+- Updated the Heaven Studio Icon in "Heaven Studio" and "Icons".
+- Updated the Paradise Studio Icon in "Heaven Studio" and "Icons".
+- Updated the Tengoku Studio Icon in "Heaven Studio" and "Icons".
+- Updated the World Studio Icon in "Heaven Studio" and "Icons".
+- Updated the Rhythm World Advance Icon in "Icons" and "Rhythm Heaven Advance".
+- Updated the Rhythm World Advance Logos in "Rhythm Heaven Advance".
+- Updated the Rhythm Heaven Wiki Icon in "Icons" and "Rhythm Heaven Wiki (2009)".
+- Updated the Timing Display Sprites in "Timing Display".
+- Added the Alternative variant of the Rhythm Heaven Advance Icon in "Icons" and "Rhythm Heaven Advance".
+- Added the Alternative variant of the Rhythm Paradise Advance Icon in "Icons" and "Rhythm Heaven Advance".
+- Added the Alternative variant of the Rhythm World Advance Icon in "Icons" and "Rhythm Heaven Advance".
+- Added the Alternative variant of the Rhythm Tengoku Icon in "Icons" and "Rhythm Tengoku (2006)".
