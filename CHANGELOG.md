@@ -664,5 +664,6 @@
 - Added the Alternative variant of the Rhythm Tengoku Icon in "Icons" and "Rhythm Tengoku (2006)".
 
 11/07/2025:
+- Added "RHRE (2016)" in this Folder.
 - Removed the "SinoType" folder in "Fonts".
 - Added BrushScriptStd in the "Adobe" folder in "Fonts".
