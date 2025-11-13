@@ -667,3 +667,12 @@
 - Added "RHRE (2016)" in this Folder.
 - Removed the "SinoType" folder in "Fonts".
 - Added BrushScriptStd in the "Adobe" folder in "Fonts".
+
+11/13/2025:
+- Modified the Polyrhythm Mania Logos in "Polyrhythm Mania (2021)".
+- More Font orginization.
+- Removed the "K-Type" folder in "Fonts".
+- Added the "American Type Founders" folder in "Fonts".
+- Added the "Arts & Letters" folder in "Fonts".
+- Added the "Fontalicious" folder in "Fonts".
+- Added the "NISFont" folder in "Fonts".
