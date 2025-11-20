@@ -672,7 +672,20 @@
 - Modified the Polyrhythm Mania Logos in "Polyrhythm Mania (2021)".
 - More Font orginization.
 - Removed the "K-Type" folder in "Fonts".
+- Removed 아침햇살M in the "YoonDesign" folder in "Fonts".
 - Added the "American Type Founders" folder in "Fonts".
 - Added the "Arts & Letters" folder in "Fonts".
 - Added the "Fontalicious" folder in "Fonts".
 - Added the "NISFont" folder in "Fonts".
+- Added FOT-CezannePro-DB and FOT-CezannePro-EB in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Added Arial Black in the "Microsoft" folder in "Fonts".
+
+11/20/2025:
+- Modified the Rhythm Tengoku: The Best+ Complete Music Collection Logo in "Custom Logos".
+- Modified the Fever Style variant of the Rhythm Tengoku: The Best+ Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos".
+- Modified the 2006 Colors variant of the Rhythm Tengoku: The Best+ Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos".
+- Modified the Rhythm Tengoku: The Best+ Logos in "Icons" and "Rhythm Heaven Megamix (2015)".
+- Modified the Rhythm Tengoku: The Best+ More Of The Best Logos in "Icons" and "Rhythm Heaven Re-Megamix".
+- Modified the Rhythm Tengoku Complete Music Collection Logos in "Icons" and "Rhythm Tengoku Complete Music Collection".
+- Modified the Minna no Rhythm Tengoku Complete Music Collection Logos in "Icons" and "Rhythm Tengoku Complete Music Collection".
+- Modified the Rhythm Tengoku: The Best+ Thumbnail in "Thumbnails".
