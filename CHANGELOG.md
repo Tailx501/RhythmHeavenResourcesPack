@@ -689,3 +689,7 @@
 - Modified the Rhythm Tengoku Complete Music Collection Logos in "Icons" and "Rhythm Tengoku Complete Music Collection".
 - Modified the Minna no Rhythm Tengoku Complete Music Collection Logos in "Icons" and "Rhythm Tengoku Complete Music Collection".
 - Modified the Rhythm Tengoku: The Best+ Thumbnail in "Thumbnails".
+
+11/24/2025:
+- Added the "FontFont" folder in "Fonts".
+- Added MarkPro-Black, MarkPro-Bold and MarkPro-Light in the "FontFont" folder in "Fonts".
