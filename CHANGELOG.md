@@ -693,3 +693,6 @@
 11/24/2025:
 - Added the "FontFont" folder in "Fonts".
 - Added MarkPro-Black, MarkPro-Bold and MarkPro-Light in the "FontFont" folder in "Fonts".
+
+11/26/2025:
+- Added FOT-SeuratProN-B in the "Fontworks (Monotype KK)" folder in "Fonts".
