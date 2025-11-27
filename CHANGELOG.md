@@ -368,7 +368,7 @@
 
 04/19/2025:
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
-- Added the modified RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
+- Added the modified RodinNTLGPro-DB Font in the "Fontworks" folder in "Fonts".
 
 04/22/2025:
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
@@ -434,12 +434,12 @@
 
 05/18/2025:
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
-- Updated the modified RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
+- Updated the modified RodinNTLGPro-DB Font in the "Fontworks" folder in "Fonts".
 
 05/20/2025:
 - Added the modified FOT-HummingStd-E Font in the "Fontworks" folder in "Fonts".
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
-- Updated the modified FOT-RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
+- Updated the modified FOT-RodinNTLGPro-DB Font in the "Fontworks" folder in "Fonts".
 
 05/22/2025:
 - Modified the Rhythm World: Miracle Stars Logo in "Custom Logos".
@@ -482,7 +482,7 @@
 06/09/2025:
 - Updated the modified FOT-HummingStd-E Font in the "Fontworks" folder in "Fonts".
 - Updated the modified Kurokane Font in the "Fontworks" folder in "Fonts".
-- Updated the modified FOT-RodinNTLGPro-DB in the "Fontworks" folder in "Fonts".
+- Updated the modified FOT-RodinNTLGPro-DB Font in the "Fontworks" folder in "Fonts".
 
 06/13/2025:
 - Modified the SVG file for the Rhythm Tengoku: The Song Festival+ Logo in "Rhythm Heaven Megamix".
@@ -569,12 +569,12 @@
 - Modified the Rhythm Heaven Silver Logos in "Rhythm Heaven Silver (2022)".
 
 09/04/2025:
+- Removed Futura Book BT in the "Adobe" folder in "Fonts".
 - Added the "Hoefler & Co." folder in "Fonts".
 - Added the "Paratype" folder in "Fonts".
 - Added DFSNGyoShoStd-W5 in the "DynaFont" folder in "Fonts".
 - Added Gotham-Bold in the "Hoefler & Co." folder in "Fonts".
 - Added FuturaPTBook in the "Paratype" folder in "Fonts".
-- Removed Futura Book BT in the "Adobe" folder in "Fonts".
 
 09/08/2025:
 - Added a정헤드B in the "AsiaFont" folder in "Fonts".
@@ -605,3 +605,94 @@
 
 09/28/2025:
 - Added I'm Sorry What in "Funny, Unique, & Cursed Rhythm Heaven Logos". (Credit: iomkr)
+
+09/29/2025:
+- Added the "K-Type" folder in "Fonts".
+- Added FOT-RodinNTLGPro-B, FOT-RodinNTLGPro-M, FOT-RodinPro-DB, FOT-RodinPro-EB, FOT-RodinProN-DB and FOT-RodinProN-UB in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Added HelveticaNeueLTStd-MdCn in the "Letraset" folder in "Fonts".
+- Added MagicalMysteryTour in the "K-Type" folder in "Fonts".
+
+10/09/2025:
+- Added a별빛B, a입술B, a참명조B, a편봉체 and a해탈 in the "AsiaFont" folder in "Fonts".
+- Added a둘기체, a문화체, a붓체 and a붓흘림 as blank files and labeling them missing in the "AsiaFont" folder in "Fonts".
+- Added FOT-KafuMarkerStd-B, FOT-MatisseMinoriPro-B and FOT-PopFuryStd-B in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Added the trans in the "Miscellaneous Fonts" folder in "Fonts".
+
+10/11/2025:
+- Added the "SinoType" folder in "Fonts".
+- Added 华文行楷 in the "SinoType" folder in "Fonts".
+
+10/15/2025:
+- Removed FOT-KafuNagomiStd-B in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Added FOT-NewRodinPro-B, FOT-NewRodinProN-B, and FOT-RowdyStd-EB in the "Fontworks (Monotype KK)" folder in "Fonts".
+
+10/17/2025:
+- Updated the modified Kurokane Font in the "Fontworks (Monotype KK)" folder in "Fonts".
+
+10/24/2025:
+- Removed HUMongsil180 in the "Heumm" folder in "Fonts".
+- Added a프로젝트 in the "AsiaFont" folder in "Fonts".
+- Added FOT-PopHappinessStd-EB in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Added HUJingo260 in the "Heumm" folder in "Fonts".
+- Added the Rhythm Paradise Advance Favicon in "Icons" and "Rhythm Heaven Advance".
+
+10/26/2025:
+- Added a말머리3 and a시월구일굴림4 in the "AsiaFont" folder in "Fonts".
+
+10/27/2025:
+- Updated the modified RodinNTLGPro-DB Font in the "Fontworks" folder in "Fonts".
+
+11/01/2025:
+- Added a탈영고딕B in the "AsiaFont" folder in "Fonts".
+- Added FOT-TsukuGoPro-E in the "Fontworks (Monotype KK)" folder in "Fonts".
+
+11/02/2025:
+- Added a엑스포B in the "AsiaFont" folder in "Fonts".
+
+11/06/2025:
+- Updated the Heaven Studio Icon in "Heaven Studio" and "Icons".
+- Updated the Paradise Studio Icon in "Heaven Studio" and "Icons".
+- Updated the Tengoku Studio Icon in "Heaven Studio" and "Icons".
+- Updated the World Studio Icon in "Heaven Studio" and "Icons".
+- Updated the Rhythm World Advance Icon in "Icons" and "Rhythm Heaven Advance".
+- Updated the Rhythm World Advance Logos in "Rhythm Heaven Advance".
+- Updated the Rhythm Heaven Wiki Icon in "Icons" and "Rhythm Heaven Wiki (2009)".
+- Updated the Timing Display Sprites in "Timing Display".
+- Added the Alternative variant of the Rhythm Heaven Advance Icon in "Icons" and "Rhythm Heaven Advance".
+- Added the Alternative variant of the Rhythm Paradise Advance Icon in "Icons" and "Rhythm Heaven Advance".
+- Added the Alternative variant of the Rhythm World Advance Icon in "Icons" and "Rhythm Heaven Advance".
+- Added the Alternative variant of the Rhythm Tengoku Icon in "Icons" and "Rhythm Tengoku (2006)".
+
+11/07/2025:
+- Added "RHRE (2016)" in this Folder.
+- Removed the "SinoType" folder in "Fonts".
+- Added BrushScriptStd in the "Adobe" folder in "Fonts".
+
+11/13/2025:
+- Modified the Polyrhythm Mania Logos in "Polyrhythm Mania (2021)".
+- More Font orginization.
+- Removed the "K-Type" folder in "Fonts".
+- Removed 아침햇살M in the "YoonDesign" folder in "Fonts".
+- Added the "American Type Founders" folder in "Fonts".
+- Added the "Arts & Letters" folder in "Fonts".
+- Added the "Fontalicious" folder in "Fonts".
+- Added the "NISFont" folder in "Fonts".
+- Added FOT-CezannePro-DB and FOT-CezannePro-EB in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Added Arial Black in the "Microsoft" folder in "Fonts".
+
+11/20/2025:
+- Modified the Rhythm Tengoku: The Best+ Complete Music Collection Logo in "Custom Logos".
+- Modified the Fever Style variant of the Rhythm Tengoku: The Best+ Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos".
+- Modified the 2006 Colors variant of the Rhythm Tengoku: The Best+ Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos".
+- Modified the Rhythm Tengoku: The Best+ Logos in "Icons" and "Rhythm Heaven Megamix (2015)".
+- Modified the Rhythm Tengoku: The Best+ More Of The Best Logos in "Icons" and "Rhythm Heaven Re-Megamix".
+- Modified the Rhythm Tengoku Complete Music Collection Logos in "Icons" and "Rhythm Tengoku Complete Music Collection".
+- Modified the Minna no Rhythm Tengoku Complete Music Collection Logos in "Icons" and "Rhythm Tengoku Complete Music Collection".
+- Modified the Rhythm Tengoku: The Best+ Thumbnail in "Thumbnails".
+
+11/24/2025:
+- Added the "FontFont" folder in "Fonts".
+- Added MarkPro-Black, MarkPro-Bold and MarkPro-Light in the "FontFont" folder in "Fonts".
+
+11/26/2025:
+- Added FOT-SeuratProN-B in the "Fontworks (Monotype KK)" folder in "Fonts".
