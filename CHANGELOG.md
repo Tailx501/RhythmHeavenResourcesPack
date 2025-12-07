@@ -696,3 +696,6 @@
 
 11/26/2025:
 - Added FOT-SeuratProN-B in the "Fontworks (Monotype KK)" folder in "Fonts".
+
+12/07/2025:
+- Added DFComicStdN-W7 in the "DynaFont" folder in "Fonts".
