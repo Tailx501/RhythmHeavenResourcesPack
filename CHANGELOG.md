@@ -699,3 +699,10 @@
 
 12/07/2025:
 - Added DFComicStdN-W7 in the "DynaFont" folder in "Fonts".
+
+12/16/2025:
+- Removed the "Kostic" folder in "Fonts".
+- Added the "T-26" folder in "Fonts".
+- Modified the Rhythm Heaven Mall Event sign in "Rhythm Heaven (2008)".
+- Added the Beta variant of the Rhythm Tengoku: The Best+ Logo in "Rhythm Heaven Megamix (2015)".
+- Modified the Beta variant of the Rhythm Tengoku: Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
