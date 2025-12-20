@@ -706,3 +706,15 @@
 - Modified the Rhythm Heaven Mall Event sign in "Rhythm Heaven (2008)".
 - Added the Beta variant of the Rhythm Tengoku: The Best+ Logo in "Rhythm Heaven Megamix (2015)".
 - Modified the Beta variant of the Rhythm Tengoku: Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
+
+12/19/2025:
+- Modified the Rhythm Heaven Advance Logos in "Icons" and "Rhythm Heaven Advance".
+- Modified the Rhythm Paradise Advance Logos in "Icons" and "Rhythm Heaven Advance".
+- Modified the Rhythm World Advance Logos in "Icons" and "Rhythm Heaven Advance".
+- Added "Rhythm Heaven Arcade" in this Folder.
+- Added the Rhythm Heaven Arcade Logos in "Icons" and "Rhythm Heaven Arcade".
+- Added the Rhythm Paradise Arcade Logos in "Icons" and "Rhythm Heaven Arcade".
+- Added the Rhythm World Arcade Logos in "Icons" and "Rhythm Heaven Arcade".
+- Modified the Rhythm Tengoku Icon in "Icons" and "Rhythm Tengoku (2006)".
+- Modified the Alternative variant of the Rhythm Tengoku Icon in "Icons" and "Rhythm Tengoku (2006)".
+- Modified the Rhythm Tengoku (Arcade) Icon in "Icons" and "Rhythm Tengoku (2006)".
