@@ -718,3 +718,6 @@
 - Modified the Rhythm Tengoku Icon in "Icons" and "Rhythm Tengoku (2006)".
 - Modified the Alternative variant of the Rhythm Tengoku Icon in "Icons" and "Rhythm Tengoku (2006)".
 - Modified the Rhythm Tengoku (Arcade) Icon in "Icons" and "Rhythm Tengoku (2006)".
+
+12/23/2025:
+- Modified the Rhythm Heaven Mall Event sign in "Rhythm Heaven (2008)".
