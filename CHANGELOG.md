@@ -721,3 +721,8 @@
 
 12/23/2025:
 - Modified the Rhythm Heaven Mall Event sign in "Rhythm Heaven (2008)".
+
+12/26/2025:
+- Added the Rhythm Paradise Wiki Logo in "Icons" and "Rhythm Heaven Wiki (2009)".
+- Added the Rhythm Tengoku Wiki Logo in "Icons" and "Rhythm Heaven Wiki (2009)".
+- Added the Rhythm World Wiki Logo in "Icons" and "Rhythm Heaven Wiki (2009)".
