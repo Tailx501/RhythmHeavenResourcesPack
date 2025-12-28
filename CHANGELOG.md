@@ -726,3 +726,9 @@
 - Added the Rhythm Paradise Wiki Logo in "Icons" and "Rhythm Heaven Wiki (2009)".
 - Added the Rhythm Tengoku Wiki Logo in "Icons" and "Rhythm Heaven Wiki (2009)".
 - Added the Rhythm World Wiki Logo in "Icons" and "Rhythm Heaven Wiki (2009)".
+
+12/28/2025:
+- Tweaked the letter "상" for all Rhythm World related Logos in this Folder.
+- Tweaked the letters "상" and "더" the Rhythm World: The Best Plus related Logos in this Folder.
+- Tweaked the letters "상", "더" and "중" the Rhythm World: The Best Plus More Of The Best related Logos in this Folder.
+- Modified the Rhythm Tengoku GBA Boxart in "Boxarts".

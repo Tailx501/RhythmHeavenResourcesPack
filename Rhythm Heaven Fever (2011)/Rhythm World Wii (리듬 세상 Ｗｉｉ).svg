@@ -6,19 +6,19 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 666.66699 666.66699"
+   viewBox="0 0 666.66669 666.66669"
    xml:space="preserve"
    sodipodi:docname="Rhythm World Wii (리듬 세상 Ｗｉｉ).svg"
-   width="666.66699"
-   height="666.66699"
+   width="666.66669"
+   height="666.66669"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"><defs
-   id="defs2146" /><sodipodi:namedview
-   id="namedview2144"
+   id="defs18630" /><sodipodi:namedview
+   id="namedview18628"
    pagecolor="#505050"
    bordercolor="#eeeeee"
    borderopacity="1"
@@ -27,18 +27,18 @@
    inkscape:pagecheckerboard="0"
    inkscape:deskcolor="#505050"
    showgrid="false"
-   inkscape:zoom="2.054"
-   inkscape:cx="250"
-   inkscape:cy="249.75657"
+   inkscape:zoom="2.42"
+   inkscape:cx="249.79339"
+   inkscape:cy="250"
    inkscape:window-width="2560"
-   inkscape:window-height="1404"
-   inkscape:window-x="2560"
+   inkscape:window-height="1412"
+   inkscape:window-x="0"
    inkscape:window-y="0"
    inkscape:window-maximized="1"
    inkscape:current-layer="Layer_1" />
 <style
    type="text/css"
-   id="style2">
+   id="style16486">
 	.st0{clip-path:url(#SVGID_2_);}
 	.st1{fill:url(#SVGID_3_);}
 	.st2{fill:url(#SVGID_4_);}
@@ -66,9 +66,9 @@
 </style>
 <g
    id="Background_00000048473133364970228710000002089548181053220516_"
-   transform="scale(1.333334)">
+   transform="scale(1.3333334)">
 	<defs
-   id="defs5">
+   id="defs16489">
 		<rect
    id="SVGID_1_"
    y="0"
@@ -81,7 +81,7 @@
 		<use
    xlink:href="#SVGID_1_"
    style="overflow:visible"
-   id="use7" />
+   id="use16491" />
 	</clipPath>
 	<g
    id="Background"
@@ -99,53 +99,53 @@
 				<stop
    offset="0.15"
    style="stop-color:#E83743"
-   id="stop10" />
+   id="stop16494" />
 				<stop
    offset="0.15365"
    style="stop-color:#E83642"
-   id="stop12" />
+   id="stop16496" />
 				<stop
    offset="0.22776"
    style="stop-color:#E71E2D"
-   id="stop14" />
+   id="stop16498" />
 				<stop
    offset="0.30638"
    style="stop-color:#E60D1E"
-   id="stop16" />
+   id="stop16500" />
 				<stop
    offset="0.39261"
    style="stop-color:#E60315"
-   id="stop18" />
+   id="stop16502" />
 				<stop
    offset="0.5"
    style="stop-color:#E60012"
-   id="stop20" />
+   id="stop16504" />
 				<stop
    offset="0.60739"
    style="stop-color:#E60315"
-   id="stop22" />
+   id="stop16506" />
 				<stop
    offset="0.69362"
    style="stop-color:#E60D1E"
-   id="stop24" />
+   id="stop16508" />
 				<stop
    offset="0.77224"
    style="stop-color:#E71E2D"
-   id="stop26" />
+   id="stop16510" />
 				<stop
    offset="0.84635"
    style="stop-color:#E83642"
-   id="stop28" />
+   id="stop16512" />
 				<stop
    offset="0.85"
    style="stop-color:#E83743"
-   id="stop30" />
+   id="stop16514" />
 			</linearGradient>
 			<rect
    class="st1"
    width="74.730148"
    height="500"
-   id="rect33"
+   id="rect16517"
    style="fill:url(#SVGID_3_)"
    x="0"
    y="0" />
@@ -159,54 +159,54 @@
 				<stop
    offset="0.15"
    style="stop-color:#F39800"
-   id="stop35" />
+   id="stop16519" />
 				<stop
    offset="0.20333"
    style="stop-color:#F07E03"
-   id="stop37" />
+   id="stop16521" />
 				<stop
    offset="0.26672"
    style="stop-color:#ED6606"
-   id="stop39" />
+   id="stop16523" />
 				<stop
    offset="0.33425"
    style="stop-color:#EB5508"
-   id="stop41" />
+   id="stop16525" />
 				<stop
    offset="0.40808"
    style="stop-color:#E94B09"
-   id="stop43" />
+   id="stop16527" />
 				<stop
    offset="0.5"
    style="stop-color:#E94809"
-   id="stop45" />
+   id="stop16529" />
 				<stop
    offset="0.59192"
    style="stop-color:#E94B09"
-   id="stop47" />
+   id="stop16531" />
 				<stop
    offset="0.66575"
    style="stop-color:#EB5508"
-   id="stop49" />
+   id="stop16533" />
 				<stop
    offset="0.73328"
    style="stop-color:#ED6606"
-   id="stop51" />
+   id="stop16535" />
 				<stop
    offset="0.79667"
    style="stop-color:#F07E03"
-   id="stop53" />
+   id="stop16537" />
 				<stop
    offset="0.85"
    style="stop-color:#F39800"
-   id="stop55" />
+   id="stop16539" />
 			</linearGradient>
 			<rect
    x="71.428574"
    class="st2"
    width="73.617447"
    height="500"
-   id="rect58"
+   id="rect16542"
    style="fill:url(#SVGID_4_)"
    y="0" />
 			<linearGradient
@@ -219,54 +219,54 @@
 				<stop
    offset="0.15"
    style="stop-color:#FFF100"
-   id="stop60" />
+   id="stop16544" />
 				<stop
    offset="0.16571"
    style="stop-color:#FEEB00"
-   id="stop62" />
+   id="stop16546" />
 				<stop
    offset="0.23716"
    style="stop-color:#FCD300"
-   id="stop64" />
+   id="stop16548" />
 				<stop
    offset="0.31325"
    style="stop-color:#FAC200"
-   id="stop66" />
+   id="stop16550" />
 				<stop
    offset="0.39643"
    style="stop-color:#F8B800"
-   id="stop68" />
+   id="stop16552" />
 				<stop
    offset="0.5"
    style="stop-color:#F8B500"
-   id="stop70" />
+   id="stop16554" />
 				<stop
    offset="0.60357"
    style="stop-color:#F8B800"
-   id="stop72" />
+   id="stop16556" />
 				<stop
    offset="0.68675"
    style="stop-color:#FAC200"
-   id="stop74" />
+   id="stop16558" />
 				<stop
    offset="0.76284"
    style="stop-color:#FCD300"
-   id="stop76" />
+   id="stop16560" />
 				<stop
    offset="0.83429"
    style="stop-color:#FEEB00"
-   id="stop78" />
+   id="stop16562" />
 				<stop
    offset="0.85"
    style="stop-color:#FFF100"
-   id="stop80" />
+   id="stop16564" />
 			</linearGradient>
 			<rect
    x="142.85715"
    class="st3"
    width="72.569206"
    height="500"
-   id="rect83"
+   id="rect16567"
    style="fill:url(#SVGID_5_)"
    y="0" />
 			<linearGradient
@@ -279,62 +279,62 @@
 				<stop
    offset="0.15"
    style="stop-color:#C4D700"
-   id="stop85" />
+   id="stop16569" />
 				<stop
    offset="0.15156"
    style="stop-color:#C3D700"
-   id="stop87" />
+   id="stop16571" />
 				<stop
    offset="0.21071"
    style="stop-color:#A5CC10"
-   id="stop89" />
+   id="stop16573" />
 				<stop
    offset="0.27254"
    style="stop-color:#8DC41C"
-   id="stop91" />
+   id="stop16575" />
 				<stop
    offset="0.33839"
    style="stop-color:#7CBF25"
-   id="stop93" />
+   id="stop16577" />
 				<stop
    offset="0.41036"
    style="stop-color:#72BB2A"
-   id="stop95" />
+   id="stop16579" />
 				<stop
    offset="0.5"
    style="stop-color:#6FBA2C"
-   id="stop97" />
+   id="stop16581" />
 				<stop
    offset="0.58964"
    style="stop-color:#72BB2A"
-   id="stop99" />
+   id="stop16583" />
 				<stop
    offset="0.66161"
    style="stop-color:#7CBF25"
-   id="stop101" />
+   id="stop16585" />
 				<stop
    offset="0.72746"
    style="stop-color:#8DC41C"
-   id="stop103" />
+   id="stop16587" />
 				<stop
    offset="0.78929"
    style="stop-color:#A5CC10"
-   id="stop105" />
+   id="stop16589" />
 				<stop
    offset="0.84844"
    style="stop-color:#C3D700"
-   id="stop107" />
+   id="stop16591" />
 				<stop
    offset="0.85"
    style="stop-color:#C4D700"
-   id="stop109" />
+   id="stop16593" />
 			</linearGradient>
 			<rect
    x="214.28572"
    class="st4"
    width="74.678612"
    height="500"
-   id="rect112"
+   id="rect16596"
    style="fill:url(#SVGID_6_)"
    y="0" />
 			<linearGradient
@@ -347,46 +347,46 @@
 				<stop
    offset="0.15"
    style="stop-color:#00A26A"
-   id="stop114" />
+   id="stop16598" />
 				<stop
    offset="0.18263"
    style="stop-color:#009F62"
-   id="stop116" />
+   id="stop16600" />
 				<stop
    offset="0.2743"
    style="stop-color:#009A51"
-   id="stop118" />
+   id="stop16602" />
 				<stop
    offset="0.37481"
    style="stop-color:#009747"
-   id="stop120" />
+   id="stop16604" />
 				<stop
    offset="0.5"
    style="stop-color:#009644"
-   id="stop122" />
+   id="stop16606" />
 				<stop
    offset="0.62519"
    style="stop-color:#009747"
-   id="stop124" />
+   id="stop16608" />
 				<stop
    offset="0.7257"
    style="stop-color:#009A51"
-   id="stop126" />
+   id="stop16610" />
 				<stop
    offset="0.81737"
    style="stop-color:#009F62"
-   id="stop128" />
+   id="stop16612" />
 				<stop
    offset="0.85"
    style="stop-color:#00A26A"
-   id="stop130" />
+   id="stop16614" />
 			</linearGradient>
 			<rect
    x="285.71429"
    class="st5"
    width="75.029427"
    height="500"
-   id="rect133"
+   id="rect16617"
    style="fill:url(#SVGID_7_)"
    y="0" />
 			<linearGradient
@@ -399,46 +399,46 @@
 				<stop
    offset="0.15"
    style="stop-color:#0081CC"
-   id="stop135" />
+   id="stop16619" />
 				<stop
    offset="0.2191"
    style="stop-color:#006CBB"
-   id="stop137" />
+   id="stop16621" />
 				<stop
    offset="0.30023"
    style="stop-color:#005BAD"
-   id="stop139" />
+   id="stop16623" />
 				<stop
    offset="0.3892"
    style="stop-color:#0051A5"
-   id="stop141" />
+   id="stop16625" />
 				<stop
    offset="0.5"
    style="stop-color:#004EA2"
-   id="stop143" />
+   id="stop16627" />
 				<stop
    offset="0.6108"
    style="stop-color:#0051A5"
-   id="stop145" />
+   id="stop16629" />
 				<stop
    offset="0.69977"
    style="stop-color:#005BAD"
-   id="stop147" />
+   id="stop16631" />
 				<stop
    offset="0.7809"
    style="stop-color:#006CBB"
-   id="stop149" />
+   id="stop16633" />
 				<stop
    offset="0.85"
    style="stop-color:#0081CC"
-   id="stop151" />
+   id="stop16635" />
 			</linearGradient>
 			<rect
    x="357.14285"
    class="st6"
    width="73.429062"
    height="500"
-   id="rect154"
+   id="rect16638"
    style="fill:url(#SVGID_8_)"
    y="0" />
 			<linearGradient
@@ -451,4447 +451,4447 @@
 				<stop
    offset="0.15"
    style="stop-color:#AE0082"
-   id="stop156" />
+   id="stop16640" />
 				<stop
    offset="0.17906"
    style="stop-color:#A70282"
-   id="stop158" />
+   id="stop16642" />
 				<stop
    offset="0.27178"
    style="stop-color:#960883"
-   id="stop160" />
+   id="stop16644" />
 				<stop
    offset="0.37342"
    style="stop-color:#8C0B84"
-   id="stop162" />
+   id="stop16646" />
 				<stop
    offset="0.5"
    style="stop-color:#890C84"
-   id="stop164" />
+   id="stop16648" />
 				<stop
    offset="0.62658"
    style="stop-color:#8C0B84"
-   id="stop166" />
+   id="stop16650" />
 				<stop
    offset="0.72822"
    style="stop-color:#960883"
-   id="stop168" />
+   id="stop16652" />
 				<stop
    offset="0.82094"
    style="stop-color:#A70282"
-   id="stop170" />
+   id="stop16654" />
 				<stop
    offset="0.85"
    style="stop-color:#AE0082"
-   id="stop172" />
+   id="stop16656" />
 			</linearGradient>
 			<rect
    x="428.57144"
    class="st7"
    width="71.428574"
    height="500"
-   id="rect175"
+   id="rect16659"
    style="fill:url(#SVGID_9_)"
    y="0" />
 		</g>
 		<g
    id="Deco">
 			<g
-   id="g1172">
+   id="g17656">
 				<g
-   id="g350">
+   id="g16834">
 					<g
-   id="g286">
+   id="g16770">
 						<g
-   id="g180">
+   id="g16664">
 							<circle
    class="st8"
    cx="0.48124999"
    cy="304.4873"
    r="3.5434699"
-   id="circle178" />
+   id="circle16662" />
 						</g>
 						<g
-   id="g184">
+   id="g16668">
 							<circle
    class="st8"
    cx="-1.11772"
    cy="289.88925"
    r="3.5434699"
-   id="circle182" />
+   id="circle16666" />
 						</g>
 						<g
-   id="g188">
+   id="g16672">
 							<circle
    class="st8"
    cx="-0.79723001"
    cy="275.20673"
    r="3.5434699"
-   id="circle186" />
+   id="circle16670" />
 						</g>
 						<g
-   id="g192">
+   id="g16676">
 							<circle
    class="st8"
    cx="1.43668"
    cy="260.69202"
    r="3.5434699"
-   id="circle190" />
+   id="circle16674" />
 						</g>
 						<g
-   id="g196">
+   id="g16680">
 							<circle
    class="st8"
    cx="5.5460501"
    cy="246.59253"
    r="3.5434699"
-   id="circle194" />
+   id="circle16678" />
 						</g>
 						<g
-   id="g200">
+   id="g16684">
 							<circle
    class="st8"
    cx="11.46091"
    cy="233.15045"
    r="3.5434699"
-   id="circle198" />
+   id="circle16682" />
 						</g>
 						<g
-   id="g204">
+   id="g16688">
 							<circle
    class="st8"
    cx="19.07959"
    cy="220.59558"
    r="3.5434699"
-   id="circle202" />
+   id="circle16686" />
 						</g>
 						<g
-   id="g208">
+   id="g16692">
 							<circle
    class="st8"
    cx="28.27173"
    cy="209.14212"
    r="3.5434699"
-   id="circle206" />
+   id="circle16690" />
 						</g>
 						<g
-   id="g212">
+   id="g16696">
 							<circle
    class="st8"
    cx="38.880268"
    cy="198.98653"
    r="3.5434699"
-   id="circle210" />
+   id="circle16694" />
 						</g>
 						<g
-   id="g216">
+   id="g16700">
 							<circle
    class="st8"
    cx="63.59901"
    cy="183.23892"
    r="3.5434699"
-   id="circle214" />
+   id="circle16698" />
 						</g>
 						<g
-   id="g220">
+   id="g16704">
 							<circle
    class="st8"
    cx="77.286537"
    cy="177.91638"
    r="3.5434699"
-   id="circle218" />
+   id="circle16702" />
 						</g>
 						<g
-   id="g224">
+   id="g16708">
 							<circle
    class="st8"
    cx="106.15022"
    cy="172.827"
    r="3.5434699"
-   id="circle222" />
+   id="circle16706" />
 						</g>
 						<g
-   id="g228">
+   id="g16712">
 							<circle
    class="st8"
    cx="120.83275"
    cy="173.14749"
    r="3.5434699"
-   id="circle226" />
+   id="circle16710" />
 						</g>
 						<g
-   id="g232">
+   id="g16716">
 							<circle
    class="st8"
    cx="135.34743"
    cy="175.38139"
    r="3.5434699"
-   id="circle230" />
+   id="circle16714" />
 						</g>
 						<g
-   id="g236">
+   id="g16720">
 							<circle
    class="st8"
    cx="149.44656"
    cy="179.49077"
    r="3.5434699"
-   id="circle234" />
+   id="circle16718" />
 						</g>
 						<g
-   id="g240">
+   id="g16724">
 							<circle
    class="st8"
    cx="162.88864"
    cy="185.40562"
    r="3.5434699"
-   id="circle238" />
+   id="circle16722" />
 						</g>
 						<g
-   id="g244">
+   id="g16728">
 							<circle
    class="st8"
    cx="175.44388"
    cy="193.02431"
    r="3.5434699"
-   id="circle242" />
+   id="circle16726" />
 						</g>
 						<g
-   id="g248">
+   id="g16732">
 							<circle
    class="st8"
    cx="186.89734"
    cy="202.21645"
    r="3.5434699"
-   id="circle246" />
+   id="circle16730" />
 						</g>
 						<g
-   id="g252">
+   id="g16736">
 							<circle
    class="st8"
    cx="197.05257"
    cy="212.82498"
    r="3.5434699"
-   id="circle250" />
+   id="circle16734" />
 						</g>
 						<g
-   id="g256">
+   id="g16740">
 							<circle
    class="st8"
    cx="205.73703"
    cy="224.66846"
    r="3.5434699"
-   id="circle254" />
+   id="circle16738" />
 						</g>
 						<g
-   id="g260">
+   id="g16744">
 							<circle
    class="st8"
    cx="212.80072"
    cy="237.54373"
    r="3.5434699"
-   id="circle258" />
+   id="circle16742" />
 						</g>
 						<g
-   id="g264">
+   id="g16748">
 							<circle
    class="st8"
    cx="218.12344"
    cy="251.23126"
    r="3.5434699"
-   id="circle262" />
+   id="circle16746" />
 						</g>
 						<g
-   id="g268">
+   id="g16752">
 							<circle
    class="st8"
    cx="221.61368"
    cy="265.49646"
    r="3.5434699"
-   id="circle266" />
+   id="circle16750" />
 						</g>
 						<g
-   id="g272">
+   id="g16756">
 							<circle
    class="st8"
    cx="223.21246"
    cy="280.09494"
    r="3.5434699"
-   id="circle270" />
+   id="circle16754" />
 						</g>
 						<g
-   id="g276">
+   id="g16760">
 							<circle
    class="st8"
    cx="222.89261"
    cy="294.77747"
    r="3.5434699"
-   id="circle274" />
+   id="circle16758" />
 						</g>
 						<g
-   id="g280">
+   id="g16764">
 							<circle
    class="st8"
    cx="220.6588"
    cy="309.29214"
    r="3.5434699"
-   id="circle278" />
+   id="circle16762" />
 						</g>
 						<g
-   id="g284">
+   id="g16768">
 							<circle
    class="st8"
    cx="216.54869"
    cy="323.3913"
    r="3.5434699"
-   id="circle282" />
+   id="circle16766" />
 						</g>
 					</g>
 					<g
-   id="g340">
+   id="g16824">
 						<g
-   id="g290">
+   id="g16774">
 							<circle
    class="st8"
    cx="190.9653"
    cy="362.22372"
    r="3.5434699"
-   id="circle288" />
+   id="circle16772" />
 						</g>
 						<g
-   id="g294">
+   id="g16778">
 							<circle
    class="st8"
    cx="180.76189"
    cy="371.42215"
    r="3.5434699"
-   id="circle292" />
+   id="circle16776" />
 						</g>
 						<g
-   id="g298">
+   id="g16782">
 							<circle
    class="st8"
    cx="168.60893"
    cy="379.79642"
    r="3.5434699"
-   id="circle296" />
+   id="circle16780" />
 						</g>
 						<g
-   id="g302">
+   id="g16786">
 							<circle
    class="st8"
    cx="140.49957"
    cy="392.71298"
    r="3.5434699"
-   id="circle300" />
+   id="circle16784" />
 						</g>
 						<g
-   id="g306">
+   id="g16790">
 							<circle
    class="st8"
    cx="126.10482"
    cy="395.7171"
    r="3.5434699"
-   id="circle304" />
+   id="circle16788" />
 						</g>
 						<g
-   id="g310">
+   id="g16794">
 							<circle
    class="st8"
    cx="95.934372"
    cy="396.24155"
    r="3.5434699"
-   id="circle308" />
+   id="circle16792" />
 						</g>
 						<g
-   id="g314">
+   id="g16798">
 							<circle
    class="st8"
    cx="81.26239"
    cy="393.24026"
    r="3.5434699"
-   id="circle312" />
+   id="circle16796" />
 						</g>
 						<g
-   id="g318">
+   id="g16802">
 							<circle
    class="st8"
    cx="67.120667"
    cy="388.31393"
    r="3.5434699"
-   id="circle316" />
+   id="circle16800" />
 						</g>
 						<g
-   id="g322">
+   id="g16806">
 							<circle
    class="st8"
    cx="53.761021"
    cy="381.54849"
    r="3.5434699"
-   id="circle320" />
+   id="circle16804" />
 						</g>
 						<g
-   id="g326">
+   id="g16810">
 							<circle
    class="st8"
    cx="41.41946"
    cy="373.06622"
    r="3.5434699"
-   id="circle324" />
+   id="circle16808" />
 						</g>
 						<g
-   id="g330">
+   id="g16814">
 							<circle
    class="st8"
    cx="30.317631"
    cy="363.01575"
    r="3.5434699"
-   id="circle328" />
+   id="circle16812" />
 						</g>
 						<g
-   id="g334">
+   id="g16818">
 							<circle
    class="st8"
    cx="20.651649"
    cy="351.57822"
    r="3.5434699"
-   id="circle332" />
+   id="circle16816" />
 						</g>
 						<g
-   id="g338">
+   id="g16822">
 							<circle
    class="st8"
    cx="12.59432"
    cy="338.95532"
    r="3.5434699"
-   id="circle336" />
+   id="circle16820" />
 						</g>
 					</g>
 					<path
    class="st8"
    d="m 4.06311,317.45673 2.53659,-4.92657 1.14672,5.42413 5.27416,-1.69385 -3.02514,4.64563 4.93468,2.53192 -5.42645,1.15024 1.69734,5.27646 -4.65354,-3.02234 -2.53287,4.92703 -1.14695,-5.42227 -5.27393,1.69199 3.02165,-4.64798 -4.92724,-2.53101 5.42227,-1.14694 -1.69362,-5.276 z"
-   id="path342" />
+   id="path16826" />
 					<path
    class="st8"
    d="m 199.97401,357.81702 -1.22389,-2.89456 -3.13135,0.27008 2.37468,-2.0592 -1.22427,-2.8938 2.69,1.62167 2.37584,-2.05765 -0.71062,3.06241 2.6904,1.62091 -3.13057,0.27045 z"
-   id="path344" />
+   id="path16828" />
 					<path
    class="st8"
    d="m 116.51774,403.07074 -5.02087,-3.2706 -4.66188,3.76562 1.55818,-5.78702 -5.02068,-3.26892 5.98124,-0.30472 1.56168,-5.78574 2.14189,5.59851 5.98104,-0.30634 -4.66023,3.76541 z"
-   id="path346" />
+   id="path16830" />
 					<path
    class="st8"
    d="m 48.60811,186.00212 1.32668,-4.27444 1.67289,4.15363 3.95761,-2.08705 -1.75469,4.11954 4.28027,1.32182 -4.15499,1.67599 2.09015,3.95897 -4.12543,-1.75136 -1.32365,4.27431 -1.67281,-4.15213 -3.95769,2.08554 1.75158,-4.12088 -4.27422,-1.32214 4.15212,-1.67282 -2.08713,-3.95911 z"
-   id="path348" />
+   id="path16832" />
 				</g>
 				<g
-   id="g562">
+   id="g17046">
 					<g
    class="st9"
-   id="g540">
+   id="g17024">
 						<g
-   id="g354">
+   id="g16838">
 							<circle
    class="st8"
    cx="167.77248"
    cy="422.98709"
    r="4.2894602"
-   id="circle352" />
+   id="circle16836" />
 						</g>
 						<g
-   id="g358">
+   id="g16842">
 							<circle
    class="st8"
    cx="152.1031"
    cy="428.43079"
    r="4.2894602"
-   id="circle356" />
+   id="circle16840" />
 						</g>
 						<g
-   id="g362">
+   id="g16846">
 							<circle
    class="st8"
    cx="135.92761"
    cy="432.10159"
    r="4.2894602"
-   id="circle360" />
+   id="circle16844" />
 						</g>
 						<g
-   id="g366">
+   id="g16850">
 							<circle
    class="st8"
    cx="119.44453"
    cy="433.95404"
    r="4.2894602"
-   id="circle364" />
+   id="circle16848" />
 						</g>
 						<g
-   id="g370">
+   id="g16854">
 							<circle
    class="st8"
    cx="102.85645"
    cy="433.96634"
    r="4.2894602"
-   id="circle368" />
+   id="circle16852" />
 						</g>
 						<g
-   id="g374">
+   id="g16858">
 							<circle
    class="st8"
    cx="86.370857"
    cy="432.13638"
    r="4.2894602"
-   id="circle372" />
+   id="circle16856" />
 						</g>
 						<g
-   id="g378">
+   id="g16862">
 							<circle
    class="st8"
    cx="70.18959"
    cy="428.4866"
    r="4.2894602"
-   id="circle376" />
+   id="circle16860" />
 						</g>
 						<g
-   id="g382">
+   id="g16866">
 							<circle
    class="st8"
    cx="54.513309"
    cy="423.06552"
    r="4.2894602"
-   id="circle380" />
+   id="circle16864" />
 						</g>
 						<g
-   id="g386">
+   id="g16870">
 							<circle
    class="st8"
    cx="25.443069"
    cy="407.18826"
    r="4.2894602"
-   id="circle384" />
+   id="circle16868" />
 						</g>
 						<g
-   id="g390">
+   id="g16874">
 							<circle
    class="st8"
    cx="12.40749"
    cy="396.9317"
    r="4.2894602"
-   id="circle388" />
+   id="circle16872" />
 						</g>
 						<g
-   id="g394">
+   id="g16878">
 							<circle
    class="st8"
    cx="0.59113997"
    cy="385.29001"
    r="4.2894602"
-   id="circle392" />
+   id="circle16876" />
 						</g>
 						<g
-   id="g398">
+   id="g16882">
 							<circle
    class="st8"
    cx="-9.8596096"
    cy="372.40924"
    r="4.2894602"
-   id="circle396" />
+   id="circle16880" />
 						</g>
 						<g
-   id="g402">
+   id="g16886">
 							<circle
    class="st8"
    cx="-18.8162"
    cy="358.44748"
    r="4.2894602"
-   id="circle400" />
+   id="circle16884" />
 						</g>
 						<g
-   id="g406">
+   id="g16890">
 							<circle
    class="st8"
    cx="-26.1674"
    cy="343.57843"
    r="4.2894602"
-   id="circle404" />
+   id="circle16888" />
 						</g>
 						<g
-   id="g410">
+   id="g16894">
 							<circle
    class="st8"
    cx="-31.822451"
    cy="327.98523"
    r="4.2894602"
-   id="circle408" />
+   id="circle16892" />
 						</g>
 						<g
-   id="g414">
+   id="g16898">
 							<circle
    class="st8"
    cx="-35.711971"
    cy="311.85931"
    r="4.2894602"
-   id="circle412" />
+   id="circle16896" />
 						</g>
 						<g
-   id="g418">
+   id="g16902">
 							<circle
    class="st8"
    cx="-37.787682"
    cy="295.40271"
    r="4.2894602"
-   id="circle416" />
+   id="circle16900" />
 						</g>
 						<g
-   id="g422">
+   id="g16906">
 							<circle
    class="st8"
    cx="-38.02335"
    cy="278.81693"
    r="4.2894602"
-   id="circle420" />
+   id="circle16904" />
 						</g>
 						<g
-   id="g426">
+   id="g16910">
 							<circle
    class="st8"
    cx="-36.416828"
    cy="262.30814"
    r="4.2894602"
-   id="circle424" />
+   id="circle16908" />
 						</g>
 						<g
-   id="g430">
+   id="g16914">
 							<circle
    class="st8"
    cx="-32.987389"
    cy="246.07903"
    r="4.2894602"
-   id="circle428" />
+   id="circle16912" />
 						</g>
 						<g
-   id="g434">
+   id="g16918">
 							<circle
    class="st8"
    cx="-27.777531"
    cy="230.33133"
    r="4.2894602"
-   id="circle432" />
+   id="circle16916" />
 						</g>
 						<g
-   id="g438">
+   id="g16922">
 							<circle
    class="st8"
    cx="-20.852249"
    cy="215.25822"
    r="4.2894602"
-   id="circle436" />
+   id="circle16920" />
 						</g>
 						<g
-   id="g442">
+   id="g16926">
 							<circle
    class="st8"
    cx="-12.29606"
    cy="201.04813"
    r="4.2894602"
-   id="circle440" />
+   id="circle16924" />
 						</g>
 						<g
-   id="g446">
+   id="g16930">
 							<circle
    class="st8"
    cx="-2.21573"
    cy="187.87529"
    r="4.2894602"
-   id="circle444" />
+   id="circle16928" />
 						</g>
 						<g
-   id="g450">
+   id="g16934">
 							<circle
    class="st8"
    cx="9.2643604"
    cy="175.90262"
    r="4.2894602"
-   id="circle448" />
+   id="circle16932" />
 						</g>
 						<g
-   id="g454">
+   id="g16938">
 							<circle
    class="st8"
    cx="22.003189"
    cy="165.2782"
    r="4.2894602"
-   id="circle452" />
+   id="circle16936" />
 						</g>
 						<g
-   id="g458">
+   id="g16942">
 							<circle
    class="st8"
    cx="35.842152"
    cy="156.13379"
    r="4.2894602"
-   id="circle456" />
+   id="circle16940" />
 						</g>
 						<g
-   id="g462">
+   id="g16946">
 							<circle
    class="st8"
    cx="50.610531"
    cy="148.58228"
    r="4.2894602"
-   id="circle460" />
+   id="circle16944" />
 						</g>
 						<g
-   id="g466">
+   id="g16950">
 							<circle
    class="st8"
    cx="66.126289"
    cy="142.71677"
    r="4.2894602"
-   id="circle464" />
+   id="circle16948" />
 						</g>
 						<g
-   id="g470">
+   id="g16954">
 							<circle
    class="st8"
    cx="82.196953"
    cy="138.60939"
    r="4.2894602"
-   id="circle468" />
+   id="circle16952" />
 						</g>
 						<g
-   id="g474">
+   id="g16958">
 							<circle
    class="st8"
    cx="98.624382"
    cy="136.31154"
    r="4.2894602"
-   id="circle472" />
+   id="circle16956" />
 						</g>
 						<g
-   id="g478">
+   id="g16962">
 							<circle
    class="st8"
    cx="116.15761"
    cy="136.15369"
    r="4.2894602"
-   id="circle476" />
+   id="circle16960" />
 						</g>
 						<g
-   id="g482">
+   id="g16966">
 							<circle
    class="st8"
    cx="134.05612"
    cy="137.73454"
    r="4.2894602"
-   id="circle480" />
+   id="circle16964" />
 						</g>
 						<g
-   id="g486">
+   id="g16970">
 							<circle
    class="st8"
    cx="151.93715"
    cy="141.30128"
    r="4.2894602"
-   id="circle484" />
+   id="circle16968" />
 						</g>
 						<g
-   id="g490">
+   id="g16974">
 							<circle
    class="st8"
    cx="193.31517"
    cy="160.52425"
    r="4.2894602"
-   id="circle488" />
+   id="circle16972" />
 						</g>
 						<g
-   id="g494">
+   id="g16978">
 							<circle
    class="st8"
    cx="206.62315"
    cy="170.42564"
    r="4.2894602"
-   id="circle492" />
+   id="circle16976" />
 						</g>
 						<g
-   id="g498">
+   id="g16982">
 							<circle
    class="st8"
    cx="218.75"
    cy="181.74313"
    r="4.2894602"
-   id="circle496" />
+   id="circle16980" />
 						</g>
 						<g
-   id="g502">
+   id="g16986">
 							<circle
    class="st8"
    cx="229.54523"
    cy="194.33664"
    r="4.2894602"
-   id="circle500" />
+   id="circle16984" />
 						</g>
 						<g
-   id="g506">
+   id="g16990">
 							<circle
    class="st8"
    cx="238.87645"
    cy="208.05061"
    r="4.2894602"
-   id="circle504" />
+   id="circle16988" />
 						</g>
 						<g
-   id="g510">
+   id="g16994">
 							<circle
    class="st8"
    cx="246.62703"
    cy="222.71587"
    r="4.2894602"
-   id="circle508" />
+   id="circle16992" />
 						</g>
 						<g
-   id="g514">
+   id="g16998">
 							<circle
    class="st8"
    cx="252.70245"
    cy="238.15077"
    r="4.2894602"
-   id="circle512" />
+   id="circle16996" />
 						</g>
 						<g
-   id="g518">
+   id="g17002">
 							<circle
    class="st8"
    cx="257.02679"
    cy="254.16428"
    r="4.2894602"
-   id="circle516" />
+   id="circle17000" />
 						</g>
 						<g
-   id="g522">
+   id="g17006">
 							<circle
    class="st8"
    cx="259.54617"
    cy="270.55917"
    r="4.2894602"
-   id="circle520" />
+   id="circle17004" />
 						</g>
 						<g
-   id="g526">
+   id="g17010">
 							<circle
    class="st8"
    cx="260.23038"
    cy="287.13239"
    r="4.2894602"
-   id="circle524" />
+   id="circle17008" />
 						</g>
 						<g
-   id="g530">
+   id="g17014">
 							<circle
    class="st8"
    cx="259.0715"
    cy="303.67926"
    r="4.2894602"
-   id="circle528" />
+   id="circle17012" />
 						</g>
 						<g
-   id="g534">
+   id="g17018">
 							<circle
    class="st8"
    cx="256.08173"
    cy="319.99478"
    r="4.2894602"
-   id="circle532" />
+   id="circle17016" />
 						</g>
 						<g
-   id="g538">
+   id="g17022">
 							<circle
    class="st8"
    cx="251.29964"
    cy="335.87805"
    r="4.2894602"
-   id="circle536" />
+   id="circle17020" />
 						</g>
 					</g>
 					<g
    class="st9"
-   id="g558">
+   id="g17042">
 						<g
-   id="g544">
+   id="g17028">
 							<circle
    class="st8"
    cx="247.00902"
    cy="349.47418"
    r="4.2894602"
-   id="circle542" />
+   id="circle17026" />
 						</g>
 						<g
-   id="g548">
+   id="g17032">
 							<circle
    class="st8"
    cx="227.67625"
    cy="381.1962"
    r="4.2894602"
-   id="circle546" />
+   id="circle17030" />
 						</g>
 						<g
-   id="g552">
+   id="g17036">
 							<circle
    class="st8"
    cx="214.15631"
    cy="395.55804"
    r="4.2894602"
-   id="circle550" />
+   id="circle17034" />
 						</g>
 						<g
-   id="g556">
+   id="g17040">
 							<circle
    class="st8"
    cx="199.35167"
    cy="406.19943"
    r="4.2894602"
-   id="circle554" />
+   id="circle17038" />
 						</g>
 					</g>
 					<path
    class="st8"
    d="m 37.33046,413.24026 1.32668,-4.27448 1.67289,4.15366 3.95761,-2.08707 -1.75469,4.11954 4.28027,1.32184 -4.15499,1.67599 2.09015,3.95895 -4.12543,-1.75134 -1.32365,4.27429 -1.67281,-4.15213 -3.95769,2.08554 1.75158,-4.12088 -4.27422,-1.32214 4.15212,-1.67282 -2.08713,-3.95911 z"
-   id="path560" />
+   id="path17044" />
 				</g>
 				<g
-   id="g824">
+   id="g17308">
 					<g
    class="st10"
-   id="g712">
+   id="g17196">
 						<g
-   id="g566">
+   id="g17050">
 							<circle
    class="st8"
    cx="-20.55291"
    cy="442.36752"
    r="5.4084501"
-   id="circle564" />
+   id="circle17048" />
 						</g>
 						<g
-   id="g570">
+   id="g17054">
 							<circle
    class="st8"
    cx="-34.512241"
    cy="429.55457"
    r="5.4084501"
-   id="circle568" />
+   id="circle17052" />
 						</g>
 						<g
-   id="g574">
+   id="g17058">
 							<circle
    class="st8"
    cx="-47.229721"
    cy="415.50714"
    r="5.4084501"
-   id="circle572" />
+   id="circle17056" />
 						</g>
 						<g
-   id="g578">
+   id="g17062">
 							<circle
    class="st8"
    cx="-58.59684"
    cy="400.34567"
    r="5.4084501"
-   id="circle576" />
+   id="circle17060" />
 						</g>
 						<g
-   id="g582">
+   id="g17066">
 							<circle
    class="st8"
    cx="-68.51667"
    cy="384.20139"
    r="5.4084501"
-   id="circle580" />
+   id="circle17064" />
 						</g>
 						<g
-   id="g586">
+   id="g17070">
 							<circle
    class="st8"
    cx="-76.904793"
    cy="367.20987"
    r="5.4084501"
-   id="circle584" />
+   id="circle17068" />
 						</g>
 						<g
-   id="g590">
+   id="g17074">
 							<circle
    class="st8"
    cx="-83.688957"
    cy="349.51718"
    r="5.4084501"
-   id="circle588" />
+   id="circle17072" />
 						</g>
 						<g
-   id="g594">
+   id="g17078">
 							<circle
    class="st8"
    cx="-88.811913"
    cy="331.27341"
    r="5.4084501"
-   id="circle592" />
+   id="circle17076" />
 						</g>
 						<g
-   id="g598">
+   id="g17082">
 							<circle
    class="st8"
    cx="-92.229874"
    cy="312.63608"
    r="5.4084501"
-   id="circle596" />
+   id="circle17080" />
 						</g>
 						<g
-   id="g602">
+   id="g17086">
 							<circle
    class="st8"
    cx="-93.913177"
    cy="293.76151"
    r="5.4084501"
-   id="circle600" />
+   id="circle17084" />
 						</g>
 						<g
-   id="g606">
+   id="g17090">
 							<circle
    class="st8"
    cx="-93.848083"
    cy="274.81253"
    r="5.4084501"
-   id="circle604" />
+   id="circle17088" />
 						</g>
 						<g
-   id="g610">
+   id="g17094">
 							<circle
    class="st8"
    cx="-92.034737"
    cy="255.95042"
    r="5.4084501"
-   id="circle608" />
+   id="circle17092" />
 						</g>
 						<g
-   id="g614">
+   id="g17098">
 							<circle
    class="st8"
    cx="-88.488747"
    cy="237.33629"
    r="5.4084501"
-   id="circle612" />
+   id="circle17096" />
 						</g>
 						<g
-   id="g618">
+   id="g17102">
 							<circle
    class="st8"
    cx="-83.240517"
    cy="219.12895"
    r="5.4084501"
-   id="circle616" />
+   id="circle17100" />
 						</g>
 						<g
-   id="g622">
+   id="g17106">
 							<circle
    class="st8"
    cx="-76.33474"
    cy="201.48317"
    r="5.4084501"
-   id="circle620" />
+   id="circle17104" />
 						</g>
 						<g
-   id="g626">
+   id="g17110">
 							<circle
    class="st8"
    cx="-67.830048"
    cy="184.54962"
    r="5.4084501"
-   id="circle624" />
+   id="circle17108" />
 						</g>
 						<g
-   id="g630">
+   id="g17114">
 							<circle
    class="st8"
    cx="-57.79982"
    cy="168.47389"
    r="5.4084501"
-   id="circle628" />
+   id="circle17112" />
 						</g>
 						<g
-   id="g634">
+   id="g17118">
 							<circle
    class="st8"
    cx="-46.328442"
    cy="153.39182"
    r="5.4084501"
-   id="circle632" />
+   id="circle17116" />
 						</g>
 						<g
-   id="g638">
+   id="g17122">
 							<circle
    class="st8"
    cx="-33.51458"
    cy="139.43248"
    r="5.4084501"
-   id="circle636" />
+   id="circle17120" />
 						</g>
 						<g
-   id="g642">
+   id="g17126">
 							<circle
    class="st8"
    cx="-19.467331"
    cy="126.71499"
    r="5.4084501"
-   id="circle640" />
+   id="circle17124" />
 						</g>
 						<g
-   id="g646">
+   id="g17130">
 							<circle
    class="st8"
    cx="-4.30621"
    cy="115.34787"
    r="5.4084501"
-   id="circle644" />
+   id="circle17128" />
 						</g>
 						<g
-   id="g650">
+   id="g17134">
 							<circle
    class="st8"
    cx="11.83843"
    cy="105.42805"
    r="5.4084501"
-   id="circle648" />
+   id="circle17132" />
 						</g>
 						<g
-   id="g654">
+   id="g17138">
 							<circle
    class="st8"
    cx="28.829781"
    cy="97.039917"
    r="5.4084501"
-   id="circle652" />
+   id="circle17136" />
 						</g>
 						<g
-   id="g658">
+   id="g17142">
 							<circle
    class="st8"
    cx="46.522732"
    cy="90.255753"
    r="5.4084501"
-   id="circle656" />
+   id="circle17140" />
 						</g>
 						<g
-   id="g662">
+   id="g17146">
 							<circle
    class="st8"
    cx="83.40387"
    cy="81.714844"
    r="5.4084501"
-   id="circle660" />
+   id="circle17144" />
 						</g>
 						<g
-   id="g666">
+   id="g17150">
 							<circle
    class="st8"
    cx="102.27795"
    cy="80.031532"
    r="5.4084501"
-   id="circle664" />
+   id="circle17148" />
 						</g>
 						<g
-   id="g670">
+   id="g17154">
 							<circle
    class="st8"
    cx="140.08867"
    cy="81.909981"
    r="5.4084501"
-   id="circle668" />
+   id="circle17152" />
 						</g>
 						<g
-   id="g674">
+   id="g17158">
 							<circle
    class="st8"
    cx="158.70299"
    cy="85.456062"
    r="5.4084501"
-   id="circle672" />
+   id="circle17156" />
 						</g>
 						<g
-   id="g678">
+   id="g17162">
 							<circle
    class="st8"
    cx="176.91032"
    cy="90.704193"
    r="5.4084501"
-   id="circle676" />
+   id="circle17160" />
 						</g>
 						<g
-   id="g682">
+   id="g17166">
 							<circle
    class="st8"
    cx="194.55629"
    cy="97.60997"
    r="5.4084501"
-   id="circle680" />
+   id="circle17164" />
 						</g>
 						<g
-   id="g686">
+   id="g17170">
 							<circle
    class="st8"
    cx="211.48947"
    cy="106.11466"
    r="5.4084501"
-   id="circle684" />
+   id="circle17168" />
 						</g>
 						<g
-   id="g690">
+   id="g17174">
 							<circle
    class="st8"
    cx="227.56557"
    cy="116.1449"
    r="5.4084501"
-   id="circle688" />
+   id="circle17172" />
 						</g>
 						<g
-   id="g694">
+   id="g17178">
 							<circle
    class="st8"
    cx="242.64764"
    cy="127.61627"
    r="5.4084501"
-   id="circle692" />
+   id="circle17176" />
 						</g>
 						<g
-   id="g698">
+   id="g17182">
 							<circle
    class="st8"
    cx="256.60699"
    cy="140.43015"
    r="5.4084501"
-   id="circle696" />
+   id="circle17180" />
 						</g>
 						<g
-   id="g702">
+   id="g17186">
 							<circle
    class="st8"
    cx="269.32446"
    cy="154.47739"
    r="5.4084501"
-   id="circle700" />
+   id="circle17184" />
 						</g>
 						<g
-   id="g706">
+   id="g17190">
 							<circle
    class="st8"
    cx="280.69196"
    cy="169.6385"
    r="5.4084501"
-   id="circle704" />
+   id="circle17188" />
 						</g>
 						<g
-   id="g710">
+   id="g17194">
 							<circle
    class="st8"
    cx="290.61179"
    cy="185.78314"
    r="5.4084501"
-   id="circle708" />
+   id="circle17192" />
 						</g>
 					</g>
 					<g
    class="st10"
-   id="g738">
+   id="g17222">
 						<g
-   id="g716">
+   id="g17200">
 							<circle
    class="st8"
    cx="148.40317"
    cy="486.71027"
    r="5.4084501"
-   id="circle714" />
+   id="circle17198" />
 						</g>
 						<g
-   id="g720">
+   id="g17204">
 							<circle
    class="st8"
    cx="128.87495"
    cy="489.3642"
    r="5.4084501"
-   id="circle718" />
+   id="circle17202" />
 						</g>
 						<g
-   id="g724">
+   id="g17208">
 							<circle
    class="st8"
    cx="109.18127"
    cy="490.13089"
    r="5.4084501"
-   id="circle722" />
+   id="circle17206" />
 						</g>
 						<g
-   id="g728">
+   id="g17212">
 							<circle
    class="st8"
    cx="50.93087"
    cy="481.13391"
    r="5.4084501"
-   id="circle726" />
+   id="circle17210" />
 						</g>
 						<g
-   id="g732">
+   id="g17216">
 							<circle
    class="st8"
    cx="32.387581"
    cy="474.46094"
    r="5.4084501"
-   id="circle730" />
+   id="circle17214" />
 						</g>
 						<g
-   id="g736">
+   id="g17220">
 							<circle
    class="st8"
    cx="14.5694"
    cy="466.03827"
    r="5.4084501"
-   id="circle734" />
+   id="circle17218" />
 						</g>
 					</g>
 					<g
    class="st10"
-   id="g812">
+   id="g17296">
 						<g
-   id="g742">
+   id="g17226">
 							<circle
    class="st8"
    cx="300.99246"
    cy="207.4893"
    r="5.4084501"
-   id="circle740" />
+   id="circle17224" />
 						</g>
 						<g
-   id="g746">
+   id="g17230">
 							<circle
    class="st8"
    cx="307.38519"
    cy="225.51826"
    r="5.4084501"
-   id="circle744" />
+   id="circle17228" />
 						</g>
 						<g
-   id="g750">
+   id="g17234">
 							<circle
    class="st8"
    cx="312.0715"
    cy="244.06389"
    r="5.4084501"
-   id="circle748" />
+   id="circle17232" />
 						</g>
 						<g
-   id="g754">
+   id="g17238">
 							<circle
    class="st8"
    cx="315.0097"
    cy="262.96545"
    r="5.4084501"
-   id="circle752" />
+   id="circle17236" />
 						</g>
 						<g
-   id="g758">
+   id="g17242">
 							<circle
    class="st8"
    cx="316.17432"
    cy="282.05884"
    r="5.4084501"
-   id="circle756" />
+   id="circle17240" />
 						</g>
 						<g
-   id="g762">
+   id="g17246">
 							<circle
    class="st8"
    cx="315.55603"
    cy="301.1774"
    r="5.4084501"
-   id="circle760" />
+   id="circle17244" />
 						</g>
 						<g
-   id="g766">
+   id="g17250">
 							<circle
    class="st8"
    cx="313.15945"
    cy="320.15543"
    r="5.4084501"
-   id="circle764" />
+   id="circle17248" />
 						</g>
 						<g
-   id="g770">
+   id="g17254">
 							<circle
    class="st8"
    cx="305.15958"
    cy="338.91068"
    r="5.4084501"
-   id="circle768" />
+   id="circle17252" />
 						</g>
 						<g
-   id="g774">
+   id="g17258">
 							<circle
    class="st8"
    cx="299.74966"
    cy="356.74609"
    r="5.4084501"
-   id="circle772" />
+   id="circle17256" />
 						</g>
 						<g
-   id="g778">
+   id="g17262">
 							<circle
    class="st8"
    cx="292.68057"
    cy="374.18094"
    r="5.4084501"
-   id="circle776" />
+   id="circle17260" />
 						</g>
 						<g
-   id="g782">
+   id="g17266">
 							<circle
    class="st8"
    cx="273.66745"
    cy="406.42465"
    r="5.4084501"
-   id="circle780" />
+   id="circle17264" />
 						</g>
 						<g
-   id="g786">
+   id="g17270">
 							<circle
    class="st8"
    cx="261.46555"
    cy="422.4248"
    r="5.4084501"
-   id="circle784" />
+   id="circle17268" />
 						</g>
 						<g
-   id="g790">
+   id="g17274">
 							<circle
    class="st8"
    cx="248.08022"
    cy="436.23386"
    r="5.4084501"
-   id="circle788" />
+   id="circle17272" />
 						</g>
 						<g
-   id="g794">
+   id="g17278">
 							<circle
    class="st8"
    cx="234.48457"
    cy="449.11353"
    r="5.4084501"
-   id="circle792" />
+   id="circle17276" />
 						</g>
 						<g
-   id="g798">
+   id="g17282">
 							<circle
    class="st8"
    cx="219.85384"
    cy="458.90872"
    r="5.4084501"
-   id="circle796" />
+   id="circle17280" />
 						</g>
 						<g
-   id="g802">
+   id="g17286">
 							<circle
    class="st8"
    cx="203.18156"
    cy="468.2868"
    r="5.4084501"
-   id="circle800" />
+   id="circle17284" />
 						</g>
 						<g
-   id="g806">
+   id="g17290">
 							<circle
    class="st8"
    cx="185.70859"
    cy="476.07187"
    r="5.4084501"
-   id="circle804" />
+   id="circle17288" />
 						</g>
 						<g
-   id="g810">
+   id="g17294">
 							<circle
    class="st8"
    cx="167.58739"
    cy="482.19528"
    r="5.4084501"
-   id="circle808" />
+   id="circle17292" />
 						</g>
 					</g>
 					<path
    class="st11"
    d="m 285.14032,388.28967 1.57938,-5.08862 1.99155,4.94479 4.71143,-2.48459 -2.0889,4.90421 5.09555,1.57361 -4.94641,1.99524 2.48828,4.71304 -4.91122,-2.08493 -1.57578,5.08844 -1.99146,-4.94299 -4.71152,2.48279 2.08521,-4.90582 -5.08835,-1.57401 4.94299,-1.99142 -2.48468,-4.71323 z"
-   id="path814" />
+   id="path17298" />
 					<polygon
    class="st12"
    points="92.4729,469.78717 82.1444,479.76959 76.5053,466.55307 76.26685,480.91696 62.93235,475.55933 72.91891,485.89206 59.71407,491.52905 74.07774,491.77225 68.71311,505.10037 79.04501,495.11627 84.67752,508.32867 84.92099,493.96643 98.25957,499.32678 88.26932,488.99289 101.47925,483.35492 87.11641,483.11517 "
-   id="polygon816" />
+   id="polygon17300" />
 					<polygon
    class="st12"
    points="74.36639,78.19978 67.66254,81.76784 66.72272,74.22919 64.50828,81.4944 58.51225,76.82833 62.08178,83.53493 54.54939,84.47539 61.81379,86.69221 57.14509,92.68397 63.8509,89.11557 64.78799,96.65114 67.00475,89.3875 73.00244,94.05556 69.43121,87.34783 76.96632,86.40762 69.70184,84.19268 "
-   id="polygon818" />
+   id="polygon17302" />
 					<path
    class="st12"
    d="m 51.85146,77.13612 -1.70601,-2.96445 -3.34676,0.70707 2.29208,-2.53939 -1.70634,-2.96357 3.12093,1.39498 2.29354,-2.53786 -0.36145,3.40237 3.12125,1.3941 -3.34587,0.70739 z"
-   id="path820" />
+   id="path17304" />
 					<path
    class="st8"
    d="m -2.08945,464.36288 -2.91417,-6.68875 -7.26251,0.70587 5.46084,-4.84021 -2.91507,-6.68695 6.28563,3.69684 5.46356,-4.83661 -1.57249,7.12717 6.28653,3.69504 -7.2607,0.70679 z"
-   id="path822" />
+   id="path17306" />
 				</g>
 				<g
-   id="g1170">
+   id="g17654">
 					<g
    class="st13"
-   id="g870">
+   id="g17354">
 						<g
-   id="g828">
+   id="g17312">
 							<circle
    class="st8"
    cx="-74.226997"
    cy="76.389221"
    r="6.1544399"
-   id="circle826" />
+   id="circle17310" />
 						</g>
 						<g
-   id="g832">
+   id="g17316">
 							<circle
    class="st8"
    cx="-58.50581"
    cy="63.421692"
    r="6.1544399"
-   id="circle830" />
+   id="circle17314" />
 						</g>
 						<g
-   id="g836">
+   id="g17320">
 							<circle
    class="st8"
    cx="-41.879471"
    cy="51.636101"
    r="6.1544399"
-   id="circle834" />
+   id="circle17318" />
 						</g>
 						<g
-   id="g840">
+   id="g17324">
 							<circle
    class="st8"
    cx="-24.438101"
    cy="41.09568"
    r="6.1544399"
-   id="circle838" />
+   id="circle17322" />
 						</g>
 						<g
-   id="g844">
+   id="g17328">
 							<circle
    class="st8"
    cx="-6.2731099"
    cy="31.85663"
    r="6.1544399"
-   id="circle842" />
+   id="circle17326" />
 						</g>
 						<g
-   id="g848">
+   id="g17332">
 							<circle
    class="st8"
    cx="12.51748"
    cy="23.967899"
    r="6.1544399"
-   id="circle846" />
+   id="circle17330" />
 						</g>
 						<g
-   id="g852">
+   id="g17336">
 							<circle
    class="st8"
    cx="31.83387"
    cy="17.471991"
    r="6.1544399"
-   id="circle850" />
+   id="circle17334" />
 						</g>
 						<g
-   id="g856">
+   id="g17340">
 							<circle
    class="st8"
    cx="51.572922"
    cy="12.40352"
    r="6.1544399"
-   id="circle854" />
+   id="circle17338" />
 						</g>
 						<g
-   id="g860">
+   id="g17344">
 							<circle
    class="st8"
    cx="71.629097"
    cy="8.7891703"
    r="6.1544399"
-   id="circle858" />
+   id="circle17342" />
 						</g>
 						<g
-   id="g864">
+   id="g17348">
 							<circle
    class="st8"
    cx="91.895828"
    cy="6.6487398"
    r="6.1544399"
-   id="circle862" />
+   id="circle17346" />
 						</g>
 						<g
-   id="g868">
+   id="g17352">
 							<circle
    class="st8"
    cx="112.26474"
    cy="5.9933701"
    r="6.1544399"
-   id="circle866" />
+   id="circle17350" />
 						</g>
 					</g>
 					<g
    class="st13"
-   id="g940">
+   id="g17424">
 						<g
-   id="g874">
+   id="g17358">
 							<circle
    class="st8"
    cx="195.13133"
    cy="18.96274"
    r="6.1544399"
-   id="circle872" />
+   id="circle17356" />
 						</g>
 						<g
-   id="g878">
+   id="g17362">
 							<circle
    class="st8"
    cx="214.05133"
    cy="25.70083"
    r="6.1544399"
-   id="circle876" />
+   id="circle17360" />
 						</g>
 						<g
-   id="g882">
+   id="g17366">
 							<circle
    class="st8"
    cx="232.43776"
    cy="33.782581"
    r="6.1544399"
-   id="circle880" />
+   id="circle17364" />
 						</g>
 						<g
-   id="g886">
+   id="g17370">
 							<circle
    class="st8"
    cx="267.4216"
    cy="54.469509"
    r="6.1544399"
-   id="circle884" />
+   id="circle17368" />
 						</g>
 						<g
-   id="g890">
+   id="g17374">
 							<circle
    class="st8"
    cx="284.24396"
    cy="66.154373"
    r="6.1544399"
-   id="circle888" />
+   id="circle17372" />
 						</g>
 						<g
-   id="g894">
+   id="g17378">
 							<circle
    class="st8"
    cx="299.79156"
    cy="78.609322"
    r="6.1544399"
-   id="circle892" />
+   id="circle17376" />
 						</g>
 						<g
-   id="g898">
+   id="g17382">
 							<circle
    class="st8"
    cx="314.65192"
    cy="92.650337"
    r="6.1544399"
-   id="circle896" />
+   id="circle17380" />
 						</g>
 						<g
-   id="g902">
+   id="g17386">
 							<circle
    class="st8"
    cx="340.73367"
    cy="123.64445"
    r="6.1544399"
-   id="circle900" />
+   id="circle17384" />
 						</g>
 						<g
-   id="g906">
+   id="g17390">
 							<circle
    class="st8"
    cx="352.07281"
    cy="140.2937"
    r="6.1544399"
-   id="circle904" />
+   id="circle17388" />
 						</g>
 						<g
-   id="g910">
+   id="g17394">
 							<circle
    class="st8"
    cx="359.46063"
    cy="157.97861"
    r="6.1544399"
-   id="circle908" />
+   id="circle17392" />
 						</g>
 						<g
-   id="g914">
+   id="g17398">
 							<circle
    class="st8"
    cx="367.95471"
    cy="176.17828"
    r="6.1544399"
-   id="circle912" />
+   id="circle17396" />
 						</g>
 						<g
-   id="g918">
+   id="g17402">
 							<circle
    class="st8"
    cx="375.11658"
    cy="194.94183"
    r="6.1544399"
-   id="circle916" />
+   id="circle17400" />
 						</g>
 						<g
-   id="g922">
+   id="g17406">
 							<circle
    class="st8"
    cx="380.91095"
    cy="214.17198"
    r="6.1544399"
-   id="circle920" />
+   id="circle17404" />
 						</g>
 						<g
-   id="g926">
+   id="g17410">
 							<circle
    class="st8"
    cx="385.30634"
    cy="233.76912"
    r="6.1544399"
-   id="circle924" />
+   id="circle17408" />
 						</g>
 						<g
-   id="g930">
+   id="g17414">
 							<circle
    class="st8"
    cx="388.2804"
    cy="253.63217"
    r="6.1544399"
-   id="circle928" />
+   id="circle17412" />
 						</g>
 						<g
-   id="g934">
+   id="g17418">
 							<circle
    class="st8"
    cx="389.81854"
    cy="273.65717"
    r="6.1544399"
-   id="circle932" />
+   id="circle17416" />
 						</g>
 						<g
-   id="g938">
+   id="g17422">
 							<circle
    class="st8"
    cx="389.91113"
    cy="293.74127"
    r="6.1544399"
-   id="circle936" />
+   id="circle17420" />
 						</g>
 					</g>
 					<g
    class="st13"
-   id="g970">
+   id="g17454">
 						<g
-   id="g944">
+   id="g17428">
 							<circle
    class="st8"
    cx="382.61472"
    cy="348.96954"
    r="6.1544399"
-   id="circle942" />
+   id="circle17426" />
 						</g>
 						<g
-   id="g948">
+   id="g17432">
 							<circle
    class="st8"
    cx="385.76767"
    cy="328.81314"
    r="6.1544399"
-   id="circle946" />
+   id="circle17430" />
 						</g>
 						<g
-   id="g952">
+   id="g17436">
 							<circle
    class="st8"
    cx="377.08426"
    cy="369.04993"
    r="6.1544399"
-   id="circle950" />
+   id="circle17434" />
 						</g>
 						<g
-   id="g956">
+   id="g17440">
 							<circle
    class="st8"
    cx="370.07263"
    cy="388.66171"
    r="6.1544399"
-   id="circle954" />
+   id="circle17438" />
 						</g>
 						<g
-   id="g960">
+   id="g17444">
 							<circle
    class="st8"
    cx="351.76645"
    cy="426.04626"
    r="6.1544399"
-   id="circle958" />
+   id="circle17442" />
 						</g>
 						<g
-   id="g964">
+   id="g17448">
 							<circle
    class="st8"
    cx="340.57349"
    cy="443.61078"
    r="6.1544399"
-   id="circle962" />
+   id="circle17446" />
 						</g>
 						<g
-   id="g968">
+   id="g17452">
 							<circle
    class="st8"
    cx="328.10013"
    cy="460.29114"
    r="6.1544399"
-   id="circle966" />
+   id="circle17450" />
 						</g>
 					</g>
 					<g
    class="st13"
-   id="g1164">
+   id="g17648">
 						<g
-   id="g974">
+   id="g17458">
 							<circle
    class="st8"
    cx="302.70517"
    cy="487.74689"
    r="6.1544399"
-   id="circle972" />
+   id="circle17456" />
 						</g>
 						<g
-   id="g978">
+   id="g17462">
 							<circle
    class="st8"
    cx="288.88251"
    cy="499.97183"
    r="6.1544399"
-   id="circle976" />
+   id="circle17460" />
 						</g>
 						<g
-   id="g982">
+   id="g17466">
 							<circle
    class="st8"
    cx="274.28311"
    cy="511.25708"
    r="6.1544399"
-   id="circle980" />
+   id="circle17464" />
 						</g>
 						<g
-   id="g986">
+   id="g17470">
 							<circle
    class="st8"
    cx="258.96918"
    cy="521.55225"
    r="6.1544399"
-   id="circle984" />
+   id="circle17468" />
 						</g>
 						<g
-   id="g990">
+   id="g17474">
 							<circle
    class="st8"
    cx="243.01036"
    cy="530.81299"
    r="6.1544399"
-   id="circle988" />
+   id="circle17472" />
 						</g>
 						<g
-   id="g994">
+   id="g17478">
 							<circle
    class="st8"
    cx="226.47128"
    cy="538.99799"
    r="6.1544399"
-   id="circle992" />
+   id="circle17476" />
 						</g>
 						<g
-   id="g998">
+   id="g17482">
 							<circle
    class="st8"
    cx="209.42949"
    cy="546.0719"
    r="6.1544399"
-   id="circle996" />
+   id="circle17480" />
 						</g>
 						<g
-   id="g1002">
+   id="g17486">
 							<circle
    class="st8"
    cx="191.95601"
    cy="552.00397"
    r="6.1544399"
-   id="circle1000" />
+   id="circle17484" />
 						</g>
 						<g
-   id="g1006">
+   id="g17490">
 							<circle
    class="st8"
    cx="174.1301"
    cy="556.76831"
    r="6.1544399"
-   id="circle1004" />
+   id="circle17488" />
 						</g>
 						<g
-   id="g1010">
+   id="g17494">
 							<circle
    class="st8"
    cx="156.02655"
    cy="560.34406"
    r="6.1544399"
-   id="circle1008" />
+   id="circle17492" />
 						</g>
 						<g
-   id="g1014">
+   id="g17498">
 							<circle
    class="st8"
    cx="137.72823"
    cy="562.7146"
    r="6.1544399"
-   id="circle1012" />
+   id="circle17496" />
 						</g>
 						<g
-   id="g1018">
+   id="g17502">
 							<circle
    class="st8"
    cx="119.31116"
    cy="563.87115"
    r="6.1544399"
-   id="circle1016" />
+   id="circle17500" />
 						</g>
 						<g
-   id="g1022">
+   id="g17506">
 							<circle
    class="st8"
    cx="100.85865"
    cy="563.80701"
    r="6.1544399"
-   id="circle1020" />
+   id="circle17504" />
 						</g>
 						<g
-   id="g1026">
+   id="g17510">
 							<circle
    class="st8"
    cx="82.451729"
    cy="562.52448"
    r="6.1544399"
-   id="circle1024" />
+   id="circle17508" />
 						</g>
 						<g
-   id="g1030">
+   id="g17514">
 							<circle
    class="st8"
    cx="64.16848"
    cy="560.02753"
    r="6.1544399"
-   id="circle1028" />
+   id="circle17512" />
 						</g>
 						<g
-   id="g1034">
+   id="g17518">
 							<circle
    class="st8"
    cx="46.090851"
    cy="556.32629"
    r="6.1544399"
-   id="circle1032" />
+   id="circle17516" />
 						</g>
 						<g
-   id="g1038">
+   id="g17522">
 							<circle
    class="st8"
    cx="28.297319"
    cy="551.43994"
    r="6.1544399"
-   id="circle1036" />
+   id="circle17520" />
 						</g>
 						<g
-   id="g1042">
+   id="g17526">
 							<circle
    class="st8"
    cx="10.86616"
    cy="545.38635"
    r="6.1544399"
-   id="circle1040" />
+   id="circle17524" />
 						</g>
 						<g
-   id="g1046">
+   id="g17530">
 							<circle
    class="st8"
    cx="-6.1272998"
    cy="538.19537"
    r="6.1544399"
-   id="circle1044" />
+   id="circle17528" />
 						</g>
 						<g
-   id="g1050">
+   id="g17534">
 							<circle
    class="st8"
    cx="-22.608049"
    cy="529.89606"
    r="6.1544399"
-   id="circle1048" />
+   id="circle17532" />
 						</g>
 						<g
-   id="g1054">
+   id="g17538">
 							<circle
    class="st8"
    cx="-38.50423"
    cy="520.52625"
    r="6.1544399"
-   id="circle1052" />
+   id="circle17536" />
 						</g>
 						<g
-   id="g1058">
+   id="g17542">
 							<circle
    class="st8"
    cx="-53.746109"
    cy="510.12552"
    r="6.1544399"
-   id="circle1056" />
+   id="circle17540" />
 						</g>
 						<g
-   id="g1062">
+   id="g17546">
 							<circle
    class="st8"
    cx="-68.26722"
    cy="498.73929"
    r="6.1544399"
-   id="circle1060" />
+   id="circle17544" />
 						</g>
 						<g
-   id="g1066">
+   id="g17550">
 							<circle
    class="st8"
    cx="-82.004341"
    cy="486.41919"
    r="6.1544399"
-   id="circle1064" />
+   id="circle17548" />
 						</g>
 						<g
-   id="g1070">
+   id="g17554">
 							<circle
    class="st8"
    cx="-94.896599"
    cy="473.21707"
    r="6.1544399"
-   id="circle1068" />
+   id="circle17552" />
 						</g>
 						<g
-   id="g1074">
+   id="g17558">
 							<circle
    class="st8"
    cx="-106.88805"
    cy="459.1926"
    r="6.1544399"
-   id="circle1072" />
+   id="circle17556" />
 						</g>
 						<g
-   id="g1078">
+   id="g17562">
 							<circle
    class="st8"
    cx="-117.92656"
    cy="444.40646"
    r="6.1544399"
-   id="circle1076" />
+   id="circle17560" />
 						</g>
 						<g
-   id="g1082">
+   id="g17566">
 							<circle
    class="st8"
    cx="-127.96276"
    cy="428.92145"
    r="6.1544399"
-   id="circle1080" />
+   id="circle17564" />
 						</g>
 						<g
-   id="g1086">
+   id="g17570">
 							<circle
    class="st8"
    cx="-136.95415"
    cy="412.80896"
    r="6.1544399"
-   id="circle1084" />
+   id="circle17568" />
 						</g>
 						<g
-   id="g1090">
+   id="g17574">
 							<circle
    class="st8"
    cx="-144.86053"
    cy="396.13626"
    r="6.1544399"
-   id="circle1088" />
+   id="circle17572" />
 						</g>
 						<g
-   id="g1094">
+   id="g17578">
 							<circle
    class="st8"
    cx="-151.64749"
    cy="378.97607"
    r="6.1544399"
-   id="circle1092" />
+   id="circle17576" />
 						</g>
 						<g
-   id="g1098">
+   id="g17582">
 							<circle
    class="st8"
    cx="-157.28568"
    cy="361.40726"
    r="6.1544399"
-   id="circle1096" />
+   id="circle17580" />
 						</g>
 						<g
-   id="g1102">
+   id="g17586">
 							<circle
    class="st8"
    cx="-161.74995"
    cy="343.50262"
    r="6.1544399"
-   id="circle1100" />
+   id="circle17584" />
 						</g>
 						<g
-   id="g1106">
+   id="g17590">
 							<circle
    class="st8"
    cx="-165.02077"
    cy="325.34241"
    r="6.1544399"
-   id="circle1104" />
+   id="circle17588" />
 						</g>
 						<g
-   id="g1110">
+   id="g17594">
 							<circle
    class="st8"
    cx="-167.08418"
    cy="307.00549"
    r="6.1544399"
-   id="circle1108" />
+   id="circle17592" />
 						</g>
 						<g
-   id="g1114">
+   id="g17598">
 							<circle
    class="st8"
    cx="-167.93117"
    cy="288.57272"
    r="6.1544399"
-   id="circle1112" />
+   id="circle17596" />
 						</g>
 						<g
-   id="g1118">
+   id="g17602">
 							<circle
    class="st8"
    cx="-167.5574"
    cy="270.12347"
    r="6.1544399"
-   id="circle1116" />
+   id="circle17600" />
 						</g>
 						<g
-   id="g1122">
+   id="g17606">
 							<circle
    class="st8"
    cx="-165.96555"
    cy="251.73999"
    r="6.1544399"
-   id="circle1120" />
+   id="circle17604" />
 						</g>
 						<g
-   id="g1126">
+   id="g17610">
 							<circle
    class="st8"
    cx="-163.16136"
    cy="233.50211"
    r="6.1544399"
-   id="circle1124" />
+   id="circle17608" />
 						</g>
 						<g
-   id="g1130">
+   id="g17614">
 							<circle
    class="st8"
    cx="-159.15826"
    cy="215.48865"
    r="6.1544399"
-   id="circle1128" />
+   id="circle17612" />
 						</g>
 						<g
-   id="g1134">
+   id="g17618">
 							<circle
    class="st8"
    cx="-153.97311"
    cy="197.77992"
    r="6.1544399"
-   id="circle1132" />
+   id="circle17616" />
 						</g>
 						<g
-   id="g1138">
+   id="g17622">
 							<circle
    class="st8"
    cx="-147.62856"
    cy="180.45244"
    r="6.1544399"
-   id="circle1136" />
+   id="circle17620" />
 						</g>
 						<g
-   id="g1142">
+   id="g17626">
 							<circle
    class="st8"
    cx="-140.1526"
    cy="163.58269"
    r="6.1544399"
-   id="circle1140" />
+   id="circle17624" />
 						</g>
 						<g
-   id="g1146">
+   id="g17630">
 							<circle
    class="st8"
    cx="-131.57811"
    cy="147.24362"
    r="6.1544399"
-   id="circle1144" />
+   id="circle17628" />
 						</g>
 						<g
-   id="g1150">
+   id="g17634">
 							<circle
    class="st8"
    cx="-121.94189"
    cy="131.50693"
    r="6.1544399"
-   id="circle1148" />
+   id="circle17632" />
 						</g>
 						<g
-   id="g1154">
+   id="g17638">
 							<circle
    class="st8"
    cx="-111.28698"
    cy="116.44168"
    r="6.1544399"
-   id="circle1152" />
+   id="circle17636" />
 						</g>
 						<g
-   id="g1158">
+   id="g17642">
 							<circle
    class="st8"
    cx="-99.659248"
    cy="102.11381"
    r="6.1544399"
-   id="circle1156" />
+   id="circle17640" />
 						</g>
 						<g
-   id="g1162">
+   id="g17646">
 							<circle
    class="st8"
    cx="-87.110161"
    cy="88.585518"
    r="6.1544399"
-   id="circle1160" />
+   id="circle17644" />
 						</g>
 					</g>
 					<polygon
    class="st8"
    points="140.8188,0.78982 135.41748,4.03832 134.31107,-2.16906 132.79128,3.94872 127.61893,0.34183 130.86877,5.74536 124.66661,6.85204 130.78381,8.37383 127.17456,13.54276 132.5775,10.29388 133.68152,16.49883 135.20328,10.38227 140.37711,13.99073 137.12579,8.58633 143.33023,7.47973 137.21304,5.95951 "
-   id="polygon1166" />
+   id="polygon17650" />
 					<path
    class="st8"
    d="m 123.33886,-4.14989 0.0842,-4.46718 -4.22316,-1.45999 4.275,-1.3013 0.0833,-4.4664 2.55602,3.66176 4.2756,-1.29859 -2.69384,3.56651 2.55698,3.66098 -4.22238,-1.45902 z"
-   id="path1168" />
+   id="path17652" />
 				</g>
 			</g>
 			<g
-   id="g1966">
+   id="g18450">
 				<g
-   id="g1336">
+   id="g17820">
 					<g
-   id="g1242">
+   id="g17726">
 						<g
-   id="g1176">
+   id="g17660">
 							<circle
    class="st8"
    cx="258.69702"
    cy="185.40691"
    r="4.4759598"
-   id="circle1174" />
+   id="circle17658" />
 						</g>
 						<g
-   id="g1180">
+   id="g17664">
 							<circle
    class="st8"
    cx="263.29773"
    cy="170.2578"
    r="4.4759598"
-   id="circle1178" />
+   id="circle17662" />
 						</g>
 						<g
-   id="g1184">
+   id="g17668">
 							<circle
    class="st8"
    cx="278.96649"
    cy="142.84262"
    r="4.4759598"
-   id="circle1182" />
+   id="circle17666" />
 						</g>
 						<g
-   id="g1188">
+   id="g17672">
 							<circle
    class="st8"
    cx="289.68472"
    cy="131.19016"
    r="4.4759598"
-   id="circle1186" />
+   id="circle17670" />
 						</g>
 						<g
-   id="g1192">
+   id="g17676">
 							<circle
    class="st8"
    cx="302.01929"
    cy="121.26476"
    r="4.4759598"
-   id="circle1190" />
+   id="circle17674" />
 						</g>
 						<g
-   id="g1196">
+   id="g17680">
 							<circle
    class="st8"
    cx="315.69608"
    cy="113.28854"
    r="4.4759598"
-   id="circle1194" />
+   id="circle17678" />
 						</g>
 						<g
-   id="g1200">
+   id="g17684">
 							<circle
    class="st8"
    cx="345.82874"
    cy="103.84971"
    r="4.4759598"
-   id="circle1198" />
+   id="circle17682" />
 						</g>
 						<g
-   id="g1204">
+   id="g17688">
 							<circle
    class="st8"
    cx="361.61176"
    cy="102.59781"
    r="4.4759598"
-   id="circle1202" />
+   id="circle17686" />
 						</g>
 						<g
-   id="g1208">
+   id="g17692">
 							<circle
    class="st8"
    cx="377.40488"
    cy="103.71196"
    r="4.4759598"
-   id="circle1206" />
+   id="circle17690" />
 						</g>
 						<g
-   id="g1212">
+   id="g17696">
 							<circle
    class="st8"
    cx="392.85559"
    cy="107.16759"
    r="4.4759598"
-   id="circle1210" />
+   id="circle17694" />
 						</g>
 						<g
-   id="g1216">
+   id="g17700">
 							<circle
    class="st8"
    cx="407.61893"
    cy="112.88737"
    r="4.4759598"
-   id="circle1214" />
+   id="circle17698" />
 						</g>
 						<g
-   id="g1220">
+   id="g17704">
 							<circle
    class="st8"
    cx="421.36456"
    cy="120.74371"
    r="4.4759598"
-   id="circle1218" />
+   id="circle17702" />
 						</g>
 						<g
-   id="g1224">
+   id="g17708">
 							<circle
    class="st8"
    cx="433.78604"
    cy="130.5614"
    r="4.4759598"
-   id="circle1222" />
+   id="circle17706" />
 						</g>
 						<g
-   id="g1228">
+   id="g17712">
 							<circle
    class="st8"
    cx="444.60474"
    cy="142.12027"
    r="4.4759598"
-   id="circle1226" />
+   id="circle17710" />
 						</g>
 						<g
-   id="g1232">
+   id="g17716">
 							<circle
    class="st8"
    cx="453.58139"
    cy="155.16234"
    r="4.4759598"
-   id="circle1230" />
+   id="circle17714" />
 						</g>
 						<g
-   id="g1236">
+   id="g17720">
 							<circle
    class="st8"
    cx="460.51266"
    cy="169.39705"
    r="4.4759598"
-   id="circle1234" />
+   id="circle17718" />
 						</g>
 						<g
-   id="g1240">
+   id="g17724">
 							<circle
    class="st8"
    cx="465.24536"
    cy="184.50542"
    r="4.4759598"
-   id="circle1238" />
+   id="circle17722" />
 						</g>
 					</g>
 					<g
-   id="g1328">
+   id="g17812">
 						<g
-   id="g1246">
+   id="g17730">
 							<circle
    class="st8"
    cx="466.38489"
    cy="226.98749"
    r="4.4759598"
-   id="circle1244" />
+   id="circle17728" />
 						</g>
 						<g
-   id="g1250">
+   id="g17734">
 							<circle
    class="st8"
    cx="462.53964"
    cy="242.11328"
    r="4.4759598"
-   id="circle1248" />
+   id="circle17732" />
 						</g>
 						<g
-   id="g1254">
+   id="g17738">
 							<circle
    class="st8"
    cx="456.51529"
    cy="256.50998"
    r="4.4759598"
-   id="circle1252" />
+   id="circle17736" />
 						</g>
 						<g
-   id="g1258">
+   id="g17742">
 							<circle
    class="st8"
    cx="448.43939"
    cy="269.86539"
    r="4.4759598"
-   id="circle1256" />
+   id="circle17740" />
 						</g>
 						<g
-   id="g1262">
+   id="g17746">
 							<circle
    class="st8"
    cx="438.49118"
    cy="281.88959"
    r="4.4759598"
-   id="circle1260" />
+   id="circle17744" />
 						</g>
 						<g
-   id="g1266">
+   id="g17750">
 							<circle
    class="st8"
    cx="426.88269"
    cy="292.32077"
    r="4.4759598"
-   id="circle1264" />
+   id="circle17748" />
 						</g>
 						<g
-   id="g1270">
+   id="g17754">
 							<circle
    class="st8"
    cx="413.89536"
    cy="301.1774"
    r="4.4759598"
-   id="circle1268" />
+   id="circle17752" />
 						</g>
 						<g
-   id="g1274">
+   id="g17758">
 							<circle
    class="st8"
    cx="399.72757"
    cy="307.54086"
    r="4.4759598"
-   id="circle1272" />
+   id="circle17756" />
 						</g>
 						<g
-   id="g1278">
+   id="g17762">
 							<circle
    class="st8"
    cx="384.77228"
    cy="311.99887"
    r="4.4759598"
-   id="circle1276" />
+   id="circle17760" />
 						</g>
 						<g
-   id="g1282">
+   id="g17766">
 							<circle
    class="st8"
    cx="369.32309"
    cy="314.21033"
    r="4.4759598"
-   id="circle1280" />
+   id="circle17764" />
 						</g>
 						<g
-   id="g1286">
+   id="g17770">
 							<circle
    class="st8"
    cx="353.71588"
    cy="314.12891"
    r="4.4759598"
-   id="circle1284" />
+   id="circle17768" />
 						</g>
 						<g
-   id="g1290">
+   id="g17774">
 							<circle
    class="st8"
    cx="338.29071"
    cy="311.75375"
    r="4.4759598"
-   id="circle1288" />
+   id="circle17772" />
 						</g>
 						<g
-   id="g1294">
+   id="g17778">
 							<circle
    class="st8"
    cx="323.38162"
    cy="307.14005"
    r="4.4759598"
-   id="circle1292" />
+   id="circle17776" />
 						</g>
 						<g
-   id="g1298">
+   id="g17782">
 							<circle
    class="st8"
    cx="309.31305"
    cy="300.38483"
    r="4.4759598"
-   id="circle1296" />
+   id="circle17780" />
 						</g>
 						<g
-   id="g1302">
+   id="g17786">
 							<circle
    class="st8"
    cx="296.38882"
    cy="291.63586"
    r="4.4759598"
-   id="circle1300" />
+   id="circle17784" />
 						</g>
 						<g
-   id="g1306">
+   id="g17790">
 							<circle
    class="st8"
    cx="284.89114"
    cy="281.08255"
    r="4.4759598"
-   id="circle1304" />
+   id="circle17788" />
 						</g>
 						<g
-   id="g1310">
+   id="g17794">
 							<circle
    class="st8"
    cx="275.06848"
    cy="268.95493"
    r="4.4759598"
-   id="circle1308" />
+   id="circle17792" />
 						</g>
 						<g
-   id="g1314">
+   id="g17798">
 							<circle
    class="st8"
    cx="267.13412"
    cy="255.5154"
    r="4.4759598"
-   id="circle1312" />
+   id="circle17796" />
 						</g>
 						<g
-   id="g1318">
+   id="g17802">
 							<circle
    class="st8"
    cx="261.26086"
    cy="241.05663"
    r="4.4759598"
-   id="circle1316" />
+   id="circle17800" />
 						</g>
 						<g
-   id="g1322">
+   id="g17806">
 							<circle
    class="st8"
    cx="257.57562"
    cy="225.88986"
    r="4.4759598"
-   id="circle1320" />
+   id="circle17804" />
 						</g>
 						<g
-   id="g1326">
+   id="g17810">
 							<circle
    class="st8"
    cx="256.15875"
    cy="210.3488"
    r="4.4759598"
-   id="circle1324" />
+   id="circle17808" />
 						</g>
 					</g>
 					<path
    class="st8"
    d="m 328.29712,116.07157 -0.77383,-7.46326 -7.3381,-1.56923 6.85938,-3.04396 -0.7753,-7.46176 5.00986,5.58041 6.86093,-3.03958 -3.76025,6.49609 5.01132,5.57891 -7.33658,-1.56778 z"
-   id="path1330" />
+   id="path17814" />
 					<path
    class="st8"
    d="m 468.0946,210.78746 0.63177,-2.03546 0.7966,1.97792 1.88458,-0.99384 -0.83557,1.96169 2.03824,0.62944 -1.97858,0.7981 0.9953,1.88522 -1.96448,-0.83398 -0.63031,2.03539 -0.79657,-1.9772 -1.88461,0.99312 0.83408,-1.96233 -2.03534,-0.62959 1.9772,-0.79659 -0.99387,-1.88528 z"
-   id="path1332" />
+   id="path17816" />
 					<polygon
    class="st8"
    points="472.29572,192.52345 468.23807,196.44513 466.02271,191.25291 465.92905,196.89587 460.69049,194.79109 464.61377,198.85039 459.42615,201.06491 465.06903,201.16045 462.96149,206.3965 467.02045,202.47418 469.23322,207.66475 469.32889,202.02245 474.56903,204.12831 470.64429,200.06856 475.83389,197.85364 470.19138,197.75946 "
-   id="polygon1334" />
+   id="polygon17818" />
 				</g>
 				<g
-   id="g1524">
+   id="g18008">
 					<g
    class="st9"
-   id="g1422">
+   id="g17906">
 						<g
-   id="g1340">
+   id="g17824">
 							<circle
    class="st8"
    cx="287.27585"
    cy="331.54938"
    r="5.03545"
-   id="circle1338" />
+   id="circle17822" />
 						</g>
 						<g
-   id="g1344">
+   id="g17828">
 							<circle
    class="st8"
    cx="272.44641"
    cy="321.2052"
    r="5.03545"
-   id="circle1342" />
+   id="circle17826" />
 						</g>
 						<g
-   id="g1348">
+   id="g17832">
 							<circle
    class="st8"
    cx="259.03116"
    cy="309.08252"
    r="5.03545"
-   id="circle1346" />
+   id="circle17830" />
 						</g>
 						<g
-   id="g1352">
+   id="g17836">
 							<circle
    class="st8"
    cx="247.24034"
    cy="295.37509"
    r="5.03545"
-   id="circle1350" />
+   id="circle17834" />
 						</g>
 						<g
-   id="g1356">
+   id="g17840">
 							<circle
    class="st8"
    cx="237.26102"
    cy="280.29834"
    r="5.03545"
-   id="circle1354" />
+   id="circle17838" />
 						</g>
 						<g
-   id="g1360">
+   id="g17844">
 							<circle
    class="st8"
    cx="229.25014"
    cy="264.08862"
    r="5.03545"
-   id="circle1358" />
+   id="circle17842" />
 						</g>
 						<g
-   id="g1364">
+   id="g17848">
 							<circle
    class="st8"
    cx="223.33386"
    cy="247.00327"
    r="5.03545"
-   id="circle1362" />
+   id="circle17846" />
 						</g>
 						<g
-   id="g1368">
+   id="g17852">
 							<circle
    class="st8"
    cx="219.60526"
    cy="229.31131"
    r="5.03545"
-   id="circle1366" />
+   id="circle17850" />
 						</g>
 						<g
-   id="g1372">
+   id="g17856">
 							<circle
    class="st8"
    cx="218.12392"
    cy="211.29118"
    r="5.03545"
-   id="circle1370" />
+   id="circle17854" />
 						</g>
 						<g
-   id="g1376">
+   id="g17860">
 							<circle
    class="st8"
    cx="218.91257"
    cy="193.22815"
    r="5.03545"
-   id="circle1374" />
+   id="circle17858" />
 						</g>
 						<g
-   id="g1380">
+   id="g17864">
 							<circle
    class="st8"
    cx="223.03946"
    cy="171.54938"
    r="5.03545"
-   id="circle1378" />
+   id="circle17862" />
 						</g>
 						<g
-   id="g1384">
+   id="g17868">
 							<circle
    class="st8"
    cx="227.21532"
    cy="158.106"
    r="5.03545"
-   id="circle1382" />
+   id="circle17866" />
 						</g>
 						<g
-   id="g1388">
+   id="g17872">
 							<circle
    class="st8"
    cx="234.59804"
    cy="141.60106"
    r="5.03545"
-   id="circle1386" />
+   id="circle17870" />
 						</g>
 						<g
-   id="g1392">
+   id="g17876">
 							<circle
    class="st8"
    cx="255.24683"
    cy="112.00207"
    r="5.03545"
-   id="circle1390" />
+   id="circle17874" />
 						</g>
 						<g
-   id="g1396">
+   id="g17880">
 							<circle
    class="st8"
    cx="282.608"
    cy="88.467957"
    r="5.03545"
-   id="circle1394" />
+   id="circle17878" />
 						</g>
 						<g
-   id="g1400">
+   id="g17884">
 							<circle
    class="st8"
    cx="316.15271"
    cy="72.001167"
    r="5.03545"
-   id="circle1398" />
+   id="circle17882" />
 						</g>
 						<g
-   id="g1404">
+   id="g17888">
 							<circle
    class="st8"
    cx="333.24255"
    cy="67.440521"
    r="5.03545"
-   id="circle1402" />
+   id="circle17886" />
 						</g>
 						<g
-   id="g1408">
+   id="g17892">
 							<circle
    class="st8"
    cx="350.27698"
    cy="65.0354"
    r="5.03545"
-   id="circle1406" />
+   id="circle17890" />
 						</g>
 						<g
-   id="g1412">
+   id="g17896">
 							<circle
    class="st8"
    cx="368.35422"
    cy="64.688187"
    r="5.03545"
-   id="circle1410" />
+   id="circle17894" />
 						</g>
 						<g
-   id="g1416">
+   id="g17900">
 							<circle
    class="st8"
    cx="386.3327"
    cy="66.609657"
    r="5.03545"
-   id="circle1414" />
+   id="circle17898" />
 						</g>
 						<g
-   id="g1420">
+   id="g17904">
 							<circle
    class="st8"
    cx="403.92847"
    cy="70.769043"
    r="5.03545"
-   id="circle1418" />
+   id="circle17902" />
 						</g>
 					</g>
 					<g
    class="st9"
-   id="g1452">
+   id="g17936">
 						<g
-   id="g1426">
+   id="g17910">
 							<circle
    class="st8"
    cx="439.91281"
    cy="329.64856"
    r="5.03545"
-   id="circle1424" />
+   id="circle17908" />
 						</g>
 						<g
-   id="g1430">
+   id="g17914">
 							<circle
    class="st8"
    cx="457.07443"
    cy="316.47577"
    r="5.03545"
-   id="circle1428" />
+   id="circle17912" />
 						</g>
 						<g
-   id="g1434">
+   id="g17918">
 							<circle
    class="st8"
    cx="422.36124"
    cy="339.27518"
    r="5.03545"
-   id="circle1432" />
+   id="circle17916" />
 						</g>
 						<g
-   id="g1438">
+   id="g17922">
 							<circle
    class="st8"
    cx="403.64249"
    cy="346.37323"
    r="5.03545"
-   id="circle1436" />
+   id="circle17920" />
 						</g>
 						<g
-   id="g1442">
+   id="g17926">
 							<circle
    class="st8"
    cx="364.17383"
    cy="352.48911"
    r="5.03545"
-   id="circle1440" />
+   id="circle17924" />
 						</g>
 						<g
-   id="g1446">
+   id="g17930">
 							<circle
    class="st8"
    cx="344.18536"
    cy="351.3894"
    r="5.03545"
-   id="circle1444" />
+   id="circle17928" />
 						</g>
 						<g
-   id="g1450">
+   id="g17934">
 							<circle
    class="st8"
    cx="324.5426"
    cy="347.52713"
    r="5.03545"
-   id="circle1448" />
+   id="circle17932" />
 						</g>
 					</g>
 					<g
    class="st9"
-   id="g1514">
+   id="g17998">
 						<g
-   id="g1456">
+   id="g17940">
 							<circle
    class="st8"
    cx="435.80432"
    cy="84.862389"
    r="5.03545"
-   id="circle1454" />
+   id="circle17938" />
 						</g>
 						<g
-   id="g1460">
+   id="g17944">
 							<circle
    class="st8"
    cx="450.45743"
    cy="94.872147"
    r="5.03545"
-   id="circle1458" />
+   id="circle17942" />
 						</g>
 						<g
-   id="g1464">
+   id="g17948">
 							<circle
    class="st8"
    cx="463.76797"
    cy="106.60811"
    r="5.03545"
-   id="circle1462" />
+   id="circle17946" />
 						</g>
 						<g
-   id="g1468">
+   id="g17952">
 							<circle
    class="st8"
    cx="475.53348"
    cy="119.89252"
    r="5.03545"
-   id="circle1466" />
+   id="circle17950" />
 						</g>
 						<g
-   id="g1472">
+   id="g17956">
 							<circle
    class="st8"
    cx="485.57568"
    cy="134.52356"
    r="5.03545"
-   id="circle1470" />
+   id="circle17954" />
 						</g>
 						<g
-   id="g1476">
+   id="g17960">
 							<circle
    class="st8"
    cx="493.74118"
    cy="150.27834"
    r="5.03545"
-   id="circle1474" />
+   id="circle17958" />
 						</g>
 						<g
-   id="g1480">
+   id="g17964">
 							<circle
    class="st8"
    cx="499.9071"
    cy="166.91841"
    r="5.03545"
-   id="circle1478" />
+   id="circle17962" />
 						</g>
 						<g
-   id="g1484">
+   id="g17968">
 							<circle
    class="st8"
    cx="503.97913"
    cy="184.19032"
    r="5.03545"
-   id="circle1482" />
+   id="circle17966" />
 						</g>
 						<g
-   id="g1488">
+   id="g17972">
 							<circle
    class="st8"
    cx="505.89493"
    cy="201.83229"
    r="5.03545"
-   id="circle1486" />
+   id="circle17970" />
 						</g>
 						<g
-   id="g1492">
+   id="g17976">
 							<circle
    class="st8"
    cx="505.62637"
    cy="219.57561"
    r="5.03545"
-   id="circle1490" />
+   id="circle17974" />
 						</g>
 						<g
-   id="g1496">
+   id="g17980">
 							<circle
    class="st8"
    cx="503.17703"
    cy="237.15137"
    r="5.03545"
-   id="circle1494" />
+   id="circle17978" />
 						</g>
 						<g
-   id="g1500">
+   id="g17984">
 							<circle
    class="st8"
    cx="498.58353"
    cy="254.29237"
    r="5.03545"
-   id="circle1498" />
+   id="circle17982" />
 						</g>
 						<g
-   id="g1504">
+   id="g17988">
 							<circle
    class="st8"
    cx="491.9173"
    cy="270.73782"
    r="5.03545"
-   id="circle1502" />
+   id="circle17986" />
 						</g>
 						<g
-   id="g1508">
+   id="g17992">
 							<circle
    class="st8"
    cx="483.27716"
    cy="286.23825"
    r="5.03545"
-   id="circle1506" />
+   id="circle17990" />
 						</g>
 						<g
-   id="g1512">
+   id="g17996">
 							<circle
    class="st8"
    cx="472.61023"
    cy="300.61749"
    r="5.03545"
-   id="circle1510" />
+   id="circle17994" />
 						</g>
 					</g>
 					<path
    class="st14"
    d="m 434.50571,74.35199 -1.96375,-3.15245 -3.60519,0.89416 2.39117,-2.84267 -1.96405,-3.15147 3.43976,1.3956 2.39282,-2.84106 -0.26331,3.70603 3.44009,1.39462 -3.60422,0.89448 z"
-   id="path1516" />
+   id="path18000" />
 					<path
    class="st8"
    d="m 267.0209,96.26864 1.32666,-4.27446 1.67291,4.15363 3.95761,-2.08705 -1.7547,4.11954 4.28027,1.32183 -4.155,1.67599 2.09015,3.95896 -4.12543,-1.75134 -1.32364,4.2743 -1.67282,-4.15212 -3.95767,2.08553 1.75159,-4.12089 -4.27423,-1.32214 4.15213,-1.67281 -2.08713,-3.95912 z"
-   id="path1518" />
+   id="path18002" />
 					<path
    class="st8"
    d="m 268.76337,83.65669 0.43942,-1.86711 0.83936,1.72578 1.62961,-1.01059 -0.62701,1.81367 1.86945,0.43716 -1.72626,0.84074 1.01193,1.63008 -1.81607,-0.62542 -0.43814,1.86695 -0.83929,-1.72514 -1.62967,1.00995 0.62564,-1.81416 -1.86685,-0.43747 1.72513,-0.8393 -1.01065,-1.63023 z"
-   id="path1520" />
+   id="path18004" />
 					<polygon
    class="st8"
    points="426.57983,68.58672 420.99612,72.95296 418.91037,66.17593 418.05246,73.21287 411.78476,69.89575 416.1528,75.48177 409.38162,77.56707 416.41821,78.42731 413.09796,84.69152 418.68344,80.32465 420.76617,87.0993 421.62646,80.06343 427.89603,83.38211 423.52625,77.79532 430.29996,75.7098 423.26361,74.8513 "
-   id="polygon1522" />
+   id="polygon18006" />
 				</g>
 				<g
-   id="g1680">
+   id="g18164">
 					<g
    class="st10"
-   id="g1546">
+   id="g18030">
 						<g
-   id="g1528">
+   id="g18012">
 							<circle
    class="st8"
    cx="168.13086"
    cy="167.09505"
    r="5.5949502"
-   id="circle1526" />
+   id="circle18010" />
 						</g>
 						<g
-   id="g1532">
+   id="g18016">
 							<circle
    class="st8"
    cx="186.18819"
    cy="114.90505"
    r="5.5949502"
-   id="circle1530" />
+   id="circle18014" />
 						</g>
 						<g
-   id="g1536">
+   id="g18020">
 							<circle
    class="st8"
    cx="206.08006"
    cy="82.461563"
    r="5.5949502"
-   id="circle1534" />
+   id="circle18018" />
 						</g>
 						<g
-   id="g1540">
+   id="g18024">
 							<circle
    class="st8"
    cx="219.06992"
    cy="68.46907"
    r="5.5949502"
-   id="circle1538" />
+   id="circle18022" />
 						</g>
 						<g
-   id="g1544">
+   id="g18028">
 							<circle
    class="st8"
    cx="233.42177"
    cy="55.493439"
    r="5.5949502"
-   id="circle1542" />
+   id="circle18026" />
 						</g>
 					</g>
 					<g
    class="st10"
-   id="g1604">
+   id="g18088">
 						<g
-   id="g1550">
+   id="g18034">
 							<circle
    class="st8"
    cx="250.51318"
    cy="42.990608"
    r="5.5949502"
-   id="circle1548" />
+   id="circle18032" />
 						</g>
 						<g
-   id="g1554">
+   id="g18038">
 							<circle
    class="st8"
    cx="266.70441"
    cy="34.178268"
    r="5.5949502"
-   id="circle1552" />
+   id="circle18036" />
 						</g>
 						<g
-   id="g1558">
+   id="g18042">
 							<circle
    class="st8"
    cx="302.64581"
    cy="18.353041"
    r="5.5949502"
-   id="circle1556" />
+   id="circle18040" />
 						</g>
 						<g
-   id="g1562">
+   id="g18046">
 							<circle
    class="st8"
    cx="321.57507"
    cy="13.05208"
    r="5.5949502"
-   id="circle1560" />
+   id="circle18044" />
 						</g>
 						<g
-   id="g1566">
+   id="g18050">
 							<circle
    class="st8"
    cx="340.91998"
    cy="9.5605202"
    r="5.5949502"
-   id="circle1564" />
+   id="circle18048" />
 						</g>
 						<g
-   id="g1570">
+   id="g18054">
 							<circle
    class="st8"
    cx="360.50815"
    cy="7.9096599"
    r="5.5949502"
-   id="circle1568" />
+   id="circle18052" />
 						</g>
 						<g
-   id="g1574">
+   id="g18058">
 							<circle
    class="st8"
    cx="380.16449"
    cy="8.1139603"
    r="5.5949502"
-   id="circle1572" />
+   id="circle18056" />
 						</g>
 						<g
-   id="g1578">
+   id="g18062">
 							<circle
    class="st8"
    cx="399.71396"
    cy="10.17183"
    r="5.5949502"
-   id="circle1576" />
+   id="circle18060" />
 						</g>
 						<g
-   id="g1582">
+   id="g18066">
 							<circle
    class="st8"
    cx="418.98242"
    cy="14.06516"
    r="5.5949502"
-   id="circle1580" />
+   id="circle18064" />
 						</g>
 						<g
-   id="g1586">
+   id="g18070">
 							<circle
    class="st8"
    cx="437.79724"
    cy="19.75864"
    r="5.5949502"
-   id="circle1584" />
+   id="circle18068" />
 						</g>
 						<g
-   id="g1590">
+   id="g18074">
 							<circle
    class="st8"
    cx="455.99112"
    cy="27.20182"
    r="5.5949502"
-   id="circle1588" />
+   id="circle18072" />
 						</g>
 						<g
-   id="g1594">
+   id="g18078">
 							<circle
    class="st8"
    cx="473.40158"
    cy="36.3283"
    r="5.5949502"
-   id="circle1592" />
+   id="circle18076" />
 						</g>
 						<g
-   id="g1598">
+   id="g18082">
 							<circle
    class="st8"
    cx="489.87344"
    cy="47.056751"
    r="5.5949502"
-   id="circle1596" />
+   id="circle18080" />
 						</g>
 						<g
-   id="g1602">
+   id="g18086">
 							<circle
    class="st8"
    cx="504.81689"
    cy="59.970119"
    r="5.5949502"
-   id="circle1600" />
+   id="circle18084" />
 						</g>
 					</g>
 					<g
    class="st10"
-   id="g1666">
+   id="g18150">
 						<g
-   id="g1608">
+   id="g18092">
 							<circle
    class="st8"
    cx="492.26846"
    cy="361.48459"
    r="5.5949502"
-   id="circle1606" />
+   id="circle18090" />
 						</g>
 						<g
-   id="g1612">
+   id="g18096">
 							<circle
    class="st8"
    cx="477.35477"
    cy="373.12689"
    r="5.5949502"
-   id="circle1610" />
+   id="circle18094" />
 						</g>
 						<g
-   id="g1616">
+   id="g18100">
 							<circle
    class="st8"
    cx="461.30533"
    cy="383.42584"
    r="5.5949502"
-   id="circle1614" />
+   id="circle18098" />
 						</g>
 						<g
-   id="g1620">
+   id="g18104">
 							<circle
    class="st8"
    cx="444.51752"
    cy="391.85187"
    r="5.5949502"
-   id="circle1618" />
+   id="circle18102" />
 						</g>
 						<g
-   id="g1624">
+   id="g18108">
 							<circle
    class="st8"
    cx="381.82413"
    cy="407.28174"
    r="5.5949502"
-   id="circle1622" />
+   id="circle18106" />
 						</g>
 						<g
-   id="g1628">
+   id="g18112">
 							<circle
    class="st8"
    cx="363.12402"
    cy="407.28174"
    r="5.5949502"
-   id="circle1626" />
+   id="circle18110" />
 						</g>
 						<g
-   id="g1632">
+   id="g18116">
 							<circle
    class="st8"
    cx="344.39029"
    cy="406.43442"
    r="5.5949502"
-   id="circle1630" />
+   id="circle18114" />
 						</g>
 						<g
-   id="g1636">
+   id="g18120">
 							<circle
    class="st8"
    cx="325.51239"
    cy="403.99942"
    r="5.5949502"
-   id="circle1634" />
+   id="circle18118" />
 						</g>
 						<g
-   id="g1640">
+   id="g18124">
 							<circle
    class="st8"
    cx="307.13217"
    cy="399.67493"
    r="5.5949502"
-   id="circle1638" />
+   id="circle18122" />
 						</g>
 						<g
-   id="g1644">
+   id="g18128">
 							<circle
    class="st8"
    cx="269.40424"
    cy="383.20105"
    r="5.5949502"
-   id="circle1642" />
+   id="circle18126" />
 						</g>
 						<g
-   id="g1648">
+   id="g18132">
 							<circle
    class="st8"
    cx="253.31335"
    cy="374.6095"
    r="5.5949502"
-   id="circle1646" />
+   id="circle18130" />
 						</g>
 						<g
-   id="g1652">
+   id="g18136">
 							<circle
    class="st8"
    cx="237.56096"
    cy="364.62357"
    r="5.5949502"
-   id="circle1650" />
+   id="circle18134" />
 						</g>
 						<g
-   id="g1656">
+   id="g18140">
 							<circle
    class="st8"
    cx="222.14365"
    cy="352.89273"
    r="5.5949502"
-   id="circle1654" />
+   id="circle18138" />
 						</g>
 						<g
-   id="g1660">
+   id="g18144">
 							<circle
    class="st8"
    cx="196.09291"
    cy="319.6546"
    r="5.5949502"
-   id="circle1658" />
+   id="circle18142" />
 						</g>
 						<g
-   id="g1664">
+   id="g18148">
 							<circle
    class="st8"
    cx="190.72145"
    cy="305.77048"
    r="5.5949502"
-   id="circle1662" />
+   id="circle18146" />
 						</g>
 					</g>
 					<polygon
    class="st8"
    points="181.57286,137.05061 175.20665,142.0287 172.82866,134.30197 171.85049,142.32503 164.70447,138.54306 169.68463,144.91188 161.96457,147.2894 169.98723,148.27019 166.20171,155.41223 172.56992,150.43341 174.94447,158.15742 175.92534,150.13559 183.07349,153.91933 178.09134,147.54964 185.8143,145.17188 177.79192,144.19307 "
-   id="polygon1668" />
+   id="polygon18152" />
 					<path
    class="st8"
    d="m 180.93761,133.26955 -1.9579,-2.80449 -3.2724,0.99608 2.06204,-2.72951 -1.95815,-2.80357 3.23064,1.11767 2.06361,-2.7281 -0.0635,3.42091 3.23088,1.11675 -3.27148,0.99632 z"
-   id="path1670" />
+   id="path18154" />
 					<polygon
    class="st8"
    points="290.69989,18.34538 285.7229,22.23717 283.8638,16.19653 283.09909,22.46884 277.51245,19.51215 281.40585,24.4912 275.37042,26.3499 281.64243,27.11667 278.68295,32.7002 283.66153,28.80784 285.51791,34.84636 286.28476,28.57501 291.87305,31.53308 287.97809,26.55335 294.01578,24.69445 287.74402,23.92924 "
-   id="polygon1672" />
+   id="polygon18156" />
 					<path
    class="st14"
    d="m 425.49289,396.0961 1.07303,-3.68311 1.49582,3.53467 3.3605,-1.84781 -1.44217,3.55673 3.68802,1.06879 -3.5358,1.4985 1.85049,3.3616 -3.56174,-1.43921 -1.07043,3.68295 -1.49573,-3.53342 -3.3606,1.84656 1.43948,-3.55786 -3.68283,-1.06915 3.53339,-1.49573 -1.84793,-3.36182 z"
-   id="path1674" />
+   id="path18158" />
 					<polygon
    class="st14"
    points="406.85049,389.10043 403.24725,397.59906 396.59271,391.19678 400.05847,399.75366 390.8251,399.93268 399.32724,403.53735 392.93137,410.18771 401.48929,406.72482 401.66254,415.95618 405.26736,407.45569 411.91696,413.85718 408.45459,405.30002 417.69107,405.12161 409.18643,401.51715 415.58508,394.86493 407.02853,398.32965 "
-   id="polygon1676" />
+   id="polygon18160" />
 					<polygon
    class="st8"
    points="217.87335,331.21234 210.42676,334.07437 210.41196,326.09384 207.17294,333.38544 201.51851,327.75272 204.38171,335.20239 196.40762,335.21866 203.6981,338.46002 198.06317,344.10968 205.51187,341.24756 205.52422,349.22452 208.76543,341.93484 214.42136,347.56985 211.55652,340.1188 219.53342,340.10315 212.24261,336.86371 "
-   id="polygon1678" />
+   id="polygon18162" />
 				</g>
 				<g
-   id="g1964">
+   id="g18448">
 					<g
    class="st13"
-   id="g1710">
+   id="g18194">
 						<g
-   id="g1684">
+   id="g18168">
 							<circle
    class="st8"
    cx="91.475281"
    cy="174.37196"
    r="6.1544399"
-   id="circle1682" />
+   id="circle18166" />
 						</g>
 						<g
-   id="g1688">
+   id="g18172">
 							<circle
    class="st8"
    cx="89.71347"
    cy="194.71614"
    r="6.1544399"
-   id="circle1686" />
+   id="circle18170" />
 						</g>
 						<g
-   id="g1692">
+   id="g18176">
 							<circle
    class="st8"
    cx="94.693138"
    cy="154.18274"
    r="6.1544399"
-   id="circle1690" />
+   id="circle18174" />
 						</g>
 						<g
-   id="g1696">
+   id="g18180">
 							<circle
    class="st8"
    cx="104.16137"
    cy="119.19009"
    r="6.1544399"
-   id="circle1694" />
+   id="circle18178" />
 						</g>
 						<g
-   id="g1700">
+   id="g18184">
 							<circle
    class="st8"
    cx="111.87744"
    cy="99.973488"
    r="6.1544399"
-   id="circle1698" />
+   id="circle18182" />
 						</g>
 						<g
-   id="g1704">
+   id="g18188">
 							<circle
    class="st8"
    cx="121.21317"
    cy="80.354088"
    r="6.1544399"
-   id="circle1702" />
+   id="circle18186" />
 						</g>
 						<g
-   id="g1708">
+   id="g18192">
 							<circle
    class="st8"
    cx="132.83495"
    cy="62.285831"
    r="6.1544399"
-   id="circle1706" />
+   id="circle18190" />
 						</g>
 					</g>
 					<g
    class="st13"
-   id="g1956">
+   id="g18440">
 						<g
-   id="g1714">
+   id="g18198">
 							<circle
    class="st8"
    cx="194.76894"
    cy="-5.82303"
    r="6.1544399"
-   id="circle1712" />
+   id="circle18196" />
 						</g>
 						<g
-   id="g1718">
+   id="g18202">
 							<circle
    class="st8"
    cx="211.65352"
    cy="-17.99193"
    r="6.1544399"
-   id="circle1716" />
+   id="circle18200" />
 						</g>
 						<g
-   id="g1722">
+   id="g18206">
 							<circle
    class="st8"
    cx="229.41989"
    cy="-28.83322"
    r="6.1544399"
-   id="circle1720" />
+   id="circle18204" />
 						</g>
 						<g
-   id="g1726">
+   id="g18210">
 							<circle
    class="st8"
    cx="247.9628"
    cy="-38.284161"
    r="6.1544399"
-   id="circle1724" />
+   id="circle18208" />
 						</g>
 						<g
-   id="g1730">
+   id="g18214">
 							<circle
    class="st8"
    cx="267.17453"
    cy="-46.288898"
    r="6.1544399"
-   id="circle1728" />
+   id="circle18212" />
 						</g>
 						<g
-   id="g1734">
+   id="g18218">
 							<circle
    class="st8"
    cx="286.94205"
    cy="-52.800831"
    r="6.1544399"
-   id="circle1732" />
+   id="circle18216" />
 						</g>
 						<g
-   id="g1738">
+   id="g18222">
 							<circle
    class="st8"
    cx="307.14984"
    cy="-57.78196"
    r="6.1544399"
-   id="circle1736" />
+   id="circle18220" />
 						</g>
 						<g
-   id="g1742">
+   id="g18226">
 							<circle
    class="st8"
    cx="327.67975"
    cy="-61.20248"
    r="6.1544399"
-   id="circle1740" />
+   id="circle18224" />
 						</g>
 						<g
-   id="g1746">
+   id="g18230">
 							<circle
    class="st8"
    cx="348.41052"
    cy="-63.043301"
    r="6.1544399"
-   id="circle1744" />
+   id="circle18228" />
 						</g>
 						<g
-   id="g1750">
+   id="g18234">
 							<circle
    class="st8"
    cx="369.22165"
    cy="-63.292809"
    r="6.1544399"
-   id="circle1748" />
+   id="circle18232" />
 						</g>
 						<g
-   id="g1754">
+   id="g18238">
 							<circle
    class="st8"
    cx="389.99115"
    cy="-61.949711"
    r="6.1544399"
-   id="circle1752" />
+   id="circle18236" />
 						</g>
 						<g
-   id="g1758">
+   id="g18242">
 							<circle
    class="st8"
    cx="410.59677"
    cy="-59.022129"
    r="6.1544399"
-   id="circle1756" />
+   id="circle18240" />
 						</g>
 						<g
-   id="g1762">
+   id="g18246">
 							<circle
    class="st8"
    cx="430.91809"
    cy="-54.527328"
    r="6.1544399"
-   id="circle1760" />
+   id="circle18244" />
 						</g>
 						<g
-   id="g1766">
+   id="g18250">
 							<circle
    class="st8"
    cx="450.83658"
    cy="-48.49094"
    r="6.1544399"
-   id="circle1764" />
+   id="circle18248" />
 						</g>
 						<g
-   id="g1770">
+   id="g18254">
 							<circle
    class="st8"
    cx="470.23434"
    cy="-40.94912"
    r="6.1544399"
-   id="circle1768" />
+   id="circle18252" />
 						</g>
 						<g
-   id="g1774">
+   id="g18258">
 							<circle
    class="st8"
    cx="488.99887"
    cy="-31.945881"
    r="6.1544399"
-   id="circle1772" />
+   id="circle18256" />
 						</g>
 						<g
-   id="g1778">
+   id="g18262">
 							<circle
    class="st8"
    cx="507.01974"
    cy="-21.53344"
    r="6.1544399"
-   id="circle1776" />
+   id="circle18260" />
 						</g>
 						<g
-   id="g1782">
+   id="g18266">
 							<circle
    class="st8"
    cx="524.19153"
    cy="-9.7733603"
    r="6.1544399"
-   id="circle1780" />
+   id="circle18264" />
 						</g>
 						<g
-   id="g1786">
+   id="g18270">
 							<circle
    class="st8"
    cx="540.41309"
    cy="3.2658"
    r="6.1544399"
-   id="circle1784" />
+   id="circle18268" />
 						</g>
 						<g
-   id="g1790">
+   id="g18274">
 							<circle
    class="st8"
    cx="555.59045"
    cy="17.5072"
    r="6.1544399"
-   id="circle1788" />
+   id="circle18272" />
 						</g>
 						<g
-   id="g1794">
+   id="g18278">
 							<circle
    class="st8"
    cx="569.63367"
    cy="32.86784"
    r="6.1544399"
-   id="circle1792" />
+   id="circle18276" />
 						</g>
 						<g
-   id="g1798">
+   id="g18282">
 							<circle
    class="st8"
    cx="582.46143"
    cy="49.257679"
    r="6.1544399"
-   id="circle1796" />
+   id="circle18280" />
 						</g>
 						<g
-   id="g1802">
+   id="g18286">
 							<circle
    class="st8"
    cx="593.99738"
    cy="66.580544"
    r="6.1544399"
-   id="circle1800" />
+   id="circle18284" />
 						</g>
 						<g
-   id="g1806">
+   id="g18290">
 							<circle
    class="st8"
    cx="604.17487"
    cy="84.734993"
    r="6.1544399"
-   id="circle1804" />
+   id="circle18288" />
 						</g>
 						<g
-   id="g1810">
+   id="g18294">
 							<circle
    class="st8"
    cx="612.93396"
    cy="103.61466"
    r="6.1544399"
-   id="circle1808" />
+   id="circle18292" />
 						</g>
 						<g
-   id="g1814">
+   id="g18298">
 							<circle
    class="st8"
    cx="620.22369"
    cy="123.10883"
    r="6.1544399"
-   id="circle1812" />
+   id="circle18296" />
 						</g>
 						<g
-   id="g1818">
+   id="g18302">
 							<circle
    class="st8"
    cx="626.00037"
    cy="143.10387"
    r="6.1544399"
-   id="circle1816" />
+   id="circle18300" />
 						</g>
 						<g
-   id="g1822">
+   id="g18306">
 							<circle
    class="st8"
    cx="630.23096"
    cy="163.48169"
    r="6.1544399"
-   id="circle1820" />
+   id="circle18304" />
 						</g>
 						<g
-   id="g1826">
+   id="g18310">
 							<circle
    class="st8"
    cx="632.89117"
    cy="184.12372"
    r="6.1544399"
-   id="circle1824" />
+   id="circle18308" />
 						</g>
 						<g
-   id="g1830">
+   id="g18314">
 							<circle
    class="st8"
    cx="633.96466"
    cy="204.90881"
    r="6.1544399"
-   id="circle1828" />
+   id="circle18312" />
 						</g>
 						<g
-   id="g1834">
+   id="g18318">
 							<circle
    class="st8"
    cx="633.44415"
    cy="225.71506"
    r="6.1544399"
-   id="circle1832" />
+   id="circle18316" />
 						</g>
 						<g
-   id="g1838">
+   id="g18322">
 							<circle
    class="st8"
    cx="631.33453"
    cy="246.42043"
    r="6.1544399"
-   id="circle1836" />
+   id="circle18320" />
 						</g>
 						<g
-   id="g1842">
+   id="g18326">
 							<circle
    class="st8"
    cx="627.64893"
    cy="266.90375"
    r="6.1544399"
-   id="circle1840" />
+   id="circle18324" />
 						</g>
 						<g
-   id="g1846">
+   id="g18330">
 							<circle
    class="st8"
    cx="622.40509"
    cy="287.0452"
    r="6.1544399"
-   id="circle1844" />
+   id="circle18328" />
 						</g>
 						<g
-   id="g1850">
+   id="g18334">
 							<circle
    class="st8"
    cx="615.63702"
    cy="306.72668"
    r="6.1544399"
-   id="circle1848" />
+   id="circle18332" />
 						</g>
 						<g
-   id="g1854">
+   id="g18338">
 							<circle
    class="st8"
    cx="607.38379"
    cy="325.83292"
    r="6.1544399"
-   id="circle1852" />
+   id="circle18336" />
 						</g>
 						<g
-   id="g1858">
+   id="g18342">
 							<circle
    class="st8"
    cx="597.69373"
    cy="344.25211"
    r="6.1544399"
-   id="circle1856" />
+   id="circle18340" />
 						</g>
 						<g
-   id="g1862">
+   id="g18346">
 							<circle
    class="st8"
    cx="586.62286"
    cy="361.87564"
    r="6.1544399"
-   id="circle1860" />
+   id="circle18344" />
 						</g>
 						<g
-   id="g1866">
+   id="g18350">
 							<circle
    class="st8"
    cx="574.23541"
    cy="378.60077"
    r="6.1544399"
-   id="circle1864" />
+   id="circle18348" />
 						</g>
 						<g
-   id="g1870">
+   id="g18354">
 							<circle
    class="st8"
    cx="560.60675"
    cy="394.33017"
    r="6.1544399"
-   id="circle1868" />
+   id="circle18352" />
 						</g>
 						<g
-   id="g1874">
+   id="g18358">
 							<circle
    class="st8"
    cx="545.81317"
    cy="408.97021"
    r="6.1544399"
-   id="circle1872" />
+   id="circle18356" />
 						</g>
 						<g
-   id="g1878">
+   id="g18362">
 							<circle
    class="st8"
    cx="529.94464"
    cy="422.43649"
    r="6.1544399"
-   id="circle1876" />
+   id="circle18360" />
 						</g>
 						<g
-   id="g1882">
+   id="g18366">
 							<circle
    class="st8"
    cx="513.09229"
    cy="434.64957"
    r="6.1544399"
-   id="circle1880" />
+   id="circle18364" />
 						</g>
 						<g
-   id="g1886">
+   id="g18370">
 							<circle
    class="st8"
    cx="495.35416"
    cy="445.53802"
    r="6.1544399"
-   id="circle1884" />
+   id="circle18368" />
 						</g>
 						<g
-   id="g1890">
+   id="g18374">
 							<circle
    class="st8"
    cx="476.83728"
    cy="455.03775"
    r="6.1544399"
-   id="circle1888" />
+   id="circle18372" />
 						</g>
 						<g
-   id="g1894">
+   id="g18378">
 							<circle
    class="st8"
    cx="457.64627"
    cy="463.09326"
    r="6.1544399"
-   id="circle1892" />
+   id="circle18376" />
 						</g>
 						<g
-   id="g1898">
+   id="g18382">
 							<circle
    class="st8"
    cx="417.70013"
    cy="474.69122"
    r="6.1544399"
-   id="circle1896" />
+   id="circle18380" />
 						</g>
 						<g
-   id="g1902">
+   id="g18386">
 							<circle
    class="st8"
    cx="397.18008"
    cy="478.16608"
    r="6.1544399"
-   id="circle1900" />
+   id="circle18384" />
 						</g>
 						<g
-   id="g1906">
+   id="g18390">
 							<circle
    class="st8"
    cx="376.45352"
    cy="480.06131"
    r="6.1544399"
-   id="circle1904" />
+   id="circle18388" />
 						</g>
 						<g
-   id="g1910">
+   id="g18394">
 							<circle
    class="st8"
    cx="355.64413"
    cy="480.36597"
    r="6.1544399"
-   id="circle1908" />
+   id="circle18392" />
 						</g>
 						<g
-   id="g1914">
+   id="g18398">
 							<circle
    class="st8"
    cx="334.87106"
    cy="479.07806"
    r="6.1544399"
-   id="circle1912" />
+   id="circle18396" />
 						</g>
 						<g
-   id="g1918">
+   id="g18402">
 							<circle
    class="st8"
    cx="314.25787"
    cy="476.20526"
    r="6.1544399"
-   id="circle1916" />
+   id="circle18400" />
 						</g>
 						<g
-   id="g1922">
+   id="g18406">
 							<circle
    class="st8"
    cx="293.92426"
    cy="471.76413"
    r="6.1544399"
-   id="circle1920" />
+   id="circle18404" />
 						</g>
 						<g
-   id="g1926">
+   id="g18410">
 							<circle
    class="st8"
    cx="273.9902"
    cy="465.77954"
    r="6.1544399"
-   id="circle1924" />
+   id="circle18408" />
 						</g>
 						<g
-   id="g1930">
+   id="g18414">
 							<circle
    class="st8"
    cx="254.57283"
    cy="458.28973"
    r="6.1544399"
-   id="circle1928" />
+   id="circle18412" />
 						</g>
 						<g
-   id="g1934">
+   id="g18418">
 							<circle
    class="st8"
    cx="217.73621"
    cy="438.97073"
    r="6.1544399"
-   id="circle1932" />
+   id="circle18416" />
 						</g>
 						<g
-   id="g1938">
+   id="g18422">
 							<circle
    class="st8"
    cx="200.53377"
    cy="427.25714"
    r="6.1544399"
-   id="circle1936" />
+   id="circle18420" />
 						</g>
 						<g
-   id="g1942">
+   id="g18426">
 							<circle
    class="st8"
    cx="184.27718"
    cy="414.25961"
    r="6.1544399"
-   id="circle1940" />
+   id="circle18424" />
 						</g>
 						<g
-   id="g1946">
+   id="g18430">
 							<circle
    class="st8"
    cx="169.06227"
    cy="400.05872"
    r="6.1544399"
-   id="circle1944" />
+   id="circle18428" />
 						</g>
 						<g
-   id="g1950">
+   id="g18434">
 							<circle
    class="st8"
    cx="154.97908"
    cy="384.73489"
    r="6.1544399"
-   id="circle1948" />
+   id="circle18432" />
 						</g>
 						<g
-   id="g1954">
+   id="g18438">
 							<circle
    class="st8"
    cx="142.10808"
    cy="368.3786"
    r="6.1544399"
-   id="circle1952" />
+   id="circle18436" />
 						</g>
 					</g>
 					<polygon
    class="st8"
    points="177.01611,-4.84676 166.68762,5.13569 161.04851,-8.08085 160.81007,6.28306 147.47556,0.92544 157.46213,11.25817 144.25729,16.89517 158.62097,17.13835 153.25635,30.46647 163.58824,20.48237 169.22076,33.69476 169.46422,19.33251 182.80281,24.69287 172.81255,14.35897 186.02248,8.72098 171.65964,8.48126 "
-   id="polygon1958" />
+   id="polygon18442" />
 					<path
    class="st8"
    d="m 145.68279,53.93204 -3.51332,-6.62991 -7.39159,1.29396 5.21957,-5.3919 -3.51408,-6.62798 6.73553,3.29731 5.22266,-5.38841 -1.05292,7.43168 6.73631,3.29538 -7.38966,1.29474 z"
-   id="path1960" />
+   id="path18444" />
 					<path
    class="st15"
    d="m 446.94354,474.4758 -7.16074,-2.06412 -4.17526,6.17371 -0.25107,-7.44925 -7.15991,-2.06223 7.0029,-2.53729 -0.24646,-7.44904 4.58313,5.87967 7.00204,-2.53918 -4.17337,6.17288 z"
-   id="path1962" />
+   id="path18446" />
 				</g>
 			</g>
 		</g>
 	</g>
 </g>
 <g
-   id="Rhythm_World_Wii__x28_리듬_세상__xFF37__xFF49__xFF49__x29__00000049932769387883096510000003038576580819649458_"
-   transform="scale(1.333334)">
+   id="Rhythm_World_Wii__x28_리듬_세상__xFF37__xFF49__xFF49__x29_"
+   transform="scale(1.3333334)">
 	<g
-   id="Cloud_00000134229977491107774150000000929548378219717799_">
+   id="Cloud">
 		<linearGradient
    id="Spectrum_1_"
    gradientUnits="userSpaceOnUse"
-   x1="406.53497"
-   y1="312.20673"
-   x2="55.99192"
-   y2="184.61948">
+   x1="406.81616"
+   y1="312.25256"
+   x2="56.014759"
+   y2="184.5713">
 			<stop
    offset="0"
    style="stop-color:#FF0000"
-   id="stop1971" />
+   id="stop18455" />
 			<stop
    offset="0.02547"
    style="stop-color:#FF0900"
-   id="stop1973" />
+   id="stop18457" />
 			<stop
    offset="0.06704"
    style="stop-color:#FF2100"
-   id="stop1975" />
+   id="stop18459" />
 			<stop
    offset="0.11955"
    style="stop-color:#FF4900"
-   id="stop1977" />
+   id="stop18461" />
 			<stop
    offset="0.18093"
    style="stop-color:#FF8000"
-   id="stop1979" />
+   id="stop18463" />
 			<stop
    offset="0.24895"
    style="stop-color:#FFC600"
-   id="stop1981" />
+   id="stop18465" />
 			<stop
    offset="0.3"
    style="stop-color:#FFFF00"
-   id="stop1983" />
+   id="stop18467" />
 			<stop
    offset="0.30991"
    style="stop-color:#F1FD00"
-   id="stop1985" />
+   id="stop18469" />
 			<stop
    offset="0.36189"
    style="stop-color:#ABF502"
-   id="stop1987" />
+   id="stop18471" />
 			<stop
    offset="0.40873"
    style="stop-color:#74EF04"
-   id="stop1989" />
+   id="stop18473" />
 			<stop
    offset="0.44882"
    style="stop-color:#4CEA05"
-   id="stop1991" />
+   id="stop18475" />
 			<stop
    offset="0.48056"
    style="stop-color:#34E706"
-   id="stop1993" />
+   id="stop18477" />
 			<stop
    offset="0.5"
    style="stop-color:#2BE606"
-   id="stop1995" />
+   id="stop18479" />
 			<stop
    offset="0.65"
    style="stop-color:#03B3F4"
-   id="stop1997" />
+   id="stop18481" />
 			<stop
    offset="0.68043"
    style="stop-color:#03B0F4"
-   id="stop1999" />
+   id="stop18483" />
 			<stop
    offset="0.70487"
    style="stop-color:#03A6F5"
-   id="stop2001" />
+   id="stop18485" />
 			<stop
    offset="0.72724"
    style="stop-color:#0395F6"
-   id="stop2003" />
+   id="stop18487" />
 			<stop
    offset="0.74837"
    style="stop-color:#027DF8"
-   id="stop2005" />
+   id="stop18489" />
 			<stop
    offset="0.76864"
    style="stop-color:#025EFA"
-   id="stop2007" />
+   id="stop18491" />
 			<stop
    offset="0.78797"
    style="stop-color:#0139FC"
-   id="stop2009" />
+   id="stop18493" />
 			<stop
    offset="0.8"
    style="stop-color:#011EFE"
-   id="stop2011" />
+   id="stop18495" />
 			<stop
    offset="0.81587"
    style="stop-color:#1B1AFE"
-   id="stop2013" />
+   id="stop18497" />
 			<stop
    offset="0.84709"
    style="stop-color:#4812FD"
-   id="stop2015" />
+   id="stop18499" />
 			<stop
    offset="0.87851"
    style="stop-color:#6E0CFD"
-   id="stop2017" />
+   id="stop18501" />
 			<stop
    offset="0.90965"
    style="stop-color:#8B07FC"
-   id="stop2019" />
+   id="stop18503" />
 			<stop
    offset="0.94046"
    style="stop-color:#9F04FC"
-   id="stop2021" />
+   id="stop18505" />
 			<stop
    offset="0.97077"
    style="stop-color:#AC02FC"
-   id="stop2023" />
+   id="stop18507" />
 			<stop
    offset="1"
    style="stop-color:#B001FC"
-   id="stop2025" />
+   id="stop18509" />
 		</linearGradient>
 		<path
-   id="Spectrum_00000008827962176095898670000015502001648566141330_"
+   id="Spectrum"
    class="st16"
-   d="m 361.49438,129.85475 c -29.14828,0 -55.6994,16.34314 -69.09128,41.18971 -3.74835,-0.49336 -7.53226,-0.74152 -11.33395,-0.74152 -12.67331,0 -25.01624,2.72903 -36.33093,7.97229 -14.00078,-11.91844 -31.82401,-18.55437 -50.62209,-18.55437 -28.90384,0 -55.21939,16.1535 -68.63051,40.76451 -4.71286,-0.7845 -9.49831,-1.17934 -14.33118,-1.17934 C 63.64883,199.30605 25,237.62523 25,284.72565 c 0,47.10042 38.64883,85.41959 86.15445,85.41959 36.59909,0 68.35641,-22.53754 80.69637,-55.42755 8.03601,0.23114 15.91942,-0.74002 23.4828,-2.87125 16.25572,18.95883 40.36522,30.29874 65.73553,30.29874 37.3443,0 69.44388,-23.29391 81.37048,-57.19952 42.71054,-0.50446 77.3006,-35.09529 77.3006,-77.54285 0,-42.76019 -35.10119,-77.54806 -78.24585,-77.54806 z"
+   d="m 361.74237,129.76622 c -29.16977,0 -55.74045,16.35518 -69.14218,41.22006 -3.75113,-0.49373 -7.53784,-0.74207 -11.34232,-0.74207 -12.68265,0 -25.03467,2.73105 -36.35771,7.97816 -14.01109,-11.92723 -31.84746,-18.56804 -50.65939,-18.56804 -28.92514,0 -55.26009,16.16541 -68.68109,40.79454 -4.71633,-0.78506 -9.50531,-1.18019 -14.34174,-1.18019 C 63.67731,199.26869 25,237.61612 25,284.75125 c 0,47.13513 38.67731,85.48254 86.21794,85.48254 36.62607,0 68.4068,-22.55417 80.75584,-55.46841 8.04193,0.23129 15.93114,-0.74057 23.50011,-2.87338 16.2677,18.97281 40.39496,30.32108 65.78398,30.32108 37.37183,0 69.49506,-23.31107 81.43042,-57.24167 42.74203,-0.50482 77.3576,-35.12115 77.3576,-77.59999 1e-5,-42.79169 -35.1271,-77.6052 -78.30352,-77.6052 z"
    style="fill:url(#Spectrum_1_)" />
 		<path
-   id="White_00000090293320435955104080000007380255275296203662_"
+   id="White"
    class="st8"
-   d="m 361.49438,138.95749 c -27.99713,0 -53.27853,17.03799 -63.86728,42.23199 -5.42697,-1.18526 -10.97098,-1.7838 -16.55795,-1.7838 -13.37262,0 -26.33185,3.39351 -37.85397,9.86722 -12.91183,-13.07111 -30.46097,-20.4493 -49.09904,-20.4493 -27.83415,0 -52.95111,16.94614 -63.53986,42.03494 -6.31591,-1.6275 -12.82146,-2.44977 -19.42183,-2.44977 -42.48682,0 -77.05172,34.23524 -77.05172,76.31686 0,42.08162 34.5649,76.31686 77.05172,76.31686 35.06863,0 65.16513,-23.11166 74.26193,-55.94461 2.88905,0.36594 5.79736,0.55038 8.69975,0.55038 8.44936,0 16.63203,-1.48672 24.40581,-4.42838 14.42006,19.77887 37.81396,31.82324 62.54721,31.82324 35.67163,0 65.99332,-23.74649 74.70343,-57.4321 1.90973,0.15854 3.82095,0.23779 5.7218,0.23779 38.12509,0 69.14313,-30.70467 69.14313,-68.44604 0,-37.7406 -31.01803,-68.44528 -69.14313,-68.44528 z" />
+   d="m 361.74237,138.87566 c -28.01776,0 -53.31781,17.05055 -63.91434,42.26312 -5.43097,-1.18613 -10.97906,-1.78513 -16.57016,-1.78513 -13.38248,0 -26.35126,3.39603 -37.88188,9.8745 -12.92134,-13.08073 -30.48341,-20.46437 -49.13522,-20.46437 -27.85466,0 -52.99014,16.95862 -63.58669,42.06592 -6.32056,-1.62869 -12.8309,-2.45157 -19.43614,-2.45157 -42.51813,0 -77.10851,34.26048 -77.10851,76.37312 0,42.11264 34.59037,76.37311 77.10851,76.37311 35.09448,0 65.21315,-23.12872 74.31667,-55.98587 2.89117,0.36624 5.80164,0.55081 8.70616,0.55081 8.45558,0 16.6443,-1.48782 24.4238,-4.43164 14.43069,19.79346 37.84184,31.84671 62.59331,31.84671 35.69791,0 66.04193,-23.76401 74.75848,-57.47443 1.91113,0.15863 3.82376,0.23795 5.72601,0.23795 38.1532,0 69.19409,-30.72729 69.19409,-68.49648 0,-37.76844 -31.04089,-68.49575 -69.19409,-68.49575 z" />
 		<path
-   id="Black_00000096035619937839239450000017109618775157750200_"
-   d="m 361.49393,146.54282 c -27.99713,0 -51.61288,18.48474 -59.08295,43.77838 -6.72693,-2.15428 -13.89511,-3.33009 -21.34219,-3.33009 -14.56519,0 -28.08,4.45784 -39.25572,12.06679 -11.23444,-13.80911 -28.42188,-22.64886 -47.69702,-22.64886 -27.9061,0 -51.43945,18.51929 -58.84645,43.84579 -7.51273,-2.75211 -15.63531,-4.26053 -24.11523,-4.26053 -38.36492,0 -69.46593,30.77209 -69.46593,68.73145 0,37.95926 31.101,68.73135 69.46593,68.73135 34.36397,0 62.8813,-24.69464 68.45958,-57.12265 4.651,1.12051 9.50386,1.72852 14.50211,1.72852 9.77536,0 19.00949,-2.28299 27.20911,-6.3233 12.15762,20.19446 34.35971,33.7179 59.74364,33.7179 34.6987,0 63.45816,-25.26288 68.72635,-58.30576 3.789,0.72098 7.69699,1.11154 11.69879,1.11154 33.99792,0 61.55862,-27.248 61.55862,-60.86026 -2e-5,-33.61217 -27.56072,-60.86027 -61.55864,-60.86027 z" />
+   id="Black"
+   d="m 361.74191,146.46658 c -28.01776,0 -51.65094,18.49835 -59.1265,43.81064 -6.7319,-2.15588 -13.90536,-3.33255 -21.35794,-3.33255 -14.5759,0 -28.10068,4.46112 -39.28464,12.07567 -11.24271,-13.81927 -28.44281,-22.66554 -47.73216,-22.66554 -27.92667,0 -51.47737,18.53293 -58.88982,43.8781 -7.51827,-2.75412 -15.64684,-4.26366 -24.13301,-4.26366 -38.3932,0 -69.51712,30.79477 -69.51712,68.7821 0,37.98721 31.12392,68.78198 69.51712,68.78198 34.38928,0 62.92764,-24.71283 68.51003,-57.16473 4.65443,1.12134 9.51086,1.7298 14.5128,1.7298 9.78256,0 19.0235,-2.28467 27.22916,-6.32797 12.1666,20.20935 34.38503,33.74274 59.78764,33.74274 34.72427,0 63.50497,-25.28149 68.77701,-58.34872 3.79181,0.7215 7.70267,1.11237 11.70743,1.11237 34.02298,0 61.604,-27.26808 61.604,-60.90511 10e-6,-33.63694 -27.58102,-60.90512 -61.604,-60.90512 z" />
 		<rect
-   x="356.4079"
-   y="257.97415"
-   width="39.32526"
-   height="12.9022"
-   id="rect2031" />
+   x="356.65213"
+   y="257.98004"
+   width="39.35424"
+   height="12.91171"
+   id="rect18515" />
 	</g>
 	<g
-   id="Wii_00000091701508780885106570000008838484596077153680_">
+   id="Wii_1_">
 		<path
-   d="m 475,254.36543 c 0,-4.47729 -1.87714,-8.64938 -5.1514,-11.44583 -3.3024,-2.82089 -7.77823,-4.02763 -12.26141,-3.31944 -5.95444,0.94376 -10.99915,5.05435 -13.44965,10.37317 -0.59265,-0.76004 -1.26083,-1.46304 -2.00162,-2.09492 -3.3024,-2.82164 -7.77969,-4.03134 -12.26141,-3.32019 -4.36172,0.69115 -8.23453,3.08165 -10.95764,6.40111 -1.85788,-1.32156 -4.05209,-2.19568 -6.45963,-2.54608 -9.52054,-1.38896 -17.00095,3.61354 -19.51962,13.05331 l -0.60596,2.27347 c -2.65793,-6.39664 -8.87308,-10.23909 -15.95941,-9.83388 -7.15594,0.4178 -12.93405,5.08473 -14.71786,11.88808 l -0.95114,3.62094 c -1.63861,-4.01727 -4.70251,-7.1456 -8.68198,-8.84494 -4.09061,-1.7475 -8.73383,-1.74973 -12.73849,-0.007 -8.32639,3.6239 -12.21252,12.57181 -9.03903,20.81448 l 17.41876,45.21661 c 3.08167,8.00192 9.5961,10.73764 15.13565,10.73688 0.88449,0 1.7453,-0.0696 2.56311,-0.19925 10.2554,-1.62454 13.33704,-9.21091 14.76379,-14.7764 l 0.1452,-0.5704 0.003,0.005 c 3.28906,8.44641 10.72949,11.2821 16.62906,10.34576 7.60339,-1.20377 12.51627,-5.87439 14.60233,-13.88373 l 4.76471,-18.31213 v 12.93774 c 0,4.10321 1.72748,7.93155 4.73804,10.50357 3.03571,2.59125 7.13223,3.70389 11.24063,3.05423 6.42108,-1.01709 11.67029,-6.10699 13.17258,-12.26883 0.79855,1.62082 1.91269,3.07202 3.29944,4.25653 3.03574,2.59052 7.13226,3.70465 11.24063,3.05426 7.62857,-1.20898 13.60522,-8.16714 13.60522,-15.84091 V 273.3741 c 0,-2.95276 -0.89487,-5.76401 -2.51868,-8.06638 C 473.51251,262.2355 475,258.38934 475,254.36543 Z"
-   id="path2034" />
+   d="m 475,253.0247 c 0,-4.53989 -1.90176,-8.73932 -5.21786,-11.5217 -3.34839,-2.81009 -7.87872,-3.96121 -12.42999,-3.1588 -6.02148,1.06181 -11.01028,5.10066 -13.49231,10.37308 -0.5965,-0.75545 -1.26547,-1.45499 -2.01007,-2.07974 -3.34875,-2.81007 -7.87909,-3.96176 -12.42999,-3.1588 -4.63403,0.81717 -8.65674,3.39769 -11.39642,6.94615 -2.27444,-1.6526 -5.01517,-2.71109 -7.9686,-3.0233 -8.16614,-0.86334 -15.19363,3.88467 -17.49588,11.81279 l -1.08359,4.01993 -0.12885,-0.33606 c -1.63089,-4.25467 -5.16684,-7.57901 -9.7016,-9.12051 -4.65259,-1.58151 -9.69571,-1.03549 -13.83661,1.49966 -3.49557,2.1409 -5.95639,5.55481 -7.11487,9.86859 l -1.11368,4.13815 -0.29514,-0.77084 c -1.53653,-4.00894 -4.6937,-7.07761 -8.88998,-8.64096 -4.4162,-1.64484 -9.51367,-1.4079 -13.30142,0.61978 -7.68274,4.11301 -10.66772,12.55554 -7.42761,21.00784 l 17.2294,44.95035 c 2.53937,6.62408 7.13617,10.33368 13.66299,11.0256 0.63171,0.0668 1.25021,0.0991 1.85663,0.0991 8.07767,-3.7e-4 13.83438,-5.7468 15.47556,-11.85736 l 1.18784,-4.42242 c 2.5379,5.97473 7.05795,9.70563 12.50452,10.28082 5.36322,0.56711 14.90662,-0.33881 18.52185,-12.78644 l 5.51123,-20.5105 -8.2e-4,13.57217 c 0,4.73517 1.76819,8.82651 4.97928,11.52078 2.41971,2.03064 5.4458,3.09073 8.71823,3.09073 0.90958,0 1.83826,-0.0819 2.77832,-0.24777 6.55188,-1.15567 11.41397,-5.92361 13.02118,-12.37289 0.83011,1.69974 1.97629,3.18857 3.41464,4.39542 2.41971,2.03061 5.4458,3.0907 8.7182,3.0907 0.90961,0 1.83829,-0.0818 2.77835,-0.24777 7.9371,-1.39999 13.39941,-8.09897 13.59213,-16.66962 l 0.002,-31.15375 c 0,-3.46863 -0.94885,-6.59161 -2.71851,-9.07336 C 473.45245,261.04349 475,257.11145 475,253.0247 Z"
+   id="path18518" />
 		<linearGradient
    id="SVGID_10_"
    gradientUnits="userSpaceOnUse"
-   x1="412.18039"
-   y1="322.27429"
-   x2="400.67099"
-   y2="257.00125">
+   x1="411.85959"
+   y1="321.67157"
+   x2="400.36856"
+   y2="256.50266">
 			<stop
    offset="0.2"
    style="stop-color:#F8EC19"
-   id="stop2036" />
+   id="stop18520" />
 			<stop
    offset="0.6"
    style="stop-color:#F15A2B"
-   id="stop2038" />
+   id="stop18522" />
 		</linearGradient>
 		<path
    class="st17"
-   d="m 417.0466,266.82596 -12.88364,49.51691 c -1.00662,3.8689 -2.78699,7.40497 -8.44739,8.30148 -2.93823,0.46536 -6.60468,-1.06216 -8.37451,-5.60565 l -8.56348,-21.98395 -6.00073,23.41812 c -1.36884,5.34192 -3.46207,8.35294 -8.60233,9.16708 -2.63739,0.41772 -7.23395,-0.0612 -9.43356,-5.77127 l -17.4183,-45.21741 c -1.66888,-4.33237 0.16837,-9.03571 4.98639,-11.13214 4.20074,-1.82785 9.65836,0.0999 11.48868,5.06528 l 8.1283,22.05063 7.06439,-26.91473 c 2.06635,-7.87247 13.43765,-8.47818 16.40591,-0.89456 l 8.30283,21.21268 6.56778,-24.6163 c 1.2356,-4.63104 4.4064,-8.47749 11.09692,-7.50288 5.49542,0.80051 6.90402,6.21283 5.68274,10.90671 z m 21.22098,43.7695 v -32.26254 c 0,-3.98022 -3.22684,-6.69525 -7.20633,-6.06494 -3.97949,0.63028 -7.20633,4.36746 -7.20633,8.34769 v 32.26254 c 0,3.98022 3.22684,6.69598 7.20633,6.0657 3.97949,-0.63028 7.20633,-4.36823 7.20633,-8.34845 z m 1.43497,-51.27161 c 0,4.77274 -3.86908,9.25461 -8.64182,10.01053 -4.77274,0.75592 -8.64178,-2.50034 -8.64178,-7.27307 0,-4.77273 3.86905,-9.25461 8.64178,-10.01054 4.77274,-0.75592 8.64182,2.50033 8.64182,7.27308 z m 26.27752,46.31339 V 273.3747 c 0,-3.98022 -3.22687,-6.69525 -7.20633,-6.06497 -3.97949,0.63031 -7.20633,4.36749 -7.20633,8.34772 v 32.26254 c 0,3.98022 3.22684,6.69598 7.20633,6.0657 3.97946,-0.63031 7.20633,-4.36823 7.20633,-8.34845 z m 1.43497,-51.27162 c 0,4.77272 -3.86908,9.25459 -8.64182,10.01054 -4.77274,0.75592 -8.64182,-2.50037 -8.64182,-7.2731 0,-4.77272 3.86908,-9.25459 8.64182,-10.01051 4.77274,-0.75594 8.64182,2.50033 8.64182,7.27307 z"
-   id="path2041"
+   d="m 439.08023,258.1593 c 0,4.6077 -3.76968,9.04303 -8.48248,9.87402 -4.50354,0.7941 -8.37833,-2.2933 -8.37833,-6.69174 0,-4.81699 3.77063,-9.14737 8.58759,-9.99672 4.60769,-0.81247 8.27322,2.20673 8.27322,6.81444 z m -1.38272,51.20679 c -0.10635,4.73157 -2.86142,8.25412 -6.99451,8.98288 -4.23944,0.74753 -7.10086,-1.8898 -7.10086,-6.4975 v -30.9744 c 0.10541,-4.73138 2.86142,-8.25412 6.99451,-8.98291 4.23944,-0.74753 7.10086,1.8898 7.10086,6.4975 z m 29.31509,-56.34136 c 0,4.60771 -3.76968,9.04301 -8.48248,9.87401 -4.50357,0.7941 -8.37836,-2.2933 -8.37836,-6.69174 0,-4.81696 3.77063,-9.14734 8.58762,-9.9967 4.6077,-0.81246 8.27322,2.20672 8.27322,6.81443 z m -1.38272,51.20678 c -0.10635,4.73157 -2.86142,8.25415 -6.99451,8.98291 -4.23944,0.74753 -7.10089,-1.8898 -7.10089,-6.4975 v -30.9744 c 0.10541,-4.73141 2.86145,-8.25412 6.99451,-8.98291 4.23947,-0.74753 7.10089,1.8898 7.10089,6.4975 z m -124.767,-36.69764 c -4.30933,2.30707 -5.50787,6.49292 -3.73895,11.10748 l 17.22906,44.94971 c 1.02667,2.67841 2.66754,5.47757 7.0473,5.94199 5.2612,0.55786 8.09723,-3.36038 8.77588,-5.88763 l 7.55716,-28.13141 8.48477,22.13425 c 1.39267,3.63251 3.66815,5.71686 6.20416,5.98492 6.63538,0.70142 8.81073,-2.93668 10.01178,-7.07166 l 13.5947,-50.60077 c 1.50784,-5.60898 -1.64157,-10.06929 -6.81351,-10.61598 -3.38446,-0.35774 -7.52194,1.05653 -8.98581,6.09718 l -7.42429,27.57901 -8.91718,-23.26419 c -1.61368,-4.21008 -7.43643,-6.4061 -11.90805,-3.66782 -1.74329,1.06754 -2.94571,2.79468 -3.57376,5.13297 l -7.5036,27.87985 -9.07611,-23.72949 c -1.79552,-4.68469 -7.97945,-5.436 -10.96355,-3.83841 z"
+   id="path18525"
    style="fill:url(#SVGID_10_)" />
 		<g
-   id="g2133">
-			<circle
-   class="st8"
-   cx="340.49631"
-   cy="275.3739"
-   r="1.70676"
-   id="circle2043" />
-			<circle
-   class="st8"
-   cx="373.62332"
-   cy="266.67581"
-   r="1.70676"
-   id="circle2045" />
-			<circle
-   class="st8"
-   cx="405.59863"
-   cy="260.58331"
-   r="1.70676"
-   id="circle2047" />
+   id="g18617">
 			<linearGradient
    id="SVGID_11_"
    gradientUnits="userSpaceOnUse"
-   x1="342.11636"
-   y1="277.41092"
-   x2="361.0647"
-   y2="326.77298">
+   x1="455.2832"
+   y1="275.63486"
+   x2="455.2832"
+   y2="311.28995">
 				<stop
    offset="0"
    style="stop-color:#FFFFFF"
-   id="stop2049" />
+   id="stop18527" />
 				<stop
    offset="0.21678"
    style="stop-color:#FFFFFC"
-   id="stop2051" />
+   id="stop18529" />
 				<stop
    offset="0.39094"
    style="stop-color:#FFFEF2"
-   id="stop2053" />
+   id="stop18531" />
 				<stop
    offset="0.55028"
    style="stop-color:#FEFCE1"
-   id="stop2055" />
+   id="stop18533" />
 				<stop
    offset="0.70081"
    style="stop-color:#FEFAC9"
-   id="stop2057" />
+   id="stop18535" />
 				<stop
    offset="0.84512"
    style="stop-color:#FDF7AA"
-   id="stop2059" />
+   id="stop18537" />
 				<stop
    offset="0.98295"
    style="stop-color:#FCF385"
-   id="stop2061" />
+   id="stop18539" />
 				<stop
    offset="1"
    style="stop-color:#FCF380"
-   id="stop2063" />
+   id="stop18541" />
 			</linearGradient>
 			<path
    class="st18"
-   d="m 361.0025,326.67542 c -0.2489,0 -0.50076,-0.0548 -0.74078,-0.17038 -0.73187,-0.35336 -2.67719,-1.29266 -19.59219,-46.72931 -0.32892,-0.88373 0.12149,-1.86603 1.00449,-2.19492 0.88303,-0.32742 1.8653,0.12 2.19568,1.00375 6.00925,16.1424 16.19055,42.45941 18.1803,45.03436 0.62372,0.48227 0.84744,1.35193 0.49039,2.09125 -0.29338,0.60965 -0.90376,0.96525 -1.53789,0.96525 z"
-   id="path2066"
+   d="m 456.88779,308.87152 c -0.0334,-0.0347 -0.8252,-0.86646 -0.8252,-2.53329 l 3.7e-4,-29.29382 c 0,-0.77838 -0.63098,-1.40955 -1.40952,-1.40955 -0.77856,0 -1.40955,0.63116 -1.40955,1.40955 l -3.7e-4,29.29382 c 0,2.87982 1.51343,4.39728 1.68631,4.56079 0.27493,0.26062 0.62952,0.39093 0.983,0.39093 0.37256,0 0.74405,-0.14499 1.01898,-0.43515 0.53557,-0.56491 0.52125,-1.44791 -0.044,-1.98328 z"
+   id="path18544"
    style="fill:url(#SVGID_11_)" />
+			<path
+   class="st8"
+   d="m 454.0452,258.49521 c -0.56454,0 -1.09717,-0.34137 -1.31409,-0.89932 -0.25879,-0.66531 -0.38983,-1.3811 -0.38983,-2.12735 0,-3.34233 2.71115,-6.53967 6.0434,-7.12733 0.76791,-0.13618 1.49762,0.37679 1.63309,1.14322 0.13507,0.76663 -0.37662,1.49763 -1.14343,1.6329 -2.01337,0.35513 -3.71399,2.34776 -3.71399,4.35121 0,0.39552 0.0668,0.76755 0.19824,1.10617 0.28189,0.72549 -0.0774,1.54242 -0.80316,1.82431 -0.16777,0.0653 -0.34028,0.0962 -0.51023,0.0962 z"
+   id="path18546" />
 			<linearGradient
    id="SVGID_12_"
    gradientUnits="userSpaceOnUse"
-   x1="381.53894"
-   y1="291.51718"
-   x2="393.12698"
-   y2="321.70508">
+   x1="427.35086"
+   y1="280.76941"
+   x2="427.35086"
+   y2="316.42468">
 				<stop
    offset="0"
    style="stop-color:#FFFFFF"
-   id="stop2068" />
+   id="stop18548" />
 				<stop
    offset="0.21678"
    style="stop-color:#FFFFFC"
-   id="stop2070" />
+   id="stop18550" />
 				<stop
    offset="0.39094"
    style="stop-color:#FFFEF2"
-   id="stop2072" />
+   id="stop18552" />
 				<stop
    offset="0.55028"
    style="stop-color:#FEFCE1"
-   id="stop2074" />
+   id="stop18554" />
 				<stop
    offset="0.70081"
    style="stop-color:#FEFAC9"
-   id="stop2076" />
+   id="stop18556" />
 				<stop
    offset="0.84512"
    style="stop-color:#FDF7AA"
-   id="stop2078" />
+   id="stop18558" />
 				<stop
    offset="0.98295"
    style="stop-color:#FCF385"
-   id="stop2080" />
+   id="stop18560" />
 				<stop
    offset="1"
    style="stop-color:#FCF380"
-   id="stop2082" />
+   id="stop18562" />
 			</linearGradient>
 			<path
    class="st19"
-   d="m 392.99097,321.63586 c -0.2489,0 -0.50076,-0.0548 -0.74078,-0.17038 -0.66522,-0.3215 -2.69348,-1.30008 -11.98587,-27.68228 -0.31259,-0.88895 0.15408,-1.86307 1.04303,-2.17642 0.89191,-0.31189 1.8653,0.15408 2.17792,1.043 4.05502,11.51474 9.0405,24.23767 10.45834,25.86145 0.69635,0.46597 0.96005,1.38379 0.58524,2.15939 -0.29338,0.60965 -0.90379,0.96524 -1.53788,0.96524 z"
-   id="path2085"
+   d="m 428.95578,314.00644 c -0.0338,-0.0349 -0.82553,-0.86682 -0.82553,-2.53369 l 3.7e-4,-29.29379 c 0,-0.77838 -0.63101,-1.40955 -1.40955,-1.40955 -0.77856,0 -1.40955,0.63116 -1.40955,1.40955 l -3.7e-4,29.29379 c 0,2.87985 1.51343,4.39731 1.68594,4.561 0.27493,0.26062 0.62988,0.39093 0.98337,0.39093 0.37259,0 0.74405,-0.14499 1.01898,-0.43497 0.53556,-0.56491 0.52125,-1.44772 -0.0437,-1.98327 z"
+   id="path18565"
    style="fill:url(#SVGID_12_)" />
 			<path
    class="st8"
-   d="m 365.98798,297.19894 c -0.14667,0 -0.29483,-0.0193 -0.44299,-0.0593 -0.91116,-0.24371 -1.45044,-1.17932 -1.20746,-2.08975 l 6.69073,-24.96954 c 0.24445,-0.91116 1.18228,-1.44971 2.09048,-1.20673 0.91116,0.24371 1.45044,1.17932 1.20746,2.08975 l -6.69073,24.96954 c -0.20444,0.76301 -0.89487,1.266 -1.64749,1.266 z"
-   id="path2087" />
+   d="m 426.11282,263.62973 c -0.56454,0 -1.09714,-0.34137 -1.31409,-0.89932 -0.25879,-0.66528 -0.38983,-1.38107 -0.38983,-2.12732 0,-3.34235 2.71115,-6.53967 6.0434,-7.12735 0.76645,-0.13618 1.49765,0.3766 1.63309,1.14323 0.13507,0.76662 -0.37662,1.49763 -1.1434,1.63289 -2.01337,0.35513 -3.71399,2.34778 -3.71399,4.35123 0,0.39551 0.0668,0.76755 0.19821,1.10614 0.28189,0.72552 -0.0774,1.54242 -0.80316,1.82434 -0.16773,0.0653 -0.34027,0.0962 -0.51023,0.0962 z"
+   id="path18567" />
 			<path
    class="st8"
-   d="m 397.66678,291.97049 c -0.14667,0 -0.29483,-0.0193 -0.44299,-0.0593 -0.91116,-0.24371 -1.45044,-1.17932 -1.20746,-2.08972 l 6.94409,-25.91257 c 0.24445,-0.91116 1.18378,-1.45047 2.09048,-1.20676 0.91116,0.24374 1.45044,1.17935 1.20746,2.08975 l -6.94409,25.91257 c -0.20444,0.76301 -0.89487,1.266 -1.64749,1.266 z"
-   id="path2089" />
-			<path
-   class="st8"
-   d="m 431.52054,254.02171 c -1.96603,0 -3.71985,1.27924 -4.90686,2.46623 -1.83548,1.83548 -1.91324,5.10696 -1.8056,6.21399 0.11386,1.1712 0.86325,1.72333 1.80551,1.72333 0.94229,0 1.69638,-0.48706 1.69638,-2.0253 0,-0.75192 -0.0509,-2.61063 1.05286,-3.76477 0.4978,-0.52075 1.26883,-1.19995 2.15771,-1.19995 0.94226,0 1.70676,-0.7645 1.70676,-1.70677 0,-0.94227 -0.7645,-1.70676 -1.70676,-1.70676 z"
-   id="path2091" />
+   d="m 396.68689,291.1275 c -0.12006,0 -0.24191,-0.0154 -0.3634,-0.0477 -0.75214,-0.20023 -1.19958,-0.97253 -0.99954,-1.72467 l 6.94199,-26.08124 c 0.20078,-0.75229 0.97272,-1.19885 1.72485,-0.99969 0.75211,0.20023 1.19958,0.97253 0.99951,1.72464 l -6.94196,26.08127 c -0.16812,0.6308 -0.73819,1.04742 -1.36145,1.04742 z"
+   id="path18569" />
 			<linearGradient
    id="SVGID_13_"
    gradientUnits="userSpaceOnUse"
-   x1="427.98578"
-   y1="280.78616"
-   x2="427.98578"
-   y2="316.72372">
+   x1="380.60339"
+   y1="291.76224"
+   x2="392.05219"
+   y2="321.58737">
 				<stop
    offset="0"
    style="stop-color:#FFFFFF"
-   id="stop2093" />
+   id="stop18571" />
 				<stop
    offset="0.21678"
    style="stop-color:#FFFFFC"
-   id="stop2095" />
+   id="stop18573" />
 				<stop
    offset="0.39094"
    style="stop-color:#FFFEF2"
-   id="stop2097" />
+   id="stop18575" />
 				<stop
    offset="0.55028"
    style="stop-color:#FEFCE1"
-   id="stop2099" />
+   id="stop18577" />
 				<stop
    offset="0.70081"
    style="stop-color:#FEFAC9"
-   id="stop2101" />
+   id="stop18579" />
 				<stop
    offset="0.84512"
    style="stop-color:#FDF7AA"
-   id="stop2103" />
+   id="stop18581" />
 				<stop
    offset="0.98295"
    style="stop-color:#FCF385"
-   id="stop2105" />
+   id="stop18583" />
 				<stop
    offset="1"
    style="stop-color:#FCF380"
-   id="stop2107" />
+   id="stop18585" />
 			</linearGradient>
 			<path
    class="st20"
-   d="m 429.42114,313.53021 c -0.0593,-0.06 -0.32593,-0.37186 -0.32593,-1.23709 v -29.8002 c 0,-0.94226 -0.7645,-1.70676 -1.70676,-1.70676 -0.94229,0 -1.70679,0.7645 -1.70679,1.70676 v 29.8002 c 0,3.1698 1.96011,4.16837 2.18384,4.27209 0.2326,0.10739 0.47559,0.15851 0.71561,0.15851 0.64447,0 1.26227,-0.36743 1.54971,-0.99042 0.37779,-0.81338 0.0593,-1.7712 -0.70968,-2.20309 z"
-   id="path2110"
+   d="m 392.93655,319.03894 c -0.0129,-0.0114 -1.28436,-1.15112 -1.91278,-2.78238 l -9.05594,-23.5101 c -0.27969,-0.72626 -1.09497,-1.08765 -1.82175,-0.80865 -0.72644,0.27988 -1.08871,1.09567 -0.80865,1.82211 l 9.05591,23.50977 c 0.88574,2.30038 2.61169,3.8252 2.68475,3.88907 0.26685,0.23309 0.5961,0.34723 0.92389,0.34723 0.3913,0 0.7804,-0.16223 1.05936,-0.47937 0.51282,-0.58292 0.4559,-1.47233 -0.12479,-1.98768 z"
+   id="path18588"
    style="fill:url(#SVGID_13_)" />
 			<path
    class="st8"
-   d="m 459.23032,249.06348 c -1.96603,0 -3.71985,1.27924 -4.90686,2.46625 -1.83545,1.83548 -1.91324,5.10693 -1.8056,6.21396 0.11386,1.17123 0.86325,1.72333 1.80551,1.72333 0.94229,0 1.69641,-0.48703 1.69641,-2.0253 0,-0.75192 -0.0509,-2.6106 1.05283,-3.76474 0.4978,-0.52077 1.26883,-1.19997 2.15771,-1.19997 0.94229,0 1.70676,-0.7645 1.70676,-1.70677 0,-0.94227 -0.76447,-1.70676 -1.70676,-1.70676 z"
-   id="path2112" />
+   d="m 364.61288,297.02609 c -0.12003,0 -0.24188,-0.0154 -0.3634,-0.0477 -0.75211,-0.20023 -1.19955,-0.97253 -0.99951,-1.72467 l 6.82526,-25.64203 c 0.20078,-0.75214 0.97272,-1.19904 1.72485,-0.99973 0.75211,0.20026 1.19955,0.97256 0.99951,1.72467 l -6.82526,25.64206 c -0.16812,0.63081 -0.73815,1.04743 -1.36145,1.04743 z"
+   id="path18590" />
 			<linearGradient
    id="SVGID_14_"
    gradientUnits="userSpaceOnUse"
-   x1="455.69824"
-   y1="275.82794"
-   x2="455.69824"
-   y2="311.7655">
+   x1="340.96448"
+   y1="277.40411"
+   x2="359.8187"
+   y2="326.52103">
 				<stop
    offset="0"
    style="stop-color:#FFFFFF"
-   id="stop2114" />
+   id="stop18592" />
 				<stop
    offset="0.21678"
    style="stop-color:#FFFFFC"
-   id="stop2116" />
+   id="stop18594" />
 				<stop
    offset="0.39094"
    style="stop-color:#FFFEF2"
-   id="stop2118" />
+   id="stop18596" />
 				<stop
    offset="0.55028"
    style="stop-color:#FEFCE1"
-   id="stop2120" />
+   id="stop18598" />
 				<stop
    offset="0.70081"
    style="stop-color:#FEFAC9"
-   id="stop2122" />
+   id="stop18600" />
 				<stop
    offset="0.84512"
    style="stop-color:#FDF7AA"
-   id="stop2124" />
+   id="stop18602" />
 				<stop
    offset="0.98295"
    style="stop-color:#FCF385"
-   id="stop2126" />
+   id="stop18604" />
 				<stop
    offset="1"
    style="stop-color:#FCF380"
-   id="stop2128" />
+   id="stop18606" />
 			</linearGradient>
 			<path
    class="st21"
-   d="m 457.13364,308.57199 c -0.0593,-0.06 -0.32596,-0.37186 -0.32596,-1.23709 v -29.8002 c 0,-0.94226 -0.76447,-1.70676 -1.70676,-1.70676 -0.94226,0 -1.70676,0.7645 -1.70676,1.70676 v 29.8002 c 0,3.1698 1.96011,4.16837 2.18384,4.27206 0.2326,0.10742 0.47559,0.15854 0.71558,0.15854 0.6445,0 1.2623,-0.36743 1.54971,-0.99042 0.37781,-0.81338 0.0593,-1.7712 -0.70965,-2.20309 z"
-   id="path2131"
+   d="m 360.72382,323.82806 c -0.015,-0.011 -1.53766,-1.11185 -2.13818,-2.68106 L 342.2306,278.42917 c -0.27786,-0.72681 -1.09131,-1.09021 -1.82028,-0.81232 -0.72717,0.27823 -1.09058,1.09329 -0.81235,1.82028 l 16.35507,42.71783 c 0.91364,2.38705 3.05438,3.91257 3.14502,3.97607 0.24631,0.17325 0.52823,0.25623 0.80756,0.25623 0.44122,0 0.87619,-0.20776 1.15112,-0.59576 0.44894,-0.63317 0.29879,-1.51193 -0.33292,-1.96344 z"
+   id="path18609"
    style="fill:url(#SVGID_14_)" />
+			<circle
+   class="st8"
+   cx="404.60892"
+   cy="259.95139"
+   r="1.4095401"
+   id="circle18611" />
+			<circle
+   class="st8"
+   cx="372.41809"
+   cy="266.28915"
+   r="1.4095401"
+   id="circle18613" />
+			<circle
+   class="st8"
+   cx="339.43051"
+   cy="275.05725"
+   r="1.5974801"
+   id="circle18615" />
 		</g>
 	</g>
 	<g
-   id="리듬_세상_00000001652036029481234410000004644106815103224492_">
+   id="리듬_세상_1_">
 		<path
-   id="상_00000129187380489129286340000008393760994727768716_"
+   id="상_2_"
    class="st22"
-   d="m 376.26459,218.95308 c -6.51352,-1.46768 -14.89807,-1.6221 -24.40833,4.85506 -6.25336,4.25896 -9.40695,9.44659 -9.40668,15.39188 9e-5,2.14183 0.46988,4.26723 1.40338,6.31161 2.86493,6.27429 7.10806,6.61111 12.87683,7.06908 9.42688,0.74835 15.09683,-1.74612 20.74854,-5.57553 6.31543,-4.28433 9.53949,-9.39696 9.53949,-15.37292 0,-5.33481 -2.73797,-10.87315 -10.75323,-12.67918 z m -14.03433,24.75583 c -1.9155,-0.0377 -5.82239,-0.11464 -5.82239,-6.12155 0,-6.22531 4.97058,-10.69075 10.37399,-10.69136 5.54633,-6.6e-4 5.93622,3.75786 5.93622,6.0457 0,5.6081 -4.83344,10.87849 -10.48782,10.76721 z m 37.11489,-58.23441 v 9.24199 l -10.50668,2.0423 v 17.35623 l -14.0343,2.72798 v -39.99048 c 0,-1.80086 -1.47842,-1.78252 -3.16296,-1.45508 l -1.69214,0.32892 v -5.33678 l 18.8894,-3.67172 v 20.79893 z m -51.68023,20.31177 c 0,0 -1.54117,13.13411 -18.35828,30.09779 l -8.61026,-7.14986 c 8.6171,-6.97839 18.54803,-22.92453 18.54803,-37.13394 v -0.40103 c 0,-1.70686 -1.32059,-1.70517 -2.9653,-1.38547 l -1.66232,0.32312 v -5.05817 l 18.45322,-3.58694 v 7.42108 c 0,14.5119 8.0058,16.845 18.64288,16.94925 l -5.29126,8.2309 c -16.16376,-1.45001 -18.75671,-8.30673 -18.75671,-8.30673 z" />
+   d="m 376.5235,218.93021 c -5.34805,-1.34065 -14.8548,-1.54288 -24.42633,4.85864 -8.25525,5.52116 -11.16397,15.23119 -8.23227,21.90416 4.49304,10.22678 22.50543,8.89729 33.87323,1.30998 6.35223,-4.23973 9.54654,-9.4039 9.54654,-15.38426 0,-5.33873 -2.78568,-10.68923 -10.76117,-12.68852 z m -14.04468,24.77407 c -1.91693,-0.0378 -5.82666,-0.11472 -5.82666,-6.12607 0,-6.22989 4.97421,-10.69862 10.38162,-10.69923 5.55042,-6.7e-4 5.94058,3.76062 5.94058,6.05016 1e-5,5.61224 -4.83697,10.8865 -10.49554,10.77514 z m 37.14227,-58.27734 v 9.24879 l -10.51443,2.04381 v 17.36903 l -14.04468,2.73 V 176.7986 c 0,-1.80219 -1.47949,-1.78383 -3.16528,-1.45615 l -1.69336,0.32916 v -5.34071 l 18.90332,-3.67444 v 20.81427 z m -51.71835,20.32674 c 0,0 -1.54233,13.1438 -18.37183,30.12001 l -8.61661,-7.15515 c 8.62344,-6.98354 18.56174,-22.94144 18.56174,-37.16132 v -0.40134 c 0,-1.70811 -1.32159,-1.70642 -2.96753,-1.38647 l -1.66354,0.32335 v -5.06189 l 18.46683,-3.5896 v 7.42654 c 0,14.52261 8.01172,16.85744 18.65665,16.96176 l -5.29517,8.23697 c -16.17569,-1.45108 -18.77054,-8.31286 -18.77054,-8.31286 z" />
 		<path
-   id="세_00000151518686254035028310000006543246078542146693_"
+   id="세_1_"
    class="st23"
-   d="m 277.02014,272.24759 -5.89526,8.09283 c -11.51703,-3.96103 -14.62766,-9.90302 -14.62766,-9.90302 0,0 -4.36142,8.34903 -13.50386,16.95523 l -7.627,-6.61984 c 0,0 13.47507,-12.91708 13.47507,-25.90733 v -9.88782 c 0,-1.80827 -1.42883,-1.77045 -3.0269,-1.45981 l -1.60522,0.31203 v -5.71291 l 17.649,-3.43062 -3e-5,18.19032 c 0,17.41717 15.16186,19.37094 15.16186,19.37094 z M 275.23309,228.608 v 5.25354 l 1.36694,-0.2657 c 1.36078,-0.26451 2.60672,-0.5067 2.60672,1.30156 v 15.30998 l -11.52698,2.24062 v 8.23636 l 11.52698,-2.24063 3e-5,45.37003 12.64359,-2.45764 v -75.97816 z m 16.09955,-16.759 v 5.25352 l 1.36694,-0.2657 c 1.36078,-0.26451 2.57745,-0.44272 2.57745,1.36554 v 66.90457 l 13.74329,-2.67142 3e-5,-74.02466 z" />
+   d="m 277.20587,272.26398 -5.89963,8.09882 c -11.52548,-3.96396 -14.63843,-9.91031 -14.63843,-9.91031 0,0 -4.36462,8.35516 -13.51379,16.96771 l -7.63261,-6.62473 c 0,0 13.48499,-12.92661 13.48499,-25.92642 v -9.89511 c 0,-1.80959 -1.42989,-1.77174 -3.02913,-1.46088 l -1.60641,0.31226 v -5.71712 l 17.66202,-3.43315 -3e-5,18.20374 c -10e-6,17.42999 15.17302,19.38519 15.17302,19.38519 z m -1.78836,-43.67174 v 5.25742 l 1.36795,-0.2659 c 1.36179,-0.26471 2.60864,-0.50708 2.60864,1.30251 v 15.32127 l -11.53546,2.24228 v 8.24242 l 11.53546,-2.24228 3e-5,45.40347 12.65289,-2.45947 V 225.3598 Z m 16.11142,-16.77136 v 5.25742 l 1.36792,-0.2659 c 1.36182,-0.26471 2.57938,-0.44305 2.57938,1.36653 v 66.95389 l 13.75342,-2.6734 V 208.3802 Z" />
 		<path
-   id="듬_00000135689757128352503860000016487042145683423879_"
+   id="듬_1_"
    class="st22"
-   d="m 220.80435,242.29187 -58.0871,11.29099 v 5.63559 l 0.7202,-0.13998 c 3.80154,-0.73895 3.95097,-0.11655 3.95097,1.74002 v 11.79398 c 0,3.79724 2.95262,6.30157 6.59489,5.5936 l 41.69165,-8.10406 c 3.64229,-0.70798 6.59491,-4.36017 6.59491,-8.15741 v -18.4097 c 1e-5,-0.84383 -0.65615,-1.40036 -1.46552,-1.24303 z m -14.43471,21.81226 -24.5098,4.76422 v -10.70267 l 24.5098,-4.76422 z m 15.9002,-34.3265 5e-5,8.20836 -72.76013,14.14314 v -8.20837 z m -43.26772,-12.24282 v 8.42392 l 43.26776,-8.4104 v 8.20831 l -50.14404,9.74701 c -4.04695,0.78665 -7.32765,-1.99593 -7.32765,-6.21507 l -3e-5,-9.77936 c 0,-1.69202 -0.14915,-2.20465 -3.9447,-1.46687 l -0.71909,0.13979 V 212.994 l 62.13551,-12.07791 v 8.20831 z" />
+   d="m 220.94864,242.28619 -58.12988,11.2993 v 5.63976 l 0.72072,-0.14011 c 3.80435,-0.73947 3.95389,-0.11664 3.95389,1.7413 v 11.80267 c 0,3.80005 2.95479,6.30621 6.59975,5.59772 l 41.7224,-8.11002 c 3.64496,-0.7085 6.59975,-4.3634 6.59975,-8.16345 v -18.42325 c -2e-5,-0.84443 -0.65665,-1.40136 -1.46663,-1.24392 z m -14.44534,21.82831 -24.52785,4.76773 v -10.71054 l 24.52785,-4.76773 z m 15.91191,-34.35176 5e-5,8.2144 -72.81375,14.15356 v -8.21442 z m -43.29959,-12.25186 v 8.43013 l 43.29964,-8.4166 v 8.21436 l -50.18098,9.7542 c -4.04993,0.78723 -7.33305,-1.99741 -7.33307,-6.21967 l -2e-5,-9.78656 c 0,-1.69327 -0.14926,-2.20627 -3.94762,-1.46794 l -0.71962,0.13988 2e-5,-5.19194 62.18129,-12.08682 v 8.21437 z" />
 		<path
-   id="리_00000013903391440715053090000008889231044700341165_"
+   id="리_1_"
    class="st23"
-   d="m 117.58587,249.66141 v 5.64879 l 1.61108,-0.31317 c 1.60385,-0.31175 3.07233,-0.5972 3.07233,1.51027 v 33.36194 c -2.36948,1.35373 -5.40397,2.47165 -9.14471,3.19876 l -22.15839,4.30716 v -10.21091 l 20.54779,-3.99408 c 1.02242,-0.19876 1.85126,-1.20856 1.85126,-2.25552 l -1e-5,-20.21655 c 0,-1.04694 -0.82883,-1.73456 -1.85125,-1.53583 l -38.54105,7.49164 v 8.73083 l 26.28647,-5.10956 v 6.86517 l -27.50822,5.34708 v 5.74359 l 0.64948,-0.12625 c 1.31159,-0.25494 3.25646,-0.633 3.25643,1.31967 v 13.59122 c 0,3.35022 2.65226,5.55057 5.924,4.91461 l 28.93336,-5.62405 c 5.42748,-1.05499 9.3669,-2.38266 11.75486,-3.60367 v 31.98721 l 14.90186,-2.89664 v -81.93869 z" />
+   d="m 117.6541,249.66116 v 5.65294 l 1.61227,-0.31339 c 1.60503,-0.312 3.07459,-0.59764 3.07459,1.51137 v 33.38651 c -2.37122,1.35477 -5.40796,2.47348 -9.15145,3.20117 l -22.17473,4.3103 v -10.21844 l 20.56293,-3.99701 c 1.02317,-0.19888 1.85262,-1.20947 1.85262,-2.25717 v -20.23148 c 0,-1.0477 -0.82944,-1.73581 -1.85262,-1.53693 l -38.56945,7.49713 v 8.73727 l 26.30584,-5.11334 v 6.87027 l -27.5285,5.35098 v 5.74783 l 0.64996,-0.12634 c 1.31255,-0.25513 3.25886,-0.63345 3.25883,1.32065 v 13.60123 c 0,3.35269 2.65422,5.55466 5.92837,4.91824 l 28.95467,-5.6282 c 5.43149,-1.05576 9.37381,-2.38443 11.76353,-3.60632 v 32.0108 l 14.91284,-2.89877 v -81.9991 z" />
 	</g>
 	<path
-   id="_x2122__00000120549346992275311590000004350793405230481060_"
-   d="M 458.43298,335.54831 V 327.401 l -3.03113,0.5892 v -1.75076 l 8.01749,-1.55844 v 1.75076 l -2.92191,0.56796 v 8.14731 z m 13.60459,-2.64447 v -8.27316 l -1.84052,8.63095 -1.99347,0.38748 -1.79681,-7.92392 v 8.27319 l -1.88425,0.36624 v -9.90378 l 2.94376,-0.57224 1.77499,7.51053 0.0219,-0.004 1.73129,-8.19208 2.90552,-0.56476 v 9.90378 z" />
+   id="_x2122_"
+   d="m 458.75241,335.61136 v -8.15332 l -3.03339,0.58963 v -1.75204 l 8.02341,-1.5596 v 1.75204 l -2.92404,0.56839 v 8.15332 z m 13.61462,-2.64642 v -8.27927 l -1.84189,8.6373 -1.99493,0.38779 -1.79816,-7.92975 v 8.27927 l -1.88562,0.36652 v -9.91107 l 2.94595,-0.57263 1.77628,7.51602 0.0218,-0.004 1.73257,-8.19809 2.90765,-0.56519 v 9.9111 z" />
 </g>
 </svg>
