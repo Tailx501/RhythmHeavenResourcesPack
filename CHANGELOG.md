@@ -129,18 +129,18 @@
 - Added the Rhythm Heaven Logo but different in "Funny, Unique, & Cursed Rhythm Heaven Logos".
 
 05/30/2024:
-- Added the Rhythm Tengoku Thumbnails in "Thumbnails". (Credit: Ripping Reapers)
-- Added the Rhythm Heaven Thumbnails in "Thumbnails". (Credit: Mysikt)
-- Added the Rhythm Tengoku Gold Thumbnails in "Thumbnails". (Credit: Mysikt)
+- Added the Rhythm Tengoku Thumbnail in "Thumbnails". (Credit: Ripping Reapers)
+- Added the Rhythm Heaven Thumbnail in "Thumbnails". (Credit: Mysikt)
+- Added the Rhythm Tengoku Gold Thumbnail in "Thumbnails". (Credit: Mysikt)
 
 06/29/2024:
 - Added the new copyright-free Heaven Studio Logo in "Heaven Studio".
 
 07/28/2024:
-- Added the Rhythm Heaven Megamix Thumbnails in "Thumbnails".
-- Added the Rhythm Paradise Megamix Thumbnails in "Thumbnails".
-- Added the Rhythm Tengoku: The Best+ Thumbnails in "Thumbnails".
-- Added the Rhythm World: The Best+ Thumbnails in "Thumbnails".
+- Added the Rhythm Heaven Megamix Thumbnail in "Thumbnails".
+- Added the Rhythm Paradise Megamix Thumbnail in "Thumbnails".
+- Added the Rhythm Tengoku: The Best+ Thumbnail in "Thumbnails".
+- Added the Rhythm World: The Best+ Thumbnail in "Thumbnails".
 
 07/29/2024:
 - Added the Paradis du Rythme Mégamix Logo in "Custom Logos".
@@ -737,3 +737,8 @@
 - Removed CP and U-Fo, Golden Bridge Sans and the trans in the "Miscellaneous Fonts" folder in "Fonts".
 - Tweaked the letters "プ" for all Rhythm Tengoku: The Best+ related Logos in this Folder.
 - Tweaked the letters "プ" and "ブ" for all Rhythm Tengoku: The Best+ More Of The Best related Logos in this Folder.
+
+01/07/2026:
+- Modified the Rhythm Tengoku Gold Thumbnail in "Thumbnails". (Credit: Mysikt)
+- Added the Rhythm Paradise Thumbnail in "Thumbnails". (Credit: Mysikt)
+- Added the Rhythm World Thumbnail in "Thumbnails". (Credit: Mysikt)
