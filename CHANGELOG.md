@@ -729,6 +729,11 @@
 
 12/28/2025:
 - Tweaked the letter "상" for all Rhythm World related Logos in this Folder.
-- Tweaked the letters "상", "더" and "베" the Rhythm World: The Best Plus related Logos in this Folder.
-- Tweaked the letters "상", "더", "베" and "중" the Rhythm World: The Best Plus More Of The Best related Logos in this Folder.
+- Tweaked the letters "상", "더" and "베" for all Rhythm World: The Best Plus related Logos in this Folder.
+- Tweaked the letters "상", "더", "베" and "중" for all Rhythm World: The Best Plus More Of The Best related Logos in this Folder.
 - Modified the Rhythm Tengoku GBA Boxart in "Boxarts".
+
+01/06/2026:
+- Removed CP and U-Fo, Golden Bridge Sans and the trans in the "Miscellaneous Fonts" folder in "Fonts".
+- Tweaked the letters "プ" for all Rhythm Tengoku: The Best+ related Logos in this Folder.
+- Tweaked the letters "プ" and "ブ" for all Rhythm Tengoku: The Best+ More Of The Best related Logos in this Folder.
