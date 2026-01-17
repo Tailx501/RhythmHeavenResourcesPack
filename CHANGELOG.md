@@ -742,3 +742,9 @@
 - Modified the Rhythm Tengoku Gold Thumbnail in "Thumbnails". (Credit: Mysikt)
 - Added the Rhythm Paradise Thumbnail in "Thumbnails". (Credit: Mysikt)
 - Added the Rhythm World Thumbnail in "Thumbnails". (Credit: Mysikt)
+
+01/17/2026:
+- Tweaked the "＋" for all Rhythm Tengoku: The Best+ related Logos in this Folder.
+- Tweaked the letters "더", "베" and "＋" for all Rhythm World: The Best Plus related Logos in this Folder.
+- Modified the Rhythm Cheonguk Wii Logo in "Custom Logos".
+- Modified the Rhythm World: Miracle Stars Logo in "Custom Logos".
