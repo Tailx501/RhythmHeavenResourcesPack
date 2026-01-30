@@ -748,3 +748,9 @@
 - Tweaked the letters "더", "베" and "＋" for all Rhythm World: The Best Plus related Logos in this Folder.
 - Modified the Rhythm Cheonguk Wii Logo in "Custom Logos".
 - Modified the Rhythm World: Miracle Stars Logo in "Custom Logos".
+
+01/30/2026:
+- Removed ★懐流体, CHI Doraneko-bold, doraneko line-Regular, FLOOKRG, Lion of the tribe, and WebSubsetFont Regular in the "Miscellaneous Fonts" folder in "Fonts".
+- Renamed "Rhythm Heaven Advance" to "Rhythm Heaven Advance (2026)".
+- Added the Rhythm Tengoku+ GBA Boxart in "Boxarts". (Credit: Mizu)
+- Added the Rhythm Tengoku+ Logos in "Icons" and "Rhythm Heaven Advance (2026)". (Credit: Mizu)
