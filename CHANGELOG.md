@@ -754,3 +754,7 @@
 - Renamed "Rhythm Heaven Advance" to "Rhythm Heaven Advance (2026)".
 - Added the Rhythm Tengoku+ GBA Boxart in "Boxarts". (Credit: Mizu)
 - Added the Rhythm Tengoku+ Logos in "Icons" and "Rhythm Heaven Advance (2026)". (Credit: Mizu)
+
+02/01/2026:
+- Modified the Rhythm Tengoku+ GBA Boxart in "Boxarts". (Credit: Mizu)
+- Modified the Rhythm Tengoku+ Logos in "Icons" and "Rhythm Heaven Advance (2026)". (Credit: Mizu)
