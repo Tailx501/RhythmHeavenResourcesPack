@@ -196,7 +196,7 @@
 - Corrected the Colors for the Unused Rhythm Tengoku Logo in "Rhythm Tengoku".
 
 08/24/2024:
-- Modified the for Minna no Rhythm Tengoku Icon in "Icons" and "Rhythm Heaven Fever".
+- Modified the Minna no Rhythm Tengoku Icon in "Icons" and "Rhythm Heaven Fever".
 - Modified the Minna no Rhythm Tengoku Complete Music Collection Icon in "Icons" and "Rhythm Tengoku Complete Music Collection".
 
 08/26/2024:
@@ -758,3 +758,6 @@
 02/01/2026:
 - Modified the Rhythm Tengoku+ GBA Boxart in "Boxarts". (Credit: Mizu)
 - Modified the Rhythm Tengoku+ Logos in "Icons" and "Rhythm Heaven Advance (2026)". (Credit: Mizu)
+
+02/06/2026:
+- Added the Alternative variant of the Minna no Rhythm Tengoku Logo in "Rhythm Heaven Fever (2011)".
