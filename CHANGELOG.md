@@ -762,3 +762,8 @@
 02/06/2026:
 - Added the Alternative variant of the Minna no Rhythm Tengoku Logo in "Rhythm Heaven Fever (2011)".
 - Added "Websites" in this Folder.
+
+02/24/2026:
+- Renamed "Rhythm Tianguo" to "Jiézòu Tiānguó" for consistency.
+- Renamed "Rhythm Tianguo Classic Collection" to "Jiézòu Tiānguó Jīngdiǎn Huìcuì" for consistency.
+- Modified the Rhythm World Advance Icon in "Icons" and "Rhythm Heaven Advance (2026)".
