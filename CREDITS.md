@@ -3,6 +3,7 @@ The following is a list of users that was credited and mentioned in this Resourc
 Custom Logos:
 - Borists: Designed the Rhythm Heaven Megamix HD Logo
 - Borists/Tudor_0: Designed the Rhythm Heaven Fever HD Logo
+- HyperNervie: Designed the Simplified Jiézòu Tiānguó Logo
 - iomkr: RH Craft/Rh Ultra/Rhythm Crossing/Rhythm Discord/Rhythm Hell/קצב גן עדן
 - ThatSharkguy: Rhythm Heaven Heartbeat
 - ZAZiOs: Ритм Небес

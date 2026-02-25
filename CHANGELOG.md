@@ -767,3 +767,8 @@
 - Renamed "Rhythm Tianguo" to "Jiézòu Tiānguó" for consistency.
 - Renamed "Rhythm Tianguo Classic Collection" to "Jiézòu Tiānguó Jīngdiǎn Huìcuì" for consistency.
 - Modified the Rhythm World Advance Icon in "Icons" and "Rhythm Heaven Advance (2026)".
+
+02/25/2026:
+- Added the Tranditional Jiézòu Tiānguó Logo in "Custom Logos".
+- Modified the Simplified Jiézòu Tiānguó Logo in "Custom Logos". (Credit: HyperNervie)
+- Modified the Jiézòu Tiānguó Jīngdiǎn Huìcuì Logo in "Custom Logos".
