@@ -772,3 +772,7 @@
 - Added the Tranditional Jiézòu Tiānguó Logo in "Custom Logos".
 - Modified the Simplified Jiézòu Tiānguó Logo in "Custom Logos". (Credit: HyperNervie)
 - Modified the Jiézòu Tiānguó Jīngdiǎn Huìcuì Logo in "Custom Logos".
+
+02/27/2026:
+- Added the Alternative variant of the Tranditional Jiézòu Tiānguó Logo in "Custom Logos".
+- Added the Alternative variant of the Simplified Jiézòu Tiānguó Logo in "Custom Logos". (Credit: HyperNervie)
