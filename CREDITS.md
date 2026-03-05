@@ -1,5 +1,8 @@
 The following is a list of users that was credited and mentioned in this Resources Pack.
 
+Boxarts and Cartridges:
+- Borists: Designed the Rhythm Heaven Advance GBA Cartridge
+
 Custom Logos:
 - Borists: Designed the Rhythm Heaven Megamix HD Logo
 - Borists/Tudor_0: Designed the Rhythm Heaven Fever HD Logo
@@ -7,9 +10,6 @@ Custom Logos:
 - iomkr: RH Craft/Rh Ultra/Rhythm Crossing/Rhythm Discord/Rhythm Hell/קצב גן עדן
 - ThatSharkguy: Rhythm Heaven Heartbeat
 - ZAZiOs: Ритм Небес
-
-Boxarts and Cartridges:
-- Borists: Designed the Rhythm Heaven Advance GBA Cartridge
 
 Fonts:
 - ButlermationsArt: Rhythm Heaven Ringside Font
