@@ -776,3 +776,7 @@
 02/27/2026:
 - Added the Alternative variant of the Tranditional Jiézòu Tiānguó Logo in "Custom Logos".
 - Added the Alternative variant of the Simplified Jiézòu Tiānguó Logo in "Custom Logos". (Credit: HyperNervie)
+
+03/05/2026:
+- Added the Rhythm Heaven Advance GBA Boxart in "Boxarts".
+- Added CompactaDOT-Bold in the "URW++" folder in "Fonts".
