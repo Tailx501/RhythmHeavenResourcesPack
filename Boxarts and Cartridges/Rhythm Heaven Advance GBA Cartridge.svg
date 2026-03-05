@@ -26,7 +26,7 @@
        clipPathUnits="userSpaceOnUse"
        id="clipPath2538">
       <path
-         d="M 339.335,32.9484 H 482.992 V 10.7287 H 339.335 Z"
+         d="M 346.335,33.2267 H 475.628 V 13.2287 H 346.335 Z"
          id="path2536" />
     </clipPath>
     <clipPath
@@ -4848,10 +4848,10 @@
                id="g2544">
               <text
                  xml:space="preserve"
-                 transform="matrix(1,0,0,-1,339.335,15.7285)"
-                 style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;font-family:'Univers 55';-inkscape-font-specification:Univers;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+                 transform="matrix(1,0,0,-1,346.335,17.7285)"
+                 style="font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18px;font-family:'Univers 55';-inkscape-font-specification:Univers;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                  id="text2542"><tspan
-                   x="0 14.04 29.6 42.939999 49.599998 62.939999 76.279999 81.839996 94.059998 100.72 116.28 129.22"
+                   x="0 12.636 26.639999 38.646 44.639999 56.646 68.652 73.655998 84.653999 90.648003 104.652 116.298"
                    y="0"
                    sodipodi:role="line"
                    id="tspan2540">AGB-BRIE-USA</tspan></text>
