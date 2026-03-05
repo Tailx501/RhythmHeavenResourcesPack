@@ -778,5 +778,7 @@
 - Added the Alternative variant of the Simplified Jiézòu Tiānguó Logo in "Custom Logos". (Credit: HyperNervie)
 
 03/05/2026:
-- Added the Rhythm Heaven Advance GBA Boxart in "Boxarts".
+- Renamed "Boxarts" to "Boxarts and Cartridges".
+- Added the Rhythm Heaven Advance GBA Boxart in "Boxarts and Cartridges".
+- Added the Rhythm Heaven Advance GBA Cartridge in "Boxarts and Cartridges". (Credit: Borists)
 - Added CompactaDOT-Bold in the "URW++" folder in "Fonts".

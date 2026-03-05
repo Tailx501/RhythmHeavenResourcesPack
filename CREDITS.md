@@ -8,6 +8,9 @@ Custom Logos:
 - ThatSharkguy: Rhythm Heaven Heartbeat
 - ZAZiOs: Ритм Небес
 
+Boxarts and Cartridges:
+- Borists: Designed the Rhythm Heaven Advance GBA Cartridge
+
 Fonts:
 - ButlermationsArt: Rhythm Heaven Ringside Font
 - EpicHaxGuy: Go For A Perfect
