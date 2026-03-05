@@ -779,6 +779,6 @@
 
 03/05/2026:
 - Renamed "Boxarts" to "Boxarts and Cartridges".
-- Added the Rhythm Heaven Advance GBA Boxart in "Boxarts and Cartridges".
+- Added the Rhythm Heaven Advance GBA Boxart in "Boxarts and Cartridges". (Credit: Borists)
 - Added the Rhythm Heaven Advance GBA Cartridge in "Boxarts and Cartridges". (Credit: Borists)
 - Added CompactaDOT-Bold in the "URW++" folder in "Fonts".

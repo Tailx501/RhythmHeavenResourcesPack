@@ -1,7 +1,7 @@
 The following is a list of users that was credited and mentioned in this Resources Pack.
 
 Boxarts and Cartridges:
-- Borists: Designed the Rhythm Heaven Advance GBA Cartridge
+- Borists: Designed the Rhythm Heaven Advance GBA Boxart and Cartridge
 
 Custom Logos:
 - Borists: Designed the Rhythm Heaven Megamix HD Logo
