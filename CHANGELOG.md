@@ -782,3 +782,7 @@
 - Added the Rhythm Heaven Advance GBA Boxart in "Boxarts and Cartridges". (Credit: Borists)
 - Added the Rhythm Heaven Advance GBA Cartridge in "Boxarts and Cartridges". (Credit: Borists)
 - Added CompactaDOT-Bold in the "URW++" folder in "Fonts".
+
+03/09/2026:
+- Modified the Rhythm World Advance Logos in "Icons" and "Rhythm Heaven Advance".
+- Modified the Rhythm World Arcade Logos in "Icons" and "Rhythm Heaven Arcade".
