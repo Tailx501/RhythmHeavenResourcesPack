@@ -788,5 +788,6 @@
 - Modified the Rhythm World Arcade Logos in "Icons" and "Rhythm Heaven Arcade".
 
 03/12/2026:
+- Added "Bingo Cards" in this Folder.
 - Modified the Groove Style of the RH Modding Logo in "Custom Logos".
 - Modified the Rhythm Heaven Groove Logo in "Rhythm Heaven Groove (2026)".
