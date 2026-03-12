@@ -784,5 +784,9 @@
 - Added CompactaDOT-Bold in the "URW++" folder in "Fonts".
 
 03/09/2026:
-- Modified the Rhythm World Advance Logos in "Icons" and "Rhythm Heaven Advance".
+- Modified the Rhythm World Advance Logos in "Icons" and "Rhythm Heaven Advance (2026)".
 - Modified the Rhythm World Arcade Logos in "Icons" and "Rhythm Heaven Arcade".
+
+03/12/2026:
+- Modified the Groove Style of the RH Modding Logo in "Custom Logos".
+- Modified the Rhythm Heaven Groove Logo in "Rhythm Heaven Groove (2026)".
