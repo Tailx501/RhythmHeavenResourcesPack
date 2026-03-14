@@ -791,3 +791,6 @@
 - Added "Bingo Cards" in this Folder.
 - Modified the Groove Style of the RH Modding Logo in "Custom Logos".
 - Modified the Rhythm Heaven Groove Logo in "Rhythm Heaven Groove (2026)".
+
+03/14/2026:
+- Modified the Rhythm Heaven Advance GBA Boxart in "Boxarts and Cartridges". (Credit: Borists)
