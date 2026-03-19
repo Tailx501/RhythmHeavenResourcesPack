@@ -35,8 +35,9 @@ Icons:
 - iomkr: VS
 
 Rhythm Heaven Advance:
-- vincells: Designed the Rhythm Heaven Advance Logo
+- cazusuperlol: Designed the Rhythm Heaven Advance (ESP) Logo
 - Mizu: Designed the Rhythm Tengoku+ Logo
+- vincells: Designed the Rhythm Heaven Advance Logo
 
 Rhythm Heaven Re-Megamix:
 - patataofcourse: Designed the Rhythm Heaven Re-Megamix Logo

@@ -794,3 +794,9 @@
 
 03/14/2026:
 - Modified the Rhythm Heaven Advance GBA Boxart in "Boxarts and Cartridges". (Credit: Borists)
+
+03/18/2026:
+- Added the Regional variants for the Rhythm Heaven Advance Logo in "Rhythm Heaven Advance (2026)". (Credit: cazusuperlol)
+- Added the Regional variants for the Rhythm Paradise Advance Logo in "Rhythm Heaven Advance (2026)".
+- Added the Regional variants for the Rhythm Heaven Arcade Logo in "Rhythm Heaven Arcade".
+- Added the Regional variants for the Rhythm Paradise Arcade Logo in "Rhythm Heaven Arcade".
