@@ -800,3 +800,9 @@
 - Added the Regional variants for the Rhythm Paradise Advance Logo in "Rhythm Heaven Advance (2026)".
 - Added the Regional variants for the Rhythm Heaven Arcade Logo in "Rhythm Heaven Arcade".
 - Added the Regional variants for the Rhythm Paradise Arcade Logo in "Rhythm Heaven Arcade".
+
+03/19/2026:
+- Removed the (DUT) Regional variant for the Rhythm Paradise Advance Logo in "Rhythm Heaven Advance (2026)".
+- Removed the (DUT) Regional variant for the Rhythm Paradise Arcade Logo in "Rhythm Heaven Arcade".
+- Added the (NLD) Regional variant for the Rhythm Paradise Advance Logo in "Rhythm Heaven Advance (2026)".
+- Added the (NLD) Regional variant for the Rhythm Paradise Arcade Logo in "Rhythm Heaven Arcade".
