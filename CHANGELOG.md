@@ -806,3 +806,10 @@
 - Removed the (DUT) Regional variant for the Rhythm Paradise Arcade Logo in "Rhythm Heaven Arcade".
 - Added the (NLD) Regional variant for the Rhythm Paradise Advance Logo in "Rhythm Heaven Advance (2026)".
 - Added the (NLD) Regional variant for the Rhythm Paradise Arcade Logo in "Rhythm Heaven Arcade".
+
+03/23/2026:
+- Added the Rhythm Heaven Groove Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
+- Added the Rhythm Paradise Groove Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
+- Added the Rhythm Tengoku Miracle Stars Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
+- Added the Rhythm Cheonguk Miracle Stars Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
+- Added the Jiézòu Tiānguó Qíjì Zhī Xīng Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
