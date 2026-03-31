@@ -813,3 +813,8 @@
 - Added the Rhythm Tengoku Miracle Stars Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
 - Added the Rhythm Cheonguk Miracle Stars Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
 - Added the Jiézòu Tiānguó Qíjì Zhī Xīng Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
+
+03/31/2026:
+- Added ArialRoundedMTPro in the "Microsoft" folder in "Fonts".
+- Modified the Rhythm Paradise Fever Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos".
+- Modified the Rhythm Paradise Wiki Logo in "Icons" and "Rhythm Heaven Wiki (2009)".
