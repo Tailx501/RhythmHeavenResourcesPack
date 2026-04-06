@@ -2986,8 +2986,8 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="1.815"
-     inkscape:cx="326.44628"
-     inkscape:cy="348.20937"
+     inkscape:cx="273.8292"
+     inkscape:cy="349.86226"
      inkscape:window-width="2560"
      inkscape:window-height="1412"
      inkscape:window-x="0"
@@ -5760,7 +5760,7 @@
        id="path670-9"
        d="M 0,0 -4.351,1.575 C -8.062,2.919 -8.842,9.036 3.42,7.352 V 18.227 C -14.627,22.048 -21.06,2.794 -7.843,-1.807 l 3.94,-1.371 c 5.125,-1.784 1.799,-7.375 -9.025,-5.949 v -5.766 C 5.713,-17.898 9.238,-3.346 0,0"
        style="fill:#ff5500;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       transform="matrix(1.3333333,0,0,-1.3333333,539.77853,250.46373)"
+       transform="matrix(1.3333333,-0.09323575,0,-1.3333333,539.77853,250.00015)"
        clip-path="url(#clipPath671-6)" />
     <path
        id="path672"

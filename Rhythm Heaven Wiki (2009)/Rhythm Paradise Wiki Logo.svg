@@ -7,7 +7,8 @@
    width="666.66669"
    height="473.02399"
    viewBox="0 0 666.66669 473.02399"
-   sodipodi:docname="Rhythm Paradise Wiki Logo.ai"
+   sodipodi:docname="Rhythm Paradise Wiki Logo.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -843,7 +844,17 @@
      inkscape:showpageshadow="2"
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1">
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="2.5580098"
+     inkscape:cx="333.46236"
+     inkscape:cy="236.51199"
+     inkscape:window-width="2560"
+     inkscape:window-height="1412"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer-MC0">
     <inkscape:page
        x="0"
        y="0"
@@ -1463,7 +1474,7 @@
        id="path101"
        d="M 0,0 -4.833,1.75 C -8.957,3.244 -9.824,10.04 3.8,8.169 V 20.252 C -16.252,24.498 -23.399,3.105 -8.714,-2.007 l 4.378,-1.524 c 5.694,-1.983 1.999,-8.195 -10.027,-6.61 v -6.406 C 6.349,-19.887 10.266,-3.717 0,0"
        style="fill:#ff5500;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       transform="matrix(1.3333333,0,0,-1.3333333,562.71627,144.4356)"
+       transform="matrix(1.3333333,-0.09323575,0,-1.3333333,562.71627,143.92059)"
        clip-path="url(#clipPath102)" />
     <path
        id="path103"

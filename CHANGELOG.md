@@ -818,3 +818,10 @@
 - Added ArialRoundedMTPro in the "Microsoft" folder in "Fonts".
 - Modified the Rhythm Paradise Fever Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos".
 - Modified the Rhythm Paradise Wiki Logo in "Icons" and "Rhythm Heaven Wiki (2009)".
+
+04/06/2026:
+- Added the Horizontal variant for the Rhythm Heaven Advance Logo in "Rhythm Heaven Advance (2026)".
+- Added the Horizontal variant for the Rhythm Paradise Advance Logo in "Rhythm Heaven Advance (2026)".
+- Modified the Rhythm Heaven Advance GBA Boxart in "Boxarts and Cartridges". (Credit: Borists)
+- Modified the Rhythm Paradise Fever Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos".
+- Modified the Rhythm Paradise Wiki Logo in "Icons" and "Rhythm Heaven Wiki (2009)".
