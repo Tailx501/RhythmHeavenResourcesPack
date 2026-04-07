@@ -825,3 +825,6 @@
 - Modified the Rhythm Heaven Advance GBA Boxart in "Boxarts and Cartridges". (Credit: Borists)
 - Modified the Rhythm Paradise Fever Logo in "Funny, Unique, & Cursed Rhythm Heaven Logos".
 - Modified the Rhythm Paradise Wiki Logo in "Icons" and "Rhythm Heaven Wiki (2009)".
+
+04/07/2026:
+- Modified the front of the Rhythm Heaven Advance GBA Boxart in "Boxarts and Cartridges". (Credit: Borists)
