@@ -853,3 +853,8 @@
 - Modified the Rhythm Tengoku Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
 - Modified the Rhythm Cheonguk Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
 - Modified the Jiézòu Tiānguó Qíjì Zhī Xīng Logo in "Rhythm Heaven Groove (2026)".
+
+04/18/2026:
+- Modified the Groove Style of the RH Modding Logo Icon in "Custom Logos".
+- Modified the Rhythm Heaven Groove Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Paradise Groove Icon in "Icons" and "Rhythm Heaven Groove (2026)".
