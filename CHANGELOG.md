@@ -828,3 +828,28 @@
 
 04/07/2026:
 - Modified the front of the Rhythm Heaven Advance GBA Boxart in "Boxarts and Cartridges". (Credit: Borists)
+
+04/17/2026:
+- Removed the Rhythm Heaven Groove Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
+- Removed the Rhythm Paradise Groove Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
+- Removed the Rhythm Tengoku Miracle Stars Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
+- Removed the Rhythm Cheonguk Miracle Stars Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
+- Removed the Jiézòu Tiānguó Qíjì Zhī Xīng Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
+- Added the Groove Style of the RH Modding Logo Icon in "Custom Logos".
+- Added FOT-HummingStd-D in the "Fontworks" folder in "Fonts".
+- Added the Rhythm Heaven Groove Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Added the Rhythm Paradise Groove Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Added the Rhythm Tengoku Miracle Stars Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Added the Rhythm Cheonguk Miracle Stars Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Added the Jiézòu Tiānguó Qíjì Zhī Xīng Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Alternative variant of the Tranditional Jiézòu Tiānguó Logo in "Custom Logos".
+- Modified the Groove Style of the RH Modding Logo in "Custom Logos".
+- Modified the Rhythm Cheonguk Logo in "Custom Logos".
+- Modified the Rhythm Cheonguk Wii Logo in "Custom Logos".
+- Modified the Rhythm Cheonguk: The Best Plus Logo in "Custom Logos".
+- Modified the Rhythm World: Miracle Stars Logo in "Custom Logos".
+- Modified the Rhythm Heaven Groove Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Paradise Groove Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Tengoku Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Cheonguk Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Jiézòu Tiānguó Qíjì Zhī Xīng Logo in "Rhythm Heaven Groove (2026)".
