@@ -861,3 +861,10 @@
 
 04/19/2026:
 - Modified the Rhythm Cheonguk: Miracle Stars Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+
+04/20/2026:
+- Added the Rhythm Heaven Groove Thumbnail in "Thumbnails".
+- Added the Rhythm Paradise Groove Thumbnail in "Thumbnails".
+- Added the Rhythm Tengoku: Miracle Stars Thumbnail in "Thumbnails".
+- Added the Rhythm Cheonguk: Miracle Stars Thumbnail in "Thumbnails".
+- Added the Jiézòu Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
