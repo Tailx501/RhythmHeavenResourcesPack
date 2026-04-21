@@ -868,3 +868,6 @@
 - Added the Rhythm Tengoku: Miracle Stars Thumbnail in "Thumbnails".
 - Added the Rhythm Cheonguk: Miracle Stars Thumbnail in "Thumbnails".
 - Added the Jiézòu Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
+
+04/21/2026:
+- Added the Alternative variant for the Rhythm Tengoku: Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
