@@ -835,7 +835,7 @@
 - Removed the Rhythm Tengoku: Miracle Stars Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
 - Removed the Rhythm Cheonguk: Miracle Stars Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
 - Removed the Jiézòu Tiānguó: Qíjì Zhī Xīng Icon (Tentative) in "Icons" and "Rhythm Heaven Groove (2026)".
-- Added the Groove Style of the RH Modding Logo Icon in "Custom Logos".
+- Added the Groove Style of the RH Modding Icon in "Custom Logos".
 - Added FOT-HummingStd-D in the "Fontworks" folder in "Fonts".
 - Added the Rhythm Heaven Groove Icon in "Icons" and "Rhythm Heaven Groove (2026)".
 - Added the Rhythm Paradise Groove Icon in "Icons" and "Rhythm Heaven Groove (2026)".
@@ -855,7 +855,7 @@
 - Modified the Jiézòu Tiānguó: Qíjì Zhī Xīng Logo in "Rhythm Heaven Groove (2026)".
 
 04/18/2026:
-- Modified the Groove Style of the RH Modding Logo Icon in "Custom Logos".
+- Modified the Groove Style of the RH Modding Icon in "Custom Logos".
 - Modified the Rhythm Heaven Groove Icon in "Icons" and "Rhythm Heaven Groove (2026)".
 - Modified the Rhythm Paradise Groove Icon in "Icons" and "Rhythm Heaven Groove (2026)".
 
@@ -892,3 +892,7 @@
 
 04/28/2026:
 - Modified the Rhythm Heaven Reanimated Logo in "Custom Logos".
+
+04/29/2026:
+- Added the Groove Style of the Paradis du Rythme Doublage Logo in "Custom Logos".
+- Added the Groove Style of the Paradis du Rythme Doublage Icon in "Custom Logos".
