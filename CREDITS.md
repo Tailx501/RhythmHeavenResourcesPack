@@ -4,11 +4,12 @@ Boxarts and Cartridges:
 - Borists: Designed the Rhythm Heaven Advance GBA Boxart and Cartridge
 
 Custom Logos:
-- Borists: Designed the Rhythm Heaven Megamix HD Logo
-- Borists/Tudor_0: Designed the Rhythm Heaven Fever HD Logo
-- HyperNervie: Designed the Simplified Jiézòu Tiānguó Logo
+- Borists: Designed the Rhythm Heaven Fever HD/Rhythm Heaven Megamix HD Logo
+- HyperNervie: Designed the Simplified Jiézòu Tiānguó/Jiézòu Tiānguó Huángjīnbǎn Logo
 - iomkr: RH Craft/Rh Ultra/Rhythm Crossing/Rhythm Discord/Rhythm Hell/קצב גן עדן
+- PangHuoji: Designed the Jiézòu Tiānguó Huángjīnbǎn Logo
 - ThatSharkguy: Rhythm Heaven Heartbeat
+- Tudor_0: Designed the Rhythm Heaven Fever HD Logo
 - ZAZiOs: Ритм Небес
 
 Fonts:

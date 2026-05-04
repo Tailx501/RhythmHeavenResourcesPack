@@ -896,3 +896,6 @@
 04/29/2026:
 - Added the Groove Style of the Paradis du Rythme Doublage Logo in "Custom Logos".
 - Added the Groove Style of the Paradis du Rythme Doublage Icon in "Custom Logos".
+
+05/04/2026:
+- Added the Jiézòu Tiānguó Huángjīnbǎn Logo in "Custom Logos". (Credit: HyperNervie/PangHuoji)
