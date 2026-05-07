@@ -899,3 +899,15 @@
 
 05/04/2026:
 - Added the Jiézòu Tiānguó Huángjīnbǎn Logo in "Custom Logos". (Credit: HyperNervie/PangHuoji)
+
+05/07/2026:
+- Added the "REEJI" folder in "Fonts".
+- Modified the Rhythm Cheonguk: Miracle Stars Bingo Card in "Bingo Cards".
+- Modified the Rhythm Cheonguk Logo in "Custom Logos".
+- Modified the Rhythm Cheonguk Wii Logo in "Custom Logos".
+- Modified the Rhythm Cheonguk: The Best Plus Logo in "Custom Logos".
+- Modified the Rhythm World: Miracle Stars Logo in "Custom Logos".
+- Modified the Rhythm Cheonguk: Miracle Stars Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Canadian Tagline variant for the Rhythm Heaven Logo in "Rhythm Heaven (2008)".
+- Modified the Rhythm Cheonguk: Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Cheonguk: Miracle Stars Thumbnail in "Thumbnails".
