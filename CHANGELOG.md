@@ -911,3 +911,9 @@
 - Modified the Canadian Tagline variant for the Rhythm Heaven Logo in "Rhythm Heaven (2008)".
 - Modified the Rhythm Cheonguk: Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
 - Modified the Rhythm Cheonguk: Miracle Stars Thumbnail in "Thumbnails".
+
+05/08/2026:
+- Added the Australian Tagline variant for the Rhythm Heaven Logo in "Rhythm Heaven (2008)".
+- Modified the American Tagline variant for the Rhythm Heaven Logo in "Rhythm Heaven (2008)".
+- Modified the Canadian Tagline variant for the Rhythm Heaven Logo in "Rhythm Heaven (2008)".
+- Modified the Beta variant of the Rhythm Tengoku Gold Logo in "Rhythm Heaven (2008)".
