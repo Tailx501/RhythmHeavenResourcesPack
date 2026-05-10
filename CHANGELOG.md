@@ -917,3 +917,7 @@
 - Modified the American Tagline variant for the Rhythm Heaven Logo in "Rhythm Heaven (2008)".
 - Modified the Canadian Tagline variant for the Rhythm Heaven Logo in "Rhythm Heaven (2008)".
 - Modified the Beta variant of the Rhythm Tengoku Gold Logo in "Rhythm Heaven (2008)".
+
+05/09/2026:
+- Added the Alternative variant of the Horizontal variant for the Rhythm Heaven Advance Logo in "Rhythm Heaven Advance (2026)".
+- Added the Alternative variant of the Horizontal variant for the Rhythm Paradise Advance Logo in "Rhythm Heaven Advance (2026)".
