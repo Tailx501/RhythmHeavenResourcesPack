@@ -921,3 +921,6 @@
 05/10/2026:
 - Added the Alternative variant of the Horizontal variant for the Rhythm Heaven Advance Logo in "Rhythm Heaven Advance (2026)".
 - Added the Alternative variant of the Horizontal variant for the Rhythm Paradise Advance Logo in "Rhythm Heaven Advance (2026)".
+
+05/11/2026:
+- Added the Ridham Baradays Jruf Logo in "Custom Logos".
