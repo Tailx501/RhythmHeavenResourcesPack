@@ -923,4 +923,5 @@
 - Added the Alternative variant of the Horizontal variant for the Rhythm Paradise Advance Logo in "Rhythm Heaven Advance (2026)".
 
 05/11/2026:
+- Added A-OTF-LalapopStd-DeBold in the "Morisawa" folder in "Fonts".
 - Added the Ridham Baradays Jruf Logo in "Custom Logos".
