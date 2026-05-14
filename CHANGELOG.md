@@ -925,3 +925,7 @@
 05/11/2026:
 - Added A-OTF-LalapopStd-DeBold in the "Morisawa" folder in "Fonts".
 - Added the Ridham Baradays Jruf Logo in "Custom Logos".
+
+05/14/2026:
+- Added the "Yattyan" folder in "Fonts".
+- Added FOT-SeuratPro-UB and FOT-SeuratProN-UB in the "Fontworks (Monotype KK)" folder in "Fonts".
