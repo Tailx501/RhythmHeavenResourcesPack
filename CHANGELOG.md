@@ -929,3 +929,9 @@
 05/14/2026:
 - Added the "Yattyan" folder in "Fonts".
 - Added FOT-SeuratPro-UB and FOT-SeuratProN-UB in the "Fontworks (Monotype KK)" folder in "Fonts".
+
+05/18/2026:
+- Added the "Arphic" folder in "Fonts".
+- Added the "Cyano Hao" folder in "Fonts".
+- Added the "MARUSE | Project U-Fo" folder in "Fonts".
+- Added OptimaLTStd-Black and Source Sans 3 Bold in the "Adobe" folder in "Fonts".
