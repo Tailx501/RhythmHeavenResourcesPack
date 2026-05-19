@@ -935,3 +935,7 @@
 - Added the "Cyano Hao" folder in "Fonts".
 - Added the "MARUSE | Project U-Fo" folder in "Fonts".
 - Added OptimaLTStd-Black and Source Sans 3 Bold in the "Adobe" folder in "Fonts".
+
+05/19/2026:
+- Removed the "OPTI Fonts" folder in "Fonts".
+- Added A-OTF-UDShinGoNTPro-Medium in the "Morisawa" folder in "Fonts".
