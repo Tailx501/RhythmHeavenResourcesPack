@@ -939,3 +939,9 @@
 05/19/2026:
 - Removed the "OPTI Fonts" folder in "Fonts".
 - Added A-OTF-UDShinGoNTPro-Medium in the "Morisawa" folder in "Fonts".
+
+05/20/2026:
+- Modified the Jiézòu Tiānguó: Qíjì Zhī Xīng Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Cheonguk: Miracle Stars Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Jiézòu Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
+- Modified the Rhythm Cheonguk: Miracle Stars Thumbnail in "Thumbnails".
