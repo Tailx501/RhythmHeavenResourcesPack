@@ -946,3 +946,8 @@
 - Modified the Rhythm Cheonguk: Miracle Stars Icon in "Icons" and "Rhythm Heaven Groove (2026)".
 - Modified the Jiézòu Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
 - Modified the Rhythm Cheonguk: Miracle Stars Thumbnail in "Thumbnails".
+
+05/21/2026:
+- Added a뉴굴림2 in the "AsiaFont" folder in "Fonts".
+- Modified the Jiézòu Tiānguó: Qíjì Zhī Xīng Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Jiézòu Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
