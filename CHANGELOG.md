@@ -951,3 +951,8 @@
 - Added a뉴굴림2 in the "AsiaFont" folder in "Fonts".
 - Modified the Jiézòu Tiānguó: Qíjì Zhī Xīng Icon in "Icons" and "Rhythm Heaven Groove (2026)".
 - Modified the Jiézòu Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
+
+05/22/2026:
+- Removed AmasisMTPro-Italic in the "Monotype" folder in "Fonts".
+- Removed the "Parsfont" folder in "Fonts".
+- Added meiryob, timesbd, and timesi in the "Microsoft" folder in "Fonts".
