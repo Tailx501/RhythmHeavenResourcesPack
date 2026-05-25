@@ -956,3 +956,6 @@
 - Removed AmasisMTPro-Italic in the "Monotype" folder in "Fonts".
 - Removed the "Parsfont" folder in "Fonts".
 - Added meiryob, timesbd, and timesi in the "Microsoft" folder in "Fonts".
+
+05/25/2026:
+- Modified the Beat the Beat: Rhythm Paradise Icon in "Icons" and "Rhythm Heaven Fever (2011)".
