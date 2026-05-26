@@ -959,3 +959,6 @@
 
 05/25/2026:
 - Modified the Beat the Beat: Rhythm Paradise Icon in "Icons" and "Rhythm Heaven Fever (2011)".
+
+05/26/2026:
+- Added the "Font910" folder in "Fonts".
