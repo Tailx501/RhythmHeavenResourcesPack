@@ -962,4 +962,10 @@
 
 05/26/2026:
 - Added the "Font910" folder in "Fonts".
-- Added FZDaDXMTJW, FZFWTongQPOPTJW, FZFWZhuZiAOldMinchoM, FZFWZhuZiHeiE, FZLuoDTJW, 方正大黑繁体, 方正飞跃体 简繁 Bold, and 方正飞跃体 简繁 Medium in the "FounderType" folder in "Fonts".
+- Added FZDaDXMTJW, FZFWTongQPOPTJW, FZFWZhuZiAOldMinchoM, FZFWZhuZiHeiE, FZLuoDTJW, 方正大黑繁体, 方正飞跃体 简繁 Bold and 方正飞跃体 简繁 Medium in the "FounderType" folder in "Fonts".
+
+05/27/2026:
+- Removed FZDaDXMTJW, 方正飞跃体 简繁 Bold and 方正飞跃体 简繁 Medium in the "FounderType" folder in "Fonts".
+- Added SourceHanSansSC-Regular in the "Adobe" folder in "Fonts".
+- Added the modified FOT-HummingStd-D Font in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Modified the Alternative variant for the Rhythm Cheonguk: Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
