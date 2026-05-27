@@ -962,4 +962,4 @@
 
 05/26/2026:
 - Added the "Font910" folder in "Fonts".
-- Added FZFWZhuZiAOldMinchoM and FZFWZhuZiHeiE in the "FounderType" folder in "Fonts".
+- Added FZDaDXMTJW, FZFWTongQPOPTJW, FZFWZhuZiAOldMinchoM, FZFWZhuZiHeiE, FZLuoDTJW, 方正大黑繁体, 方正飞跃体 简繁 Bold, and 方正飞跃体 简繁 Medium in the "FounderType" folder in "Fonts".
