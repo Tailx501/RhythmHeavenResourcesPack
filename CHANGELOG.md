@@ -969,3 +969,6 @@
 - Added SourceHanSansSC-Regular in the "Adobe" folder in "Fonts".
 - Added the modified FOT-HummingStd-D Font in the "Fontworks (Monotype KK)" folder in "Fonts".
 - Modified the Alternative variant for the Rhythm Cheonguk: Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
+
+05/29/2026:
+- Added the "FONTRIX" folder in "Fonts".
