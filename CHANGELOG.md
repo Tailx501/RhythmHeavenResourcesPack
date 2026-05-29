@@ -972,3 +972,5 @@
 
 05/29/2026:
 - Added the "FONTRIX" folder in "Fonts".
+- Added the Vertical Wordmark variant of the Minna no Rhythm Tengoku Complete Vocal Collection Logo in "Rhythm Tengoku Complete Music Collection".
+- Added the Vertical Wordmark variant of the Rhythm Tengoku Gold Domestic and Overseas Editions Complete Vocal Collection Logo in "Rhythm Tengoku Complete Music Collection".
