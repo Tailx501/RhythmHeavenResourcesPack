@@ -977,3 +977,7 @@
 
 05/30/2026:
 - Added NitalagoRuika 06 in the "Adobe" folder in "Fonts".
+
+06/01/2026:
+- Added the "VDL" folder in "Fonts".
+- Added Toppan BunkyuMidashiGoStd EB and Toppan BunkyuMidashiGoStdN EB in the "Adobe" folder in "Fonts".
