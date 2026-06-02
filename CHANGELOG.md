@@ -981,3 +981,10 @@
 06/01/2026:
 - Added the "VDL" folder in "Fonts".
 - Added Toppan BunkyuMidashiGoStd EB and Toppan BunkyuMidashiGoStdN EB in the "Adobe" folder in "Fonts".
+
+06/02/2026:
+- Added the Alternative variant for the Jiézòu Tiānguó: Qíjì Zhī Xīng Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Jiézòu Tiānguó: Qíjì Zhī Xīng Bingo Card in "Bingo Cards".
+- Modified the Jiézòu Tiānguó: Qíjì Zhī Xīng Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Jiézòu Tiānguó: Qíjì Zhī Xīng Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Jiézòu Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
