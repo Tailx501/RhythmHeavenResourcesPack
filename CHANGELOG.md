@@ -992,3 +992,7 @@
 06/04/2026:
 - Modified the Jiézòu Tiānguó: Qíjì Zhī Xīng Icon in "Icons" and "Rhythm Heaven Groove (2026)".
 - Modified the Jiézòu Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
+
+06/07/2026:
+- Added FranklinGothic URW Heavy in the "American Type Founders" folder in "Fonts".
+- Added HGRSGU in the "RICOH" folder in "Fonts".
