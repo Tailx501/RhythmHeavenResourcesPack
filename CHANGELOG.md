@@ -997,3 +997,7 @@
 - Added FranklinGothic URW Heavy in the "American Type Founders" folder in "Fonts".
 - Added HelveticaLTStd-Light in the "Letraset" folder in "Fonts".
 - Added HGRSGU in the "RICOH" folder in "Fonts".
+
+06/08/2026:
+- Removed HelveticaLTStd-Light in the "Letraset" folder in "Fonts".
+- Added the "Yuanti" folder in "Fonts".
