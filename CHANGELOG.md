@@ -1001,3 +1001,9 @@
 06/08/2026:
 - Removed HelveticaLTStd-Light in the "Letraset" folder in "Fonts".
 - Added the "Yuanti" folder in "Fonts".
+
+06/09/2026:
+- Added the "Arrow Type" folder in "Fonts".
+- Added the "AtozLab" folder in "Fonts".
+- Added FOT-CaratStd-UB, FOT-RaglanPunchStd-UB and FOT-YurukaStd-UB in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Added A-OTF-MaruFoPro-Bold and A-OTF-MaruFoPro-Medium in the "Morisawa" folder in "Fonts".
