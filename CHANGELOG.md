@@ -1009,5 +1009,7 @@
 - Added A-OTF-MaruFoPro-Bold and A-OTF-MaruFoPro-Medium in the "Morisawa" folder in "Fonts".
 
 06/12/2026:
+- Removed AbadiMTPro-ExtraBold in the "Monotype" folder in "Fonts".
 - Added the "Suzukimemo" folder in "Fonts".
+- Added AbadiMTPro-Bold in the "Monotype" folder in "Fonts".
 - Added VDL-GigaJr-Bold, VDL-GigaJr-ExtraBold, VDL-GigaJr-Ultra, VDL-GigaMaru-ExtraBold, VDL-GigaMaruJr-ExtraBold, VDL-GigaMaruJr-Ultra, VDL-LineG-Bold, VDL-LineG-Heavy, and VDL-LogoG-Heavy in the "VDL" folder in "Fonts".
