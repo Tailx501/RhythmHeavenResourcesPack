@@ -1016,3 +1016,7 @@
 
 06/13/2026:
 - Added the "Hakusyu Fonts" folder in "Fonts".
+
+06/14/2026:
+- Added the "Sandoll" folder in "Fonts".
+- Added 210 Ssanai Bold and Montserrat Alternates Medium in the "Adobe" folder in "Fonts".
