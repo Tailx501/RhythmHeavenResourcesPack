@@ -1020,3 +1020,6 @@
 06/14/2026:
 - Added the "Sandoll" folder in "Fonts".
 - Added 210 Ssanai Bold and Montserrat Alternates Medium in the "Adobe" folder in "Fonts".
+
+06/15/2026:
+- Added FOT-KsoKanteiryu in the "Fontworks (Monotype KK)" folder in "Fonts".
