@@ -1024,3 +1024,6 @@
 06/15/2026:
 - Added FOT-KsoKanteiryu in the "Fontworks (Monotype KK)" folder in "Fonts".
 - Added MWindy HK Bold and MWindy PRC Bold in the "Monotype" folder in "Fonts".
+
+06/16/2026:
+- Added ArialRoundedMTPro-Bold and ArialRoundedMTPro-ExtraBold in the "Microsoft" folder in "Fonts".
