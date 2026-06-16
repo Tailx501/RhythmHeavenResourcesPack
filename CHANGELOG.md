@@ -1026,4 +1026,5 @@
 - Added MWindy HK Bold and MWindy PRC Bold in the "Monotype" folder in "Fonts".
 
 06/16/2026:
+- Added Nunito Bold Italic and Nunito Bold in the "Adobe" folder in "Fonts".
 - Added ArialRoundedMTPro-Bold and ArialRoundedMTPro-ExtraBold in the "Microsoft" folder in "Fonts".
