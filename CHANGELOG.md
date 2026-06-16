@@ -1023,3 +1023,4 @@
 
 06/15/2026:
 - Added FOT-KsoKanteiryu in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Added MWindy HK Bold and MWindy PRC Bold in the "Monotype" folder in "Fonts".
