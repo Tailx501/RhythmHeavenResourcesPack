@@ -1026,5 +1026,8 @@
 - Added MWindy HK Bold and MWindy PRC Bold in the "Monotype" folder in "Fonts".
 
 06/16/2026:
+- Removed the "Yuanti" folder in "Fonts".
 - Added Nunito Bold Italic and Nunito Bold in the "Adobe" folder in "Fonts".
 - Added ArialRoundedMTPro-Bold and ArialRoundedMTPro-ExtraBold in the "Microsoft" folder in "Fonts".
+- Added A-OTF-ShinMGoPr6-Bold, A-OTF-ShinMGoPr6-Regular, A-OTF-ShinMGoPr6-Ultra, A-OTF-ShinMGoPr6N-Regular, A-OTF-ShinMGoPr6N-Bold, A-OTF-ShinMGoPro-Regular, and A-OTF-ShinMGoPro-Ultra in the "Morisawa" folder in "Fonts".
+- Added VDL-GigaMaru-Ultra and VDL-LogoJr-Ultra in the "VDL" folder in "Fonts".
