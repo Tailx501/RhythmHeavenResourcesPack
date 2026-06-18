@@ -1034,3 +1034,4 @@
 
 06/18/2026:
 - Added the "Aratakana" folder in "Fonts".
+- Added NotoSansTC-Medium in the "Adobe" folder in "Fonts".
