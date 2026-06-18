@@ -1031,3 +1031,6 @@
 - Added ArialRoundedMTPro-Bold and ArialRoundedMTPro-ExtraBold in the "Microsoft" folder in "Fonts".
 - Added A-OTF-ShinMGoPr6-Bold, A-OTF-ShinMGoPr6-Regular, A-OTF-ShinMGoPr6-Ultra, A-OTF-ShinMGoPr6N-Regular, A-OTF-ShinMGoPr6N-Bold, A-OTF-ShinMGoPro-Regular, and A-OTF-ShinMGoPro-Ultra in the "Morisawa" folder in "Fonts".
 - Added VDL-GigaMaru-Ultra and VDL-LogoJr-Ultra in the "VDL" folder in "Fonts".
+
+06/18/2026:
+- Added the "Aratakana" folder in "Fonts".
