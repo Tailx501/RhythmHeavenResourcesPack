@@ -1035,3 +1035,6 @@
 06/18/2026:
 - Added the "Aratakana" folder in "Fonts".
 - Added NotoSansTC-Medium in the "Adobe" folder in "Fonts".
+
+06/20/2026:
+- Added DFBloom SC2 W5 in the "DynaFont" folder in "Fonts".
