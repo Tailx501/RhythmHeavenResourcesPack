@@ -1038,3 +1038,6 @@
 
 06/20/2026:
 - Added DFBloom SC2 W5 in the "DynaFont" folder in "Fonts".
+
+06/21/2026:
+- Added FZLTHB, 方正兰亭特黑简体, and 方正兰亭特黑繁体 in the "FounderType" folder in "Fonts".
