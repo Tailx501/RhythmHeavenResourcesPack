@@ -1042,3 +1042,7 @@
 06/21/2026:
 - Added FZLTHB, 方正兰亭特黑简体, and 方正兰亭特黑繁体 in the "FounderType" folder in "Fonts".
 - Modified the Beat the Beat: Rhythm Paradise Icon in "Icons" and "Rhythm Heaven Fever (2011)".
+
+06/22/2026:
+- Added Noto Sans CJK JP Medium and Noto Sans CJK KR Medium in the "Adobe" folder in "Fonts".
+- Added a개구쟁이, a뉴굴림3, a뉴굴림4, and a하이라이트 in the "AsiaFont" folder in "Fonts".
