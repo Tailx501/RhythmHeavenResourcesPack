@@ -1041,3 +1041,4 @@
 
 06/21/2026:
 - Added FZLTHB, 方正兰亭特黑简体, and 方正兰亭特黑繁体 in the "FounderType" folder in "Fonts".
+- Modified the Beat the Beat: Rhythm Paradise Icon in "Icons" and "Rhythm Heaven Fever (2011)".
