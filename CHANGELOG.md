@@ -1045,4 +1045,5 @@
 
 06/22/2026:
 - Added Noto Sans CJK JP Medium and Noto Sans CJK KR Medium in the "Adobe" folder in "Fonts".
+- Added ARYuanB5Heavy (Missing) in the "Arphic" folder in "Fonts".
 - Added a개구쟁이, a뉴굴림3, a뉴굴림4, and a하이라이트 in the "AsiaFont" folder in "Fonts".
