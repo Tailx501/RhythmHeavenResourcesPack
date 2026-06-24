@@ -1047,3 +1047,22 @@
 - Added Noto Sans CJK JP Medium and Noto Sans CJK KR Medium in the "Adobe" folder in "Fonts".
 - Added ARYuanB5Heavy (Missing) in the "Arphic" folder in "Fonts".
 - Added a개구쟁이, a뉴굴림3, a뉴굴림4, and a하이라이트 in the "AsiaFont" folder in "Fonts".
+
+06/23/2026:
+- Removed DFBloom SC2 W5 in the "DynaFont" folder in "Fonts".
+- Added a가을소풍B, a금강산, a꼴통로봇, a꽃가람, a댄스퀸M, a사리꽃B, a샤샤, and a선인장 in the "AsiaFont" folder in "Fonts".
+- Added DFP-Bloom-W5, DFP-CraftKANKAN-W5, DFP-HorrorA-W5, DFPT_BB5, DFPT_BE, DFPT_DD3, DFPT_HBC, DFPT_KW3, DFPT_LF3, DFPT_LF7, DFPT_LX9, DFPT_MO9, DFPT_SY7, DFPT_T9, DFPT_Y8, and DFPT_ZY9 in the "DynaFont" folder in "Fonts".
+- Added FOT-HaruNagomiStd-L, FOT-HummingProN-B, FOT-HummingProN-D, and FOT-PalRetronStd-B in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Added FZBangSXJW, FZCTHJW, FZFeiYiTJW-EB, FZGongYHJW, FZHuoYYJW-H, FZHZGBJW, FZLTCHB, FZLTZHUNHB, FZMiaoWuK, FZShuangQTJF_Te, FZTLJW, FZYaZTJF_Te, FZYinSJW-EB, FZYongKTJF_Te, FZZhengYJW-B, FZZhengYJW-R, FZZhengYJW-R_subset, and FZZJ-LTPGLJW in the "FounderType" folder in "Fonts".
+- Added VDL-GigaMaru-Ultra_ext in the "VDL" folder in "Fonts".
+- Added FOTK-YoonGulimPro770 and FOTK-YoonGulimPro780 in the "YoonDesign" folder in "Fonts".
+- Added the Simplified Jiézòu Tiānguó: Qíjì Zhī Xīng Logo in "Rhythm Heaven Groove (2026)".
+- Added the Simplified Jiézòu Tiānguó: Qíjì Zhī Xīng Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Added the Simplified Jiézòu Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
+- Modified the Alternative variant of the Tranditional Jiézòu Tiānguó Logo in "Custom Logos".
+- Modified the Tranditional Jiézòu Tiānguó Logo in "Custom Logos".
+- Modified the Alternative variant of the Simplified Jiézòu Tiānguó Logo in "Custom Logos".
+- Modified the Simplified Jiézòu Tiānguó Logo in "Custom Logos".
+- Modified the Tranditional Jiézòu Tiānguó: Qíjì Zhī Xīng Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Tranditional Tiānguó: Qíjì Zhī Xīng Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Tranditional Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
