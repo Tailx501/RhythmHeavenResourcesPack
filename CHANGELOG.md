@@ -1075,4 +1075,5 @@
 - Modified the Tranditional Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
 
 06/25/2026:
+- Added 方正卡通_GB18030, 方正卡通_GBK, and 方正正准黑_GBK in the "FounderType" folder in "Fonts".
 - Modified the Alternative variant of the Rhythm Gehenna Groove Logo in "Custom Logos".
