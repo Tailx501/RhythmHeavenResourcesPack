@@ -1077,3 +1077,39 @@
 06/25/2026:
 - Added 方正卡通_GB18030, 方正卡通_GBK, and 方正正准黑_GBK in the "FounderType" folder in "Fonts".
 - Modified the Alternative variant of the Rhythm Gehenna Groove Logo in "Custom Logos".
+
+07/02/2026:
+- Removed the "Bingo Cards" folder.
+- Added the "MoolongType" folder in "Fonts".
+- Added VDL-GigaG-Ultra in the "VDL" folder in "Fonts".
+- Added the Alternative variant of HyperNervie's Simplified Jiézòu Tiānguó Logo in "Custom Logos". (Credit: HyperNervie)
+- Added HyperNervie's Simplified Jiézòu Tiānguó Logo in "Custom Logos". (Credit: HyperNervie)
+- Modified the Alternative variant of the Tranditional Jiézòu Tiānguó Logo in "Custom Logos".
+- Modified the Tranditional Jiézòu Tiānguó Logo in "Custom Logos".
+- Modified the Alternative variant of the Simplified Jiézòu Tiānguó Logo in "Custom Logos".
+- Modified the Simplified Jiézòu Tiānguó Logo in "Custom Logos".
+- Modified the Groove Style of the Paradis du Rythme Doublage Logo in "Custom Logos".
+- Modified the Groove Style of the Paradis du Rythme Doublage Icon in "Custom Logos".
+- Modified the Groove Style of the RH Modding Logo in "Custom Logos".
+- Modified the Groove Style of the RH Modding Icon in "Custom Logos".
+- Modified the Rhythm Gehenna Groove Logo in "Custom Logos".
+- Modified the Rhythm World: Miracle Stars Logo in "Custom Logos".
+- Modified the Ridham Baradays Jruf Logo in "Custom Logos".
+- Modified the Tranditional Jiézòu Tiānguó: Qíjì Zhī Xīng Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Tranditional Tiānguó: Qíjì Zhī Xīng Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Tranditional Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
+- Modified the Simplified Jiézòu Tiānguó: Qíjì Zhī Xīng Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Simplified Tiānguó: Qíjì Zhī Xīng Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Simplified Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
+- Modified the Rhythm Cheonguk: Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Cheonguk: Miracle Stars Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Cheonguk: Miracle Stars Thumbnail in "Thumbnails".
+- Modified the Rhythm Heaven Groove Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Heaven Groove Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Heaven Groove Thumbnail in "Thumbnails".
+- Modified the Rhythm Paradise Groove Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Paradise Groove Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Paradise Groove Thumbnail in "Thumbnails".
+- Modified the Rhythm Tengoku: Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Tengoku: Miracle Stars Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Tengoku: Miracle Stars Thumbnail in "Thumbnails".
