@@ -457,8 +457,8 @@
 - Added MSGOTHIC and MSMINCHO to the "Microsoft" folder in "Fonts".
 - Added nintendo_udsgr_std_003 and rodin_lat_cy_ja_ko_spec in the "Nintendo Fonts" folder in "Fonts".
 - Added HGRGY in the "RICOH" folder in "Fonts".
-- Moved ProtoSans51 in the "Abstrkt" folder in "Fonts".
-- Moved MassivaGrotesQ in the "Dawnland" folder in "Fonts".
+- Moved ProtoSans51 to the "Abstrkt" folder in "Fonts".
+- Moved MassivaGrotesQ to the "Dawnland" folder in "Fonts".
 - Moved HoboStd to the "Letraset" folder in "Fonts".
 - Moved Frankfurter Highlight, Frankfurter Regular, and Pump Bold to the "Letraset" folder in "Fonts".
 - Moved EurostileLTProUnicode-Demi and the Helvetica Fonts to the "Letraset" folder in "Fonts".
@@ -1081,7 +1081,12 @@
 07/02/2026:
 - Removed the "Bingo Cards" folder.
 - Added the "MoolongType" folder in "Fonts".
+- Added the "Toppan" folder in "Fonts".
+- Added the "Type-Labo" folder in "Fonts".
+- Added the "Typejockeys" folder in "Fonts".
 - Added VDL-GigaG-Ultra in the "VDL" folder in "Fonts".
+- Moved Toppan BunkyuMidashiGoStd EB and Toppan BunkyuMidashiGoStdN EB to the "Toppan" folder in "Fonts".
+- Moved NitalagoRuika 06 to the "Type-Labo" folder in "Fonts".
 - Added the Alternative variant of HyperNervie's Simplified Jiézòu Tiānguó Logo in "Custom Logos". (Credit: HyperNervie)
 - Added HyperNervie's Simplified Jiézòu Tiānguó Logo in "Custom Logos". (Credit: HyperNervie)
 - Modified the Alternative variant of the Tranditional Jiézòu Tiānguó Logo in "Custom Logos".
