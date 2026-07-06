@@ -1118,3 +1118,22 @@
 - Modified the Rhythm Tengoku: Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
 - Modified the Rhythm Tengoku: Miracle Stars Icon in "Icons" and "Rhythm Heaven Groove (2026)".
 - Modified the Rhythm Tengoku: Miracle Stars Thumbnail in "Thumbnails".
+
+07/06/2026:
+- Added the "Adam Ladd" folder in "Fonts".
+- Added the "Bijou Type" folder in "Fonts".
+- Added the "Comicraft" folder in "Fonts".
+- Added the "Dharma Type" folder in "Fonts".
+- Added the "Fontfabric" folder in "Fonts".
+- Added the "Fort Foundry" folder in "Fonts".
+- Added the "Hannes von Döhren" folder in "Fonts".
+- Added the "Lanston Type Company" folder in "Fonts".
+- Added the "Laura Worthington" folder in "Fonts".
+- Added the "PintassilgoPrints" folder in "Fonts".
+- Added the "Steve Jackaman" folder in "Fonts".
+- Added the "Type-Ø-Tones" folder in "Fonts".
+- Added the "Yellow Design Studio" folder in "Fonts".
+- Added Droog Heavy in the "Device Fonts" folder in "Fonts".
+- Added FZZhengYJW-EB in the "FounderType" folder in "Fonts".
+- Added BodoniOldFasURWTOT-Reg in the "URW++" folder in "Fonts".
+
