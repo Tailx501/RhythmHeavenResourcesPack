@@ -1137,3 +1137,13 @@
 - Added FZZhengYJW-EB in the "FounderType" folder in "Fonts".
 - Added BodoniOldFasURWTOT-Reg in the "URW++" folder in "Fonts".
 
+07/19/2026:
+- Added the Tranditional Jiézòu Tiānguó: Qíjì Zhī Xīng Repainted Logo in "Custom Logos".
+- Added the Simplified Jiézòu Tiānguó: Qíjì Zhī Xīng Repainted Logo in "Custom Logos".
+- Added the Rhythm Cheonguk: Miracle Stars Repainted Logo in "Custom Logos".
+- Added the Rhythm Heaven Groove Repainted Logo in "Custom Logos".
+- Added the Rhythm Paradise Groove Repainted Logo in "Custom Logos".
+- Added the Rhythm Tengoku: Miracle Stars Repainted Logo in "Custom Logos".
+- Added the Ridham Baradays Logo in "Custom Logos".
+- Modified the Beat the Beat: Rhythm Paradise Logo "Rhythm Heaven Fever (2011)". (Credit: Elnelson991)
+- Modified the Beat the Beat: Rhythm Paradise Icon in "Icons" and "Rhythm Heaven Fever (2011)".
