@@ -35,10 +35,13 @@ Heaven Studio:
 Icons:
 - iomkr: VS
 
-Rhythm Heaven Advance:
+Rhythm Heaven Advance (2026):
 - cazusuperlol: Designed the Rhythm Heaven Advance (ESP) Logo
 - Mizu: Designed the Rhythm Tengoku+ Logo
 - vincells: Designed the Rhythm Heaven Advance Logo
+
+Rhythm Heaven Fever (2011):
+- Elnelson991: Recreated the Beat the Beat: Rhythm Paradise Logo
 
 Rhythm Heaven Re-Megamix:
 - patataofcourse: Designed the Rhythm Heaven Re-Megamix Logo
