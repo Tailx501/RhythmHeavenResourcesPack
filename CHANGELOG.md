@@ -1151,3 +1151,10 @@
 07/20/2026:
 - Added the SVG file for the Beat the Beat: Rhythm Paradise Logo "Rhythm Heaven Fever (2011)". (Credit: Elnelson991)
 - Added the SVG file for the Beat the Beat: Rhythm Paradise Icon in "Rhythm Heaven Fever (2011)". (Credit: Elnelson991)
+
+07/21/2026:
+- Removed the "Heumm" folder in "Fonts".
+- Added a태고딕 as a blank file and labeling it missing in the "AsiaFont" folder in "Fonts".
+- Added the Alternative variant for the Beat the Beat: Rhythm Paradise Logo "Rhythm Heaven Fever (2011)". (Credit: Elnelson991)
+- Modified the SVG file for the Beat the Beat: Rhythm Paradise Logo "Rhythm Heaven Fever (2011)". (Credit: Elnelson991)
+- Modified the SVG file for the Beat the Beat: Rhythm Paradise Icon in "Rhythm Heaven Fever (2011)". (Credit: Elnelson991)
