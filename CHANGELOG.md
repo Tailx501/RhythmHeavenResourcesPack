@@ -1045,7 +1045,7 @@
 
 06/22/2026:
 - Added Noto Sans CJK JP Medium and Noto Sans CJK KR Medium in the "Adobe" folder in "Fonts".
-- Added ARYuanB5Heavy (Missing) in the "Arphic" folder in "Fonts".
+- Added ARYuanB5Heavy as a blank file and labeling it missing in the "Arphic" folder in "Fonts".
 - Added a개구쟁이, a뉴굴림3, a뉴굴림4, and a하이라이트 in the "AsiaFont" folder in "Fonts".
 
 06/23/2026:
@@ -1158,3 +1158,7 @@
 - Added the Alternative variant for the Beat the Beat: Rhythm Paradise Logo "Rhythm Heaven Fever (2011)". (Credit: Elnelson991)
 - Modified the SVG file for the Beat the Beat: Rhythm Paradise Logo "Rhythm Heaven Fever (2011)". (Credit: Elnelson991)
 - Modified the SVG file for the Beat the Beat: Rhythm Paradise Icon in "Rhythm Heaven Fever (2011)". (Credit: Elnelson991)
+
+07/26/2026:
+- Removed FOT-HummingStd-D (Nintendo Modified) in the "Fontworks (Monotype KK)" folder in "Fonts".
+- Added FOT-HummingProN-D (Nintendo Modified) in the "Fontworks (Monotype KK)" folder in "Fonts".
