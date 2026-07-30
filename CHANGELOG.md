@@ -1167,3 +1167,6 @@
 - Removed a태고딕 in the "AsiaFont" folder in "Fonts".
 - Added a특고딕 as a blank file and labeling it missing in the "AsiaFont" folder in "Fonts".
 - Modified FOT-HummingProN-D (Nintendo Modified) in the "Fontworks (Monotype KK)" folder in "Fonts".
+
+07/30/2026:
+- Modified FOT-HummingProN-D (Nintendo Modified) in the "Fontworks (Monotype KK)" folder in "Fonts".
