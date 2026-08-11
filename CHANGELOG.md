@@ -1170,3 +1170,15 @@
 
 07/30/2026:
 - Modified FOT-HummingProN-D (Nintendo Modified) in the "Fontworks (Monotype KK)" folder in "Fonts".
+
+08/11/2026:
+- Added the "Vernon Adams" folder in "Fonts".
+- Added Noto Sans CJK JP Regular in the "Adobe" folder in "Fonts".
+- Added FontOriginalLatin and FontOriginalLatin in the "Custom Fonts" folder in "Fonts".
+- Added Nunito Light in the "Vernon Adams" folder in "Fonts".
+- Moved Nunito Bold Italic and the Nunito Bold to the "Vernon Adams" folder in "Fonts".
+- Added the Ridham Baradays Icon in "Custom Logos".
+- Added the Alternative variant for the Ridham Baradays Logo in "Custom Logos".
+- Added the Beat the Beat: Rhythm Paradise The Soundtrack Logo "Rhythm Tengoku Complete Music Collection". (Credit: Elnelson991)
+- Added the Beat the Beat: Rhythm Paradise The Soundtrack Icon in "Icons" and "Rhythm Tengoku Complete Music Collection".
+- Added the Ridham Baradays Thumbnail in "Thumbnails".

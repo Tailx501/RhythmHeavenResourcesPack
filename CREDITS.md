@@ -46,6 +46,9 @@ Rhythm Heaven Fever (2011):
 Rhythm Heaven Re-Megamix:
 - patataofcourse: Designed the Rhythm Heaven Re-Megamix Logo
 
+Rhythm Tengoku Complete Music Collection:
+- Elnelson991: Recreated the Beat the Beat: Rhythm Paradise The Soundtrack Logo
+
 Thumbnails:
 - GilvaSunner/SilvaGunner: Rhythm Heaven/Rhythm Heaven Fever
 - iomkr: Rhythm Heaven Groove
