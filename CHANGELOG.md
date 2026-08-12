@@ -1182,3 +1182,14 @@
 - Added the Beat the Beat: Rhythm Paradise The Soundtrack Logo "Rhythm Tengoku Complete Music Collection". (Credit: Elnelson991)
 - Added the Beat the Beat: Rhythm Paradise The Soundtrack Icon in "Icons" and "Rhythm Tengoku Complete Music Collection".
 - Added the Ridham Baradays Thumbnail in "Thumbnails".
+
+08/12/2026:
+- Modified the Groove Style of the Paradis du Rythme Doublage Logo in "Custom Logos".
+- Modified the Groove Style of the Paradis du Rythme Doublage Icon in "Custom Logos".
+- Modified the Rhythm Gehenna Groove Logo in "Custom Logos".
+- Modified the Alternative variant of the Rhythm Gehenna Groove Logo in "Custom Logos".
+- Modified the Rhythm Paradise Groove Repainted Logo in "Custom Logos".
+- Modified the Ridham Baradays Jruf Logo in "Custom Logos".
+- Modified the Rhythm Paradise Groove Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Paradise Groove Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Paradise Groove Thumbnail in "Thumbnails".
