@@ -1184,6 +1184,8 @@
 - Added the Ridham Baradays Thumbnail in "Thumbnails".
 
 08/12/2026:
+- Added the Wordmark variant for the Beat the Beat: Rhythm Paradise Logo "Rhythm Heaven Fever (2011)".
+- Added the Wordmark variant for the Beat the Beat: Rhythm Paradise The Soundtrack Logo "Rhythm Tengoku Complete Music Collection".
 - Modified the Groove Style of the Paradis du Rythme Doublage Logo in "Custom Logos".
 - Modified the Groove Style of the Paradis du Rythme Doublage Icon in "Custom Logos".
 - Modified the Rhythm Gehenna Groove Logo in "Custom Logos".
