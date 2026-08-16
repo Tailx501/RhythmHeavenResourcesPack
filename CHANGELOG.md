@@ -1206,3 +1206,11 @@
 - Modified the Rhythm Paradise Groove Logo in "Rhythm Heaven Groove (2026)".
 - Modified the Rhythm Paradise Groove Icon in "Icons" and "Rhythm Heaven Groove (2026)".
 - Modified the Rhythm Paradise Groove Thumbnail in "Thumbnails".
+
+08/16/2026:
+- Added the Rhythm Paradise Advance GBA Boxart in "Boxarts and Cartridges".
+- Added the Rhythm Paradise Advance GBA Cartridge in "Boxarts and Cartridges".
+- Added the Rhythm Paradise Advance (AUS) GBA Boxart in "Boxarts and Cartridges".
+- Added the Rhythm Paradise Advance (AUS) GBA Cartridge in "Boxarts and Cartridges".
+- Added the Rhythm Paradise Advance (FRA) GBA Boxart in "Boxarts and Cartridges".
+- Added the Rhythm Paradise Advance (FRA) GBA Cartridge in "Boxarts and Cartridges".
