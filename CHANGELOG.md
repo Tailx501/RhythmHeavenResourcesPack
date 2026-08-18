@@ -1174,7 +1174,7 @@
 08/11/2026:
 - Added the "Vernon Adams" folder in "Fonts".
 - Added Noto Sans CJK JP Regular in the "Adobe" folder in "Fonts".
-- Added FontOriginalLatin and FontOriginalLatin in the "Custom Fonts" folder in "Fonts".
+- Added FontAdvanceLatin and FontOriginalLatin in the "Custom Fonts" folder in "Fonts".
 - Added Nunito Light in the "Vernon Adams" folder in "Fonts".
 - Moved Nunito Bold Italic and the Nunito Bold to the "Vernon Adams" folder in "Fonts".
 - Added the Ridham Baradays Icon in "Custom Logos".
@@ -1214,3 +1214,6 @@
 - Added the Rhythm Paradise Advance (AUS) GBA Cartridge in "Boxarts and Cartridges".
 - Added the Rhythm Paradise Advance (FRA) GBA Boxart in "Boxarts and Cartridges".
 - Added the Rhythm Paradise Advance (FRA) GBA Cartridge in "Boxarts and Cartridges".
+
+08/17/2026:
+- Modified FontAdvanceLatin in the "Custom Fonts" folder in "Fonts".
