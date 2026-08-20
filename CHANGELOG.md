@@ -1217,3 +1217,10 @@
 
 08/17/2026:
 - Modified FontAdvanceLatin in the "Custom Fonts" folder in "Fonts".
+
+08/20/2026:
+- Removed BodoniOldFasURWTOT-Reg in the "URW++" folder in "Fonts".
+- Removed Thirsty Script Medium in the "Yellow Design Studio" folder in "Fonts".
+- Added the "Dai Nippon Printing" folder in "Fonts".
+- Added DNPShuei4goBStd Hv, DNPShueiNShogoMinStd Hv and the DNPShueiShogoMinStd Hv to the "Dai Nippon Printing" folder in "Fonts".
+- Added Thirsty Rough Reg Two Regular in the "Yellow Design Studio" folder in "Fonts".
