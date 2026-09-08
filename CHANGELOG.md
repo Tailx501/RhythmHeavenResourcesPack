@@ -1224,3 +1224,6 @@
 - Added the "Dai Nippon Printing" folder in "Fonts".
 - Added DNPShuei4goBStd Hv, DNPShueiNShogoMinStd Hv and the DNPShueiShogoMinStd Hv to the "Dai Nippon Printing" folder in "Fonts".
 - Added Thirsty Rough Reg Two Regular in the "Yellow Design Studio" folder in "Fonts".
+
+09/08/2026:
+- Modified the SVG file for the Rhythm Tengoku (Arcade) Icon in "Rhythm Tengoku (2006)".
