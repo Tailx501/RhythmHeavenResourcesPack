@@ -640,7 +640,7 @@
 - Added a말머리3 and a시월구일굴림4 in the "AsiaFont" folder in "Fonts".
 
 10/27/2025:
-- Updated the modified RodinNTLGPro-DB Font in the "Fontworks" folder in "Fonts".
+- Updated the modified RodinNTLGPro-DB Font in the "Fontworks (Monotype KK)" folder in "Fonts".
 
 11/01/2025:
 - Added a탈영고딕B in the "AsiaFont" folder in "Fonts".
@@ -1227,3 +1227,6 @@
 
 09/08/2026:
 - Modified the SVG file for the Rhythm Tengoku (Arcade) Icon in "Rhythm Tengoku (2006)".
+
+09/13/2026:
+- Updated the modified RodinNTLGPro-DB Font in the "Fontworks (Monotype KK)" folder in "Fonts".
