@@ -1233,3 +1233,7 @@
 
 09/14/2026:
 - Updated the modified RodinNTLGPro-DB Font in the "Fontworks (Monotype KK)" folder in "Fonts".
+
+09/16/2026:
+- Corrected "Horizontial" to "Horizontal" for the Horizontal variant of the Rhythm Heaven Advance Logo in "Rhythm Heaven Advance (2026)".
+- Corrected "Horizontial" to "Horizontal" for the Horizontal variant of the Rhythm Paradise Advance Logo in "Rhythm Heaven Advance (2026)".
