@@ -1241,3 +1241,4 @@
 09/18/2026:
 - Updated FontOriginalLatin in the "Custom Fonts" folder in "Fonts".
 - Added FontOriginalLatinAlt in the "Custom Fonts" folder in "Fonts".
+- Added a로미오L and a로미오M in the "AsiaFont" folder in "Fonts".
