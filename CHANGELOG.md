@@ -1237,3 +1237,7 @@
 09/16/2026:
 - Corrected "Horizontial" to "Horizontal" for the Horizontal variants of the Rhythm Heaven Advance Logo in "Rhythm Heaven Advance (2026)".
 - Corrected "Horizontial" to "Horizontal" for the Horizontal variants of the Rhythm Paradise Advance Logo in "Rhythm Heaven Advance (2026)".
+
+09/18/2026:
+- Updated FontOriginalLatin in the "Custom Fonts" folder in "Fonts".
+- Added FontOriginalLatinAlt in the "Custom Fonts" folder in "Fonts".
