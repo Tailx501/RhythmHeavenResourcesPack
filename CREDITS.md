@@ -14,6 +14,7 @@ Custom Logos:
 
 Fonts:
 - ButlermationsArt: Rhythm Heaven Ringside Font
+- Elnelson991: FeverHD-MainUIRecreation
 - EpicHaxGuy: Go For A Perfect
 - GlitchyPSI: Unlockstep
 - Kitty42777: WarioWare Original
