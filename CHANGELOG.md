@@ -1244,4 +1244,8 @@
 - Added a로미오L and a로미오M in the "AsiaFont" folder in "Fonts".
 
 09/22/2026:
+- Added FeverHD-MainUIRecreation in the "Custom Fonts" folder in "Fonts". (Credit: Elnelson991)
+
+09/25/2026:
+- Added the Rhythm Tengoku: All-Star Mix Logo in "Custom Logos".
 - Updated FeverHD-MainUIRecreation in the "Custom Fonts" folder in "Fonts". (Credit: Elnelson991)
