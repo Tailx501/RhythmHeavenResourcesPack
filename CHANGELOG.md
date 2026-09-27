@@ -1249,3 +1249,8 @@
 09/25/2026:
 - Added the Rhythm Tengoku: All-Star Mix Logo in "Custom Logos".
 - Updated FeverHD-MainUIRecreation in the "Custom Fonts" folder in "Fonts". (Credit: Elnelson991)
+
+09/26/2026:
+- Added FontHangul11 in the "Custom Fonts" folder in "Fonts".
+- Added the Rhythm Heaven Advance Thumbnail in "Thumbnails".
+- Added the Rhythm Paradise Advance Thumbnail in "Thumbnails".
