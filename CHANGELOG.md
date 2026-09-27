@@ -1254,3 +1254,6 @@
 - Added FontHangul11 in the "Custom Fonts" folder in "Fonts".
 - Added the Rhythm Heaven Advance Thumbnail in "Thumbnails".
 - Added the Rhythm Paradise Advance Thumbnail in "Thumbnails".
+
+09/27/2026:
+- Added the RHREfresh Logo in "RHRE (2016)". (Credit: viviancherry)

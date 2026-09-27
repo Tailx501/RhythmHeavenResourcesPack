@@ -36,6 +36,9 @@ Heaven Studio:
 Icons:
 - iomkr: VS
 
+RHRE (2016):
+- viviancherry: Designed the RHREfresh Logo
+
 Rhythm Heaven Advance (2026):
 - cazusuperlol: Designed the Rhythm Heaven Advance (ESP) Logo
 - Mizu: Designed the Rhythm Tengoku+ Logo

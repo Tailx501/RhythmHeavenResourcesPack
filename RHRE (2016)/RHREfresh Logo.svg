@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   preserveAspectRatio="none"
+   x="0px"
+   y="0px"
+   width="666.66669"
+   height="623.00653"
+   viewBox="0 0 666.66669 623.00653"
+   id="svg1434"
+   sodipodi:docname="RHREfresh Logo.svg"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1436"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="2.5581395"
+     inkscape:cx="253.30909"
+     inkscape:cy="236.5"
+     inkscape:window-width="2560"
+     inkscape:window-height="1412"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1434" />
+  <defs
+     id="defs1263">
+    <linearGradient
+       id="Gradient_1"
+       gradientUnits="userSpaceOnUse"
+       x1="250"
+       y1="204.4875"
+       x2="250"
+       y2="0.0125"
+       spreadMethod="pad">
+      <stop
+         offset="0%"
+         stop-color="#FF7DAF"
+         id="stop1152" />
+      <stop
+         offset="100%"
+         stop-color="#FFD8E7"
+         id="stop1154" />
+    </linearGradient>
+    <linearGradient
+       id="Gradient_2"
+       gradientUnits="userSpaceOnUse"
+       x1="250.875"
+       y1="174.89999"
+       x2="249.22501"
+       y2="27.299999"
+       spreadMethod="pad">
+      <stop
+         offset="0%"
+         stop-color="#350031"
+         id="stop1157" />
+      <stop
+         offset="100%"
+         stop-color="#880D55"
+         id="stop1159" />
+    </linearGradient>
+    <linearGradient
+       id="Gradient_3"
+       gradientUnits="userSpaceOnUse"
+       x1="102.525"
+       y1="182.5"
+       x2="81.175003"
+       y2="-5"
+       spreadMethod="pad">
+      <stop
+         offset="0%"
+         stop-color="#FFCEE0"
+         id="stop1162" />
+      <stop
+         offset="100%"
+         stop-color="#FFFAFC"
+         id="stop1164" />
+    </linearGradient>
+    <linearGradient
+       id="Gradient_4"
+       gradientUnits="userSpaceOnUse"
+       x1="192"
+       y1="135.10001"
+       x2="192"
+       y2="42.400002"
+       spreadMethod="pad">
+      <stop
+         offset="27.45098039215686%"
+         stop-color="#FFCEE0"
+         id="stop1167" />
+      <stop
+         offset="100%"
+         stop-color="#FFFAFC"
+         id="stop1169" />
+    </linearGradient>
+    <filter
+       id="Filter_1"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.33 0"
+         result="result1"
+         id="feColorMatrix1172" />
+    </filter>
+    <filter
+       id="Filter_2"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       color-interpolation-filters="sRGB">
+      <feColorMatrix
+         in="SourceGraphic"
+         type="matrix"
+         values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0.34 0"
+         result="result1"
+         id="feColorMatrix1175" />
+    </filter>
+    <g
+       id="Layer25_0_FILL">
+      <path
+         fill="#c3005b"
+         stroke="none"
+         d="M 477.2,337.15 V 184.05 H 19.1 V 489.2 h 308.3 z"
+         id="path1178" />
+    </g>
+    <g
+       id="RHRE3_Logo_ai_Layer_1__Compound_Path__3_0_Layer0_0_FILL">
+      <path
+         fill="#ff7daf"
+         stroke="none"
+         d="M 427.15,171.85 V 0 H 0 V 303.9 H 301.95 L 427.15,171.85 M 421,6.2 V 171.85 L 302.3,297.75 H 6.15 V 6.2 Z"
+         id="path1181" />
+    </g>
+    <g
+       id="Layer23_0_FILL">
+      <path
+         fill="#8a0e56"
+         stroke="none"
+         d="M 480.75,191.85 V 82.35 L 22.6,82.25 v 109.5 z"
+         id="path1184" />
+    </g>
+    <g
+       id="Mask_22_MASK_0_FILL">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 454.65,325.75 -1.35,-143.8 -417.95,-0.4 2.7,286.6 281.25,0.2 z"
+         id="path1187" />
+    </g>
+    <g
+       id="RHRE3_Logo_ai_Layer_1__Compound_Path__2_0_Layer0_0_FILL">
+      <path
+         fill="#ffffff"
+         fill-opacity="0.27451"
+         stroke="none"
+         d="m -22,0.05 h -2.5 v 265.9 H -22 V 0.05 m 70.05,0 h -2.5 v 265.9 h 2.5 V 0.05 M 161.6,0 h -2.5 v 265.95 h 2.5 V 0 m 69.15,0 h -2.5 v 265.95 h 2.5 z"
+         id="path1190" />
+    </g>
+    <g
+       id="RHRE3_Logo_ai_Layer_1__Compound_Path__1_0_Layer0_0_FILL">
+      <path
+         fill="#ffffff"
+         fill-opacity="0.27451"
+         stroke="none"
+         d="M 348,53.45 V 51 H 0 v 2.45 h 348 m 0,32.95 V 83.9 H 0 v 2.5 z"
+         id="path1193" />
+    </g>
+    <g
+       id="RHRE3_Logo_ai_Layer_1__Compound_Path__1_copy_0_Layer0_0_FILL">
+      <path
+         fill="#ffffff"
+         fill-opacity="0.27451"
+         stroke="none"
+         d="m 0,-57.6 v 2.5 h 414.85 v -2.5 H 0 m 0,-57 v 2.45 h 414.85 v -2.45 z"
+         id="path1196" />
+    </g>
+    <g
+       id="RHRE3_Logo_ai_Layer_1__Path__6_0_Layer0_0_FILL">
+      <path
+         fill="#ffffff"
+         fill-opacity="0.27451"
+         stroke="none"
+         d="m 577.35,-149.7 -4,-0.55 L 272,17.65 272.65,17.7 -24,184.2 l 1.05,1.4 z"
+         id="path1199" />
+    </g>
+    <g
+       id="RHRE3_Logo_ai_Layer_1__Path__5_0_Layer0_0_FILL">
+      <path
+         fill="#ffffff"
+         fill-opacity="0.27451"
+         stroke="none"
+         d="m -266.5,-206 h -3.85 L 0.25,0 H 0 l 270.6,206 v -3.1 L 3.95,0.1 H 4 Z"
+         id="path1202" />
+    </g>
+    <g
+       id="Mask_16_MASK_0_FILL">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 44.1,177.1 V 437.75 H 387.4 V 177.1 Z"
+         id="path1205" />
+    </g>
+    <g
+       id="Thu_Sep_10_2026_17_12_44_GMT_0400__Eastern_Daylight_Time__0_Layer2_0_FILL">
+      <path
+         fill="#ffcee0"
+         stroke="none"
+         d="m 12.4,973.45 q -3.7,0.05 -10.75,1.2 -7.15,1.25 -11.05,2.6 -3.95,1.3 -10.15,4.8 -6.05,3.4 -9.5,6 -3.8,3 -8.25,7.85 -4.55,4.9 -7.2,8.9 -2.4,3.65 -5.55,10.05 -3.1,6.3 -4.3,10.05 -1.1,3.8 -2.15,9.75 -1.05,6.05 -1.35,9.85 -0.3,3.5 0.1,9.8 0.5,6.1 1.15,9.85 0.7,3.7 2.5,9.6 2,6.35 3.75,10.05 1.85,3.9 6.15,10.25 4.15,6.25 6.75,9 2.6,2.75 8.35,7.25 5.8,4.6 9.55,6.7 3.5,2 10.25,4.35 6.45,2.15 10.65,2.9 4.65,0.85 11.05,0.85 6.25,0 10.9,-0.85 4.2,-0.75 10.7,-2.9 6.65,-2.35 10.2,-4.35 3.75,-2.1 9.55,-6.7 5.7,-4.5 8.35,-7.25 2.6,-2.75 6.8,-9 4.2,-6.35 6.1,-10.25 1.7,-3.65 3.7,-10.05 1.8,-5.85 2.55,-9.6 0.65,-3.75 1.1,-9.85 0.45,-6.3 0.15,-9.8 -0.3,-3.75 -1.4,-9.85 -1,-5.75 -2.1,-9.75 -1.2,-3.75 -4.3,-10.05 -3.1,-6.4 -5.55,-10.05 -2.65,-4 -7.2,-8.9 -4.45,-4.85 -8.3,-7.85 -3.45,-2.6 -9.45,-6 -6.2,-3.5 -10.15,-4.8 -3.9,-1.35 -11.05,-2.6 -7,-1.15 -10.6,-1.2 m 351.4,14.6 q -3.45,-2.6 -9.45,-6 -6.2,-3.5 -10.15,-4.8 -3.9,-1.35 -11.05,-2.6 -7,-1.15 -10.6,-1.2 -3.7,0.05 -10.75,1.2 -7.15,1.25 -11.05,2.6 -3.95,1.3 -10.15,4.8 -6.05,3.4 -9.5,6 -3.8,3 -8.25,7.85 -4.55,4.9 -7.2,8.9 -2.4,3.65 -5.55,10.05 -3.1,6.3 -4.3,10.05 -1.1,3.8 -2.15,9.75 -1.05,6.05 -1.35,9.85 -0.3,3.5 0.1,9.8 0.5,6.1 1.15,9.85 0.7,3.7 2.5,9.6 2,6.35 3.75,10.05 1.85,3.9 6.15,10.25 4.15,6.25 6.75,9 2.6,2.75 8.35,7.25 5.8,4.6 9.55,6.7 3.5,2 10.25,4.35 6.45,2.15 10.65,2.9 4.65,0.85 11.05,0.85 6.25,0 10.9,-0.85 4.2,-0.75 10.7,-2.9 6.65,-2.35 10.2,-4.35 3.75,-2.1 9.55,-6.7 5.7,-4.5 8.35,-7.25 2.6,-2.75 6.8,-9 4.2,-6.35 6.1,-10.25 1.7,-3.65 3.7,-10.05 1.8,-5.85 2.55,-9.6 0.65,-3.75 1.1,-9.85 0.45,-6.3 0.15,-9.8 -0.3,-3.75 -1.4,-9.85 -1,-5.75 -2.1,-9.75 -1.2,-3.75 -4.3,-10.05 -3.1,-6.4 -5.55,-10.05 -2.65,-4 -7.2,-8.9 -4.45,-4.85 -8.3,-7.85 z"
+         id="path1208" />
+    </g>
+    <g
+       id="Mask_Thu_Sep_10_2026_17_12_44_GMT_0400__Eastern_Daylight_Time__0_1_MASK_0_FILL">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m -52.85,1074.85 v 274.1 l 435.65,-0.9 v -274.1 z"
+         id="path1211" />
+    </g>
+    <g
+       id="Thu_Sep_10_2026_17_12_44_GMT_0400__Eastern_Daylight_Time__0_Layer1_0_FILL">
+      <path
+         fill="#ffcee0"
+         stroke="none"
+         d="m -68.25,1160.6 q -7.9,6.7 -8.75,17 -0.85,10.3 5.9,18.25 101.6,119.15 183.25,58.45 h -0.05 q 51.3,-34.85 101.05,1.05 v 0.05 q 79.1,62.7 188.15,-58.2 6.9,-7.7 6.4,-18 -0.55,-10.3 -8.2,-17.25 -7.7,-7 -18,-6.45 -10.3,0.5 -17.3,8.2 -73.15,81.05 -121.75,51.15 -77.95,-56.55 -158.45,-1.9 -49.9,29.15 -117.05,-49.55 -6.75,-7.85 -17.05,-8.7 -10.3,-0.85 -18.15,5.9 z"
+         id="path1214" />
+    </g>
+    <g
+       id="Layer14_0_FILL">
+      <path
+         fill="#8a0e56"
+         stroke="none"
+         d="M 477.2,337.15 327.4,337.1 v 152.1 z"
+         id="path1217" />
+    </g>
+    <g
+       id="Symbol_3_copy_0_Layer0_0_FILL">
+      <path
+         fill="#4e004e"
+         stroke="none"
+         d="m 193.5,40.75 q 4.2,-4.1 5.15,-5.8 2.35,-4.3 2.35,-6.8 0,-6.15 -5.45,-13 -8,-8.8 -13.05,-15.15 l -35.6,34.2 0.05,0.15 L 15,162.2 Q 12.55,164.6 7.9,173.05 2.45,183 0,193.1 4.65,192.6 16.65,186.4 27.15,181 29.2,179.2 L 162.85,50.35 172.7,60.3 q 18.5,-17.35 20.8,-19.55 z"
+         id="path1220" />
+    </g>
+    <g
+       id="Symbol_3_0_Layer0_0_FILL">
+      <path
+         fill="#ffe3ed"
+         stroke="none"
+         d="m 193.5,40.75 q 4.2,-4.1 5.15,-5.8 2.35,-4.3 2.35,-6.8 0,-6.15 -5.45,-13 Q 187.55,6.35 181,1 l -34.1,33.2 0.05,0.15 L 15,162.2 Q 12.55,164.6 7.9,173.05 2.45,183 0,193.1 q 4.65,-0.5 16.65,-6.7 10.5,-5.4 12.55,-7.2 l 0.3,-0.3 133.35,-128.55 9.85,9.95 q 18.5,-17.35 20.8,-19.55 z"
+         id="path1223" />
+    </g>
+    <g
+       id="Mask_10_MASK_0_FILL">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 451.95,238.4 q 4.55,-3.7 5.6,-5.35 2.75,-4.05 2.95,-6.5 0.6,-6.15 -4.2,-13.45 -7.2,-9.5 -11.65,-16.3 l -38.5,30.9 v 0.15 L 263.3,343.3 q -2.65,2.2 -8.1,10.2 -6.25,9.4 -9.65,19.25 4.7,-0.1 17.25,-5.2 10.9,-4.4 13.1,-6.05 L 420.55,245.2 429.5,256 q 19.95,-15.65 22.45,-17.6 m 28.8,-46.55 V 82.35 L 22.6,82.25 v 109.5 z"
+         id="path1226" />
+    </g>
+    <g
+       id="Layer10_0_FILL">
+      <path
+         fill="#f2508f"
+         stroke="none"
+         d="M 463,326.25 V 154.4 H 35.85 V 458.3 H 337.8 L 463,326.25 M 456.85,160.6 v 165.65 l -118.7,125.9 H 42 V 160.6 Z"
+         id="path1229" />
+    </g>
+    <g
+       id="Layer8_0_FILL">
+      <path
+         fill="url(#Gradient_1)"
+         stroke="none"
+         d="M 500,201.5 V 0 H 0 v 201.7 z"
+         id="path1232" />
+    </g>
+    <g
+       id="Layer7_0_FILL">
+      <path
+         fill="url(#Gradient_2)"
+         stroke="none"
+         d="M 486.9,171.05 V 31.2 H 13.35 v 139.85 z"
+         id="path1235" />
+    </g>
+    <g
+       id="Mask_Symbol_1_0_3_MASK_0_FILL">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 468,90.25 q -14.7,-17.85 -37.4,-22.3 -22.7,-4.4 -43.05,6.65 -20.3,11.05 -28.95,32.45 -8.65,21.45 -1.7,43.5 6.95,22.05 26.3,34.65 19.4,12.6 42.35,9.95 23,-2.6 39.1,-19.2 l -19.5,-18.8 q -9.3,9.65 -22.65,11.15 -13.3,1.55 -24.55,-5.8 -11.25,-7.3 -15.3,-20.1 -4,-12.75 1,-25.2 5.05,-12.4 16.8,-18.8 11.8,-6.4 24.95,-3.85 13.2,2.55 21.7,12.9 8.55,10.35 8.55,23.75 h 27.05 q 0,-23.1 -14.7,-40.95 z"
+         id="path1238" />
+    </g>
+    <g
+       id="Symbol_1_0_Layer3_0_FILL">
+      <path
+         fill="url(#Gradient_3)"
+         stroke="none"
+         d="M 7.55,192 197.35,170.4 176.3,-14.5 -13.5,7.1 Z"
+         id="path1241" />
+    </g>
+    <g
+       id="Mask_Symbol_1_0_1_MASK_0_FILL">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 183,93.75 164.2,0 85.7,89.7 Z"
+         id="path1244" />
+    </g>
+    <g
+       id="Symbol_1_0_Layer1_0_FILL">
+      <path
+         fill="url(#Gradient_3)"
+         stroke="none"
+         d="M 7.55,192 197.35,170.4 176.3,-14.5 -13.5,7.1 Z"
+         id="path1247" />
+    </g>
+    <g
+       id="Mask_4_MASK_0_FILL">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 89.95,91.05 q 3.65,-1.7 6.65,-4 4.2,-3.3 6.55,-8.35 2.35,-5.05 2.35,-12.3 0,-8.65 -3.95,-14.55 -4,-5.9 -11.35,-8.9 -7.4,-3 -17.45,-3 H 39.1 v 87.6 H 58.75 V 95.9 h 12.9 l 15.95,31.65 h 21.05 v -0.9 L 89.95,91.05 M 58.85,80.8 58.8,56.05 73.7,55.9 q 12.35,1.15 11.8,14 -1,10.6 -10.9,10.9 H 58.85 M 191.15,39.95 H 171.6 V 75.2 H 138.45 V 39.95 H 118.8 v 87.6 h 19.65 v -37.2 h 33.15 v 37.2 h 19.55 v -87.6 m 65.3,51.1 q 3.65,-1.7 6.65,-4 4.2,-3.3 6.55,-8.35 2.35,-5.05 2.35,-12.3 0,-8.65 -3.95,-14.55 -4,-5.9 -11.35,-8.9 -7.4,-3 -17.45,-3 H 205.6 v 87.6 h 19.65 V 95.9 h 12.9 l 15.95,31.65 h 21.05 v -0.9 l -18.7,-35.6 m -31,-10.25 -0.05,-24.75 14.9,-0.15 q 12.35,1.15 11.8,14 -1,10.6 -10.9,10.9 H 225.45 M 338.9,89.9 V 75.2 H 304.95 V 55.15 h 40 V 39.95 H 285.3 v 87.6 h 59.6 V 112.4 H 304.95 V 89.9 Z"
+         id="path1250" />
+    </g>
+    <g
+       id="Layer4_0_FILL">
+      <path
+         fill="url(#Gradient_4)"
+         stroke="none"
+         d="m 346.6,134.4 0.65,-98.45 -313.5,0.2 -0.65,98.4 z"
+         id="path1253" />
+    </g>
+    <path
+       id="Thu_Sep_10_2026_17_12_44_GMT_0400__Eastern_Daylight_Time__0_Layer4_0_1_STROKES"
+       stroke="#ffcee0"
+       stroke-width="50"
+       stroke-linejoin="round"
+       stroke-linecap="square"
+       fill="none"
+       d="m 486.05,867.7 q 0.55,-28.8 6.9,-57 6.1,-27.2 17.1,-52.95 9.3,-21.65 19.9,-42.85 m -34.55,172 q 32.15,23.7 50.05,45.15 17.7,21.2 33.1,44.3 15.45,23.25 27.95,48.3 12.45,24.8 20.7,51.35 8.2,26.55 12.1,53.95 3.9,27.6 3.85,55.45 -0.05,27.55 -4,54.65 -4,27.35 -11.8,53.65 -7.65,25.85 -18.55,50.4 -10.85,24.4 -24.95,47.1 -14.25,23 -31.25,43.9 -17,21 -36.25,39.75 -19.35,18.8 -40.75,35.05 -21.95,16.65 -45.6,30.7 -23.7,14.2 -48.75,25.6 -25.3,11.35 -51.7,19.8 -26,8.45 -52.95,14.05 -26.65,5.7 -53.95,8.4 -18.25,1.95 -36.6,2.35 M 369.45,806 Q 401.19824,737.05391 445.9,672.75 M -157.45,863.3 q -4.15,-37.2 -10.35,-65.55 -6.15,-28.15 -16.8,-55.1 -5.6,-14.15 -12.3,-27.9" />
+    <path
+       id="Thu_Sep_10_2026_17_12_44_GMT_0400__Eastern_Daylight_Time__0_Layer4_0_2_STROKES"
+       stroke="#ffcee0"
+       stroke-width="50"
+       stroke-linejoin="miter"
+       stroke-linecap="square"
+       stroke-miterlimit="3"
+       fill="none"
+       d="M -39.1,806.85 Q -65.770898,747.20918 -105.85,680.5" />
+    <path
+       id="Thu_Sep_10_2026_17_12_44_GMT_0400__Eastern_Daylight_Time__0_Layer4_0_3_STROKES"
+       stroke="#ffcee0"
+       stroke-width="50"
+       stroke-linejoin="miter"
+       stroke-linecap="butt"
+       stroke-miterlimit="3"
+       fill="none"
+       d="M 465.25,685.85 Q 435,660.6 430.7,632 q -4.25,-28.3 10.65,-52.5 14.75,-24.05 39.95,-37 25.4,-12.9 53.85,-9.75 29.1,3.55 52.8,20.9 23.25,17.05 33.6,43.75 10.3,26.6 0.45,53.15 -5.1,13.75 -15.65,24.35 -20.4,20.5 -48.95,26.1 -18.1,3.6 -36.4,5.05 M -122.15,689.2 q 21.8,-22.15 26.1,-48.95 4.3,-27.05 -5.6,-52.4 -8.85,-22.65 -28.65,-36.9 -23.55,-16.85 -52.3,-18.25 -29.15,-0.6 -54.95,12.75 -26,13.5 -41.8,38.15 -15.4,23.9 -10.95,52.35 4.55,28.75 27.4,46.5 15.1,11.7 33.65,16.95 20.9,5.8 42.5,6.85" />
+    <path
+       id="Thu_Sep_10_2026_17_12_44_GMT_0400__Eastern_Daylight_Time__0_Layer4_0_4_STROKES"
+       stroke="#ffcee0"
+       stroke-width="50"
+       stroke-linejoin="round"
+       stroke-linecap="butt"
+       fill="none"
+       d="m 186.05,1610.8 q -111,3.95 -213.55,-38.2 -103.6,-42.5 -176.4,-127.5 -74.2,-86.7 -91.65,-199.55 -17.5,-113.45 30.5,-217.55 42.95,-93.1 118.55,-160.9 M -39.1,806.85 Q 178.55742,710.9707 369.45,806" />
+    <path
+       id="Symbol_3_0_Layer0_0_1_STROKES"
+       stroke="#380032"
+       stroke-width="7"
+       stroke-linejoin="miter"
+       stroke-linecap="square"
+       stroke-miterlimit="3"
+       fill="none"
+       d="M 146.9,34.2 181,1 q 6.55,5.35 14.55,14.15 5.45,6.85 5.45,13 0,2.5 -2.35,6.8 -0.95,1.7 -5.15,5.8 -2.3,2.2 -20.8,19.55 l -9.85,-9.95" />
+    <path
+       id="Symbol_3_0_Layer0_0_2_STROKES"
+       stroke="#380032"
+       stroke-width="7"
+       stroke-linejoin="round"
+       stroke-linecap="square"
+       fill="none"
+       d="M 29.2,179.2 Q 27.15,181 16.65,186.4 4.65,192.6 0,193.1 2.45,183 7.9,173.05 12.55,164.6 15,162.2" />
+    <path
+       id="Symbol_3_0_Layer0_0_3_STROKES"
+       stroke="#380032"
+       stroke-width="7"
+       stroke-linejoin="miter"
+       stroke-linecap="round"
+       stroke-miterlimit="3"
+       fill="none"
+       d="M 29.5,178.9 162.85,50.35 m -15.9,-16 L 15,162.2" />
+  </defs>
+  <g
+     transform="matrix(1.3149146,0,0,1.3149146,4.6022013,-20.249686)"
+     id="g1267">
+    <use
+       xlink:href="#Layer25_0_FILL"
+       id="use1265" />
+  </g>
+  <g
+     transform="matrix(1.3149146,0,0,1.3149146,47.13969,203.02282)"
+     id="g1273">
+    <g
+       id="g1271">
+      <use
+         xlink:href="#RHRE3_Logo_ai_Layer_1__Compound_Path__3_0_Layer0_0_FILL"
+         id="use1269" />
+    </g>
+  </g>
+  <g
+     transform="scale(1.3149146)"
+     id="g1277">
+    <use
+       xlink:href="#Layer23_0_FILL"
+       id="use1275" />
+  </g>
+  <mask
+     id="Mask_Mask_1">
+    <g
+       transform="translate(3.5,-15.4)"
+       id="g1281">
+      <use
+         xlink:href="#Mask_22_MASK_0_FILL"
+         id="use1279" />
+    </g>
+  </mask>
+  <g
+     mask="url(#Mask_Mask_1)"
+     id="g1290"
+     transform="scale(1.3149146)">
+    <g
+       transform="matrix(1,0,0,1.0565338,82.95,173.2)"
+       id="g1288">
+      <g
+         id="g1286">
+        <use
+           filter="url(#Filter_1)"
+           xlink:href="#RHRE3_Logo_ai_Layer_1__Compound_Path__2_0_Layer0_0_FILL"
+           id="use1284" />
+      </g>
+    </g>
+  </g>
+  <g
+     mask="url(#Mask_Mask_1)"
+     id="g1298"
+     transform="scale(1.3149146)">
+    <g
+       transform="translate(41.95,309.85)"
+       id="g1296">
+      <g
+         id="g1294">
+        <use
+           filter="url(#Filter_1)"
+           xlink:href="#RHRE3_Logo_ai_Layer_1__Compound_Path__1_0_Layer0_0_FILL"
+           id="use1292" />
+      </g>
+    </g>
+  </g>
+  <g
+     mask="url(#Mask_Mask_1)"
+     id="g1306"
+     transform="scale(1.3149146)">
+    <g
+       transform="translate(41.95,309.85)"
+       id="g1304">
+      <g
+         id="g1302">
+        <use
+           filter="url(#Filter_1)"
+           xlink:href="#RHRE3_Logo_ai_Layer_1__Compound_Path__1_copy_0_Layer0_0_FILL"
+           id="use1300" />
+      </g>
+    </g>
+  </g>
+  <g
+     mask="url(#Mask_Mask_1)"
+     id="g1314"
+     transform="scale(1.3149146)">
+    <g
+       transform="translate(45.35,242.9)"
+       id="g1312">
+      <g
+         id="g1310">
+        <use
+           filter="url(#Filter_1)"
+           xlink:href="#RHRE3_Logo_ai_Layer_1__Path__6_0_Layer0_0_FILL"
+           id="use1308" />
+      </g>
+    </g>
+  </g>
+  <g
+     mask="url(#Mask_Mask_1)"
+     id="g1322"
+     transform="scale(1.3149146)">
+    <g
+       transform="translate(63.65,245.95)"
+       id="g1320">
+      <g
+         transform="matrix(0.99334717,-0.11508179,0.11508179,0.99334717,-9.55,12.8)"
+         id="g1318">
+        <use
+           filter="url(#Filter_1)"
+           xlink:href="#RHRE3_Logo_ai_Layer_1__Path__5_0_Layer0_0_FILL"
+           id="use1316" />
+      </g>
+    </g>
+  </g>
+  <mask
+     id="Mask_Mask_2">
+    <g
+       id="g1326">
+      <use
+         xlink:href="#Mask_16_MASK_0_FILL"
+         id="use1324" />
+    </g>
+  </mask>
+  <g
+     mask="url(#Mask_Mask_2)"
+     id="g1356"
+     transform="scale(1.3149146)">
+    <g
+       transform="matrix(0.25744629,0,0,0.25744629,143.45,65.5)"
+       id="g1354">
+      <g
+         id="g1337">
+        <use
+           xlink:href="#Thu_Sep_10_2026_17_12_44_GMT_0400__Eastern_Daylight_Time__0_Layer4_0_1_STROKES"
+           id="use1329" />
+        <use
+           xlink:href="#Thu_Sep_10_2026_17_12_44_GMT_0400__Eastern_Daylight_Time__0_Layer4_0_2_STROKES"
+           id="use1331" />
+        <use
+           xlink:href="#Thu_Sep_10_2026_17_12_44_GMT_0400__Eastern_Daylight_Time__0_Layer4_0_3_STROKES"
+           id="use1333" />
+        <use
+           xlink:href="#Thu_Sep_10_2026_17_12_44_GMT_0400__Eastern_Daylight_Time__0_Layer4_0_4_STROKES"
+           id="use1335" />
+      </g>
+      <g
+         id="g1341">
+        <use
+           xlink:href="#Thu_Sep_10_2026_17_12_44_GMT_0400__Eastern_Daylight_Time__0_Layer2_0_FILL"
+           id="use1339" />
+      </g>
+      <mask
+         id="Mask_Mask_3">
+        <g
+           id="g1345">
+          <use
+             xlink:href="#Mask_Thu_Sep_10_2026_17_12_44_GMT_0400__Eastern_Daylight_Time__0_1_MASK_0_FILL"
+             id="use1343" />
+        </g>
+      </mask>
+      <g
+         mask="url(#Mask_Mask_3)"
+         id="g1352">
+        <g
+           id="g1350">
+          <use
+             xlink:href="#Thu_Sep_10_2026_17_12_44_GMT_0400__Eastern_Daylight_Time__0_Layer1_0_FILL"
+             id="use1348" />
+        </g>
+      </g>
+    </g>
+  </g>
+  <g
+     transform="matrix(1.3149146,0,0,1.3149146,4.6022013,-20.249686)"
+     id="g1360">
+    <use
+       xlink:href="#Layer14_0_FILL"
+       id="use1358" />
+  </g>
+  <g
+     transform="matrix(1.3094372,0.11797635,-0.11797635,1.3094372,345.69106,237.27635)"
+     id="g1366">
+    <g
+       id="g1364">
+      <use
+         filter="url(#Filter_2)"
+         xlink:href="#Symbol_3_copy_0_Layer0_0_FILL"
+         id="use1362" />
+    </g>
+  </g>
+  <g
+     transform="matrix(1.3149146,0,0,1.3149146,319.78724,234.58077)"
+     id="g1378">
+    <g
+       id="g1376">
+      <use
+         xlink:href="#Symbol_3_0_Layer0_0_FILL"
+         id="use1368" />
+      <use
+         xlink:href="#Symbol_3_0_Layer0_0_1_STROKES"
+         id="use1370" />
+      <use
+         xlink:href="#Symbol_3_0_Layer0_0_2_STROKES"
+         id="use1372" />
+      <use
+         xlink:href="#Symbol_3_0_Layer0_0_3_STROKES"
+         id="use1374" />
+    </g>
+  </g>
+  <mask
+     id="Mask_Mask_4">
+    <g
+       id="g1382">
+      <use
+         xlink:href="#Mask_10_MASK_0_FILL"
+         id="use1380" />
+    </g>
+  </mask>
+  <g
+     mask="url(#Mask_Mask_4)"
+     id="g1389"
+     transform="scale(1.3149146)">
+    <g
+       id="g1387">
+      <use
+         xlink:href="#Layer10_0_FILL"
+         id="use1385" />
+    </g>
+  </g>
+  <g
+     transform="scale(1.3333334,1.1152176)"
+     id="g1393">
+    <use
+       xlink:href="#Layer8_0_FILL"
+       id="use1391" />
+  </g>
+  <g
+     transform="matrix(1.3149146,0,0,1.3149146,4.6022013,-20.249686)"
+     id="g1397">
+    <use
+       xlink:href="#Layer7_0_FILL"
+       id="use1395" />
+  </g>
+  <g
+     transform="matrix(0.84300924,0.14839338,-0.14839338,0.84300924,483.62561,21.10438)"
+     id="g1421">
+    <mask
+       id="Mask_Mask_5">
+      <g
+         transform="matrix(1.2084351,-0.50628662,0.50628662,1.2084351,-491.05,145.45)"
+         id="g1401">
+        <use
+           xlink:href="#Mask_Symbol_1_0_3_MASK_0_FILL"
+           id="use1399" />
+      </g>
+    </mask>
+    <g
+       mask="url(#Mask_Mask_5)"
+       id="g1408">
+      <g
+         id="g1406">
+        <use
+           xlink:href="#Symbol_1_0_Layer3_0_FILL"
+           id="use1404" />
+      </g>
+    </g>
+    <mask
+       id="Mask_Mask_6">
+      <g
+         id="g1412">
+        <use
+           xlink:href="#Mask_Symbol_1_0_1_MASK_0_FILL"
+           id="use1410" />
+      </g>
+    </mask>
+    <g
+       mask="url(#Mask_Mask_6)"
+       id="g1419">
+      <g
+         id="g1417">
+        <use
+           xlink:href="#Symbol_1_0_Layer1_0_FILL"
+           id="use1415" />
+      </g>
+    </g>
+  </g>
+  <mask
+     id="Mask_Mask_7">
+    <g
+       transform="translate(0,0.9)"
+       id="g1425">
+      <use
+         xlink:href="#Mask_4_MASK_0_FILL"
+         id="use1423" />
+    </g>
+  </mask>
+  <g
+     mask="url(#Mask_Mask_7)"
+     id="g1432"
+     transform="scale(1.3149146)">
+    <g
+       transform="translate(0,0.9)"
+       id="g1430">
+      <use
+         xlink:href="#Layer4_0_FILL"
+         id="use1428" />
+    </g>
+  </g>
+</svg>
