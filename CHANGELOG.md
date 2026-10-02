@@ -1257,3 +1257,13 @@
 
 09/27/2026:
 - Added the RHREfresh Logo in "RHRE (2016)". (Credit: viviancherry)
+
+10/02/2026:
+- Modified the Tranditional Jiézòu Tiānguó: Qíjì Zhī Xīng Repainted Logo in "Custom Logos".
+- Modified the Simplified Jiézòu Tiānguó: Qíjì Zhī Xīng Repainted Logo in "Custom Logos".
+- Modified the Tranditional Jiézòu Tiānguó: Qíjì Zhī Xīng Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Tranditional Tiānguó: Qíjì Zhī Xīng Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Tranditional Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
+- Modified the Simplified Jiézòu Tiānguó: Qíjì Zhī Xīng Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Simplified Tiānguó: Qíjì Zhī Xīng Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Simplified Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
