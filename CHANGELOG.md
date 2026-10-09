@@ -1267,3 +1267,11 @@
 - Modified the Simplified Jiézòu Tiānguó: Qíjì Zhī Xīng Logo in "Rhythm Heaven Groove (2026)".
 - Modified the Simplified Tiānguó: Qíjì Zhī Xīng Icon in "Icons" and "Rhythm Heaven Groove (2026)".
 - Modified the Simplified Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
+
+10/09/2026:
+- Added the Tranditional Jiézòu Tiānguó: Qíjì Zhī Xīng Logo but with 2006 Colors in "Funny, Unique, & Cursed Rhythm Heaven Logos".
+- Added the Simplified Jiézòu Tiānguó: Qíjì Zhī Xīng Logo but with 2006 Colors in "Funny, Unique, & Cursed Rhythm Heaven Logos".
+- Added the Rhythm Cheonguk: Miracle Stars Logo but with 2006 Colors in "Funny, Unique, & Cursed Rhythm Heaven Logos".
+- Added the Rhythm Heaven Groove Logo but with 2006 Colors in "Funny, Unique, & Cursed Rhythm Heaven Logos".
+- Added the Rhythm Paradise Groove Logo but with 2006 Colors in "Funny, Unique, & Cursed Rhythm Heaven Logos".
+- Added the Rhythm Tengoku: Miracle Stars Logo but with 2006 Colors in "Funny, Unique, & Cursed Rhythm Heaven Logos".
