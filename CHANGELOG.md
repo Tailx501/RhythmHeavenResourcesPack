@@ -1275,3 +1275,13 @@
 - Added the Rhythm Heaven Groove Logo but with 2006 Colors in "Funny, Unique, & Cursed Rhythm Heaven Logos".
 - Added the Rhythm Paradise Groove Logo but with 2006 Colors in "Funny, Unique, & Cursed Rhythm Heaven Logos".
 - Added the Rhythm Tengoku: Miracle Stars Logo but with 2006 Colors in "Funny, Unique, & Cursed Rhythm Heaven Logos".
+
+10/14/2026:
+- Updated FontOriginalLatin in the "Custom Fonts" folder in "Fonts".
+- Updated FontOriginalLatinAlt in the "Custom Fonts" folder in "Fonts".
+- Modified the Simplified Jiézòu Tiānguó: Qíjì Zhī Xīng Repainted Logo in "Custom Logos".
+- Modified the Simplified Jiézòu Tiānguó: Qíjì Zhī Xīng Logo but with 2006 Colors in "Funny, Unique, & Cursed Rhythm Heaven Logos".
+- Modified the Go For A Perfect! Wordmark in "Go For A Perfect!".
+- Modified the Simplified Jiézòu Tiānguó: Qíjì Zhī Xīng Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Simplified Tiānguó: Qíjì Zhī Xīng Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Simplified Tiānguó: Qíjì Zhī Xīng Thumbnail in "Thumbnails".
