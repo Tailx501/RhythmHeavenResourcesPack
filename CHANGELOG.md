@@ -1295,3 +1295,6 @@
 
 10/23/2026:
 - Updated FeverHD-MainUIRecreation in the "Custom Fonts" folder in "Fonts". (Credit: Elnelson991)
+
+11/11/2026:
+- Added VDL-LogoG-Heavy in the "VDL" folder in "Fonts".
