@@ -1298,3 +1298,11 @@
 
 11/11/2026:
 - Added VDL-LogoG-Heavy in the "VDL" folder in "Fonts".
+
+11/15/2026:
+- Modified the Rhythm Tengoku: All-Star Mix Logo in "Custom Logos".
+- Modified the Rhythm Tengoku: Miracle Stars Repainted Logo in "Custom Logos".
+- Modified the Rhythm Tengoku: Miracle Stars Logo but with 2006 Colors in "Funny, Unique, & Cursed Rhythm Heaven Logos".
+- Modified the Rhythm Tengoku: Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Tengoku: Miracle Stars Icon in "Icons" and "Rhythm Heaven Groove (2026)".
+- Modified the Rhythm Tengoku: Miracle Stars Thumbnail in "Thumbnails".
