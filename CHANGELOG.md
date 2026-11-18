@@ -1306,3 +1306,6 @@
 - Modified the Rhythm Tengoku: Miracle Stars Logo in "Rhythm Heaven Groove (2026)".
 - Modified the Rhythm Tengoku: Miracle Stars Icon in "Icons" and "Rhythm Heaven Groove (2026)".
 - Modified the Rhythm Tengoku: Miracle Stars Thumbnail in "Thumbnails".
+
+11/18/2026:
+- Added packing-pests in the "Custom Fonts" folder in "Fonts". (Credit: Toothy7564)
