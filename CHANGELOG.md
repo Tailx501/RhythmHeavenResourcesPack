@@ -1312,3 +1312,6 @@
 
 11/19/2026:
 - Removed MWindy HK Bold and MWindy PRC Bold in the "Monotype" folder in "Fonts".
+
+11/26/2026:
+- Added screwbot-factory in the "Custom Fonts" folder in "Fonts". (Credit: Toothy7564)
